@@ -1,0 +1,150 @@
+-
+  id: 100
+  title: "Opening Ceremony"
+  place: "Hall"
+  service: true
+  description: "Welcome!"
+-
+  id: 150
+  title: "Closing Ceremony"
+  place: "Hall"
+  service: true
+  description: "Time to say goodbye"
+-
+  id: 200
+  title: "Lunch Break"
+  place: "Hall"
+  service: true
+  description: "Eating is important!"
+-
+  id: 300
+  title: "Coffee Break"
+  place: "Hall"
+  service: true
+  description: "The best time to mingle (and drink coffee)"
+-
+  id: 350
+  title: "Social Activities"
+  place: "Hall"
+  service: true
+  description: "Get to know your fellow students"
+-
+  id: 400
+  title: "Poster Session"
+  place: "Hall"
+  service: true
+  description: "Looking forward for all student posters!"
+-
+  id: 450
+  title: "Nanopore Workshop"
+  complexity: "Computational"
+  subtype: workshop
+  speakers: [12]
+  description: "In this workshop we will discuss the recent publications in the field of nanopore sequencing technology. We will focus on the ability of nanopore sequencing to detect modified DNA and how it is used in research with an emphasis on SARS-CoV-2 applications. The workshop will start with a short introduction to nanopore sequencing and then will be opened for discussion where participants will be encouraged to ask, discuss, and share their opinion about nanopore sequencing and other related topics."
+-
+  id: 460
+  title: "Nanopore Workshop"
+  complexity: "Computational"
+  subtype: workshop
+  speakers: [14]
+  description: "In this workshop we will discuss the recent publications in the field of nanopore sequencing technology. We will focus on the ability of nanopore sequencing to detect modified DNA and how it is used in research with an emphasis on SARS-CoV-2 applications. The workshop will start with a short introduction to nanopore sequencing and then will be opened for discussion where participants will be encouraged to ask, discuss, and share their opinion about nanopore sequencing and other related topics."
+-
+  id: 475
+  title: "Robotics Workshop"
+  complexity: "Computational"
+  subtype: workshop
+  speakers: [13]
+  description: "Do many boring robots make for an interesting collective? Let’s explore\nIn this 5-hour two-part workshop we will simulate a collective of simple robots in a two-dimensional world, and then observe the recorded simulations through the lens of typical particle analysis techniques.\nIn the first part, we will explore emergent behavior in a collective of shape-changing two-dimensional “robots”. We will program a 2d physics simulator, play with various gaits and investigate the effect of various parameters like density and friction.\nIn the second part, we will go over several analysis methods typically used for particle analysis. We will briefly discuss the methods’ uses and limitations. Time-permitting, we will calculate trajectory-length, mean square displacement, as well as static and dynamic scattering.\nSome math will be involved, but implementation instructions will be very explicit. Programming will be done in python.\nThe workshop is mostly recommended for people interested in particle analysis methods, or if your idea of fun involves a Fourier transform."
+-
+  id: 503
+  title: "Lunch Break"
+  place: "Dining room"
+  service: true
+-
+  id: 012 #amelie
+  title: "DNA Origami and DNA Origami Silica Hybrid Materials – Building tiny objects with the molecule of life"
+  description: "DNA nanotechnology allows for the bottom-up synthesis of nanometer-sized objects with high precision and selective addressability due to the programmable hybridization of complementary DNA strands via Watson-Crick base pairing. The introduction of DNA origami1, where a long circular scaffold strand is folded into different shapes through the addition of short synthetic staple oligonucleotides, has resulted in a plethora of objects of different shapes and sizes, many of which have been site-specifically modified with a variety of functional moieties such as proteins or nanoparticles.2, 3 Potential fields of applications of these DNA nano-objects range from plasmonic metamaterials to nanomedicine. Fueled by the dream of Ned Seeman, the founder of DNA nanotechnology, we used DNA origami structures to build micron-sized 3D rhombohedral lattices with co-crystalized guest molecules to allow for their structural analysis and for potential metamaterials applications. We also utilized the ability of precise ligand arrangement on DNA origami to study important ligand-receptor  interactions critical for cytotoxic T-cell induced apoptosis signal initiation in cancer cells.4 DNA origami proved to be an excellent tool to study such interactions extracellularly. However, many attempts to explore potential real-life applications of DNA origami, especially intracellularly, have faced the trouble of its inherent instability in non-aqueous conditions or those commonly met within biological environments. By encapsulating DNA origami in a protective silica shell using sol–gel chemistry, we could show that their mechanical resilience can be increased tremendously, opening up new avenues for use of DNA origami – Silica hybrid nanostructures in biomedicine and materials science applications."
+  subtype: presentation
+  speakers: [4]
+-
+  id: 021 #Haim
+  title: "Controlling ultrafast optical interactions at the nano scale"
+  description: "Remarkable breakthroughs in science throughout history are inherently linked to advances in the study of light-matter interactions. The understanding of new physical concepts and the development of novel optical tools were the driving forces behind ground-breaking multi-disciplinary discoveries in a variety of research fields. For the past two decades we have witnessed major advances in nano-optics and ultrafast physics, allowing for the exploration of phenomena in higher spatial and temporal resolution than ever before. In my talk, I will present recent achievements of observation and control of ultrafast phenomena at the nanoscale. In particular, I will share our recent achievements in combining ultrabroadband sources with our scattering near field microscope allowing observation of the ultrafast transient dynamics of plasmonic systems and in multilayer WSe2. Also, I will share experimental demonstration of coherent control of the nonlinear response of nonlinear optical generation in resonant nanostructures beyond the weak-ﬁeld regime. If time allows, I will share our recent applications in mid-IR broadband imaging, via adiabatic nonlinear upconversion method that has been developed in my lab. The method allows to uniquely identify materials by their infrared signature, rather to only capturing the cumulative thermal distribution, which is critical for spectral night vision cameras, medical and metallurgy imaging."
+  subtype: presentation
+  speakers: [8]
+-
+  id: 022 #nisim
+  title: "The big potential of the small nano-vesicles"
+  description: "Targeted drug delivery is one of the greatest challenges for both neurology and neuropsychiatry. Since the brain is such a complex system, there is a huge need to develop not only the correct drug to treat brain disorders, but also an effective way to deliver this drug to the right location and mainly there. This to prevent side effects and ineffective treatments. Within the different therapeutic approaches, the field of stem cells medicine was found effective in promoting neurogenesis and regeneration in the brain tissue, thus contributing to neurological therapies. Yet, the mechanism underlies this treatment remains unknown. During the recent decade, it became clear that exosomes, small nanovesicles secreted by stem cells, are the main mediators of the therapeutic effect. We found that exosomes secreted from mesenchymal stem cells have remarkable ability to migrate and be uptake by neurons in damaged areas in the brain. Furthermore, in several mice models of psychiatric and neurological disorders, the exosomes presented remarkable therapeutic abilities. Our finding suggests that exosomes carries the potential of being both agents for targeted drug delivery as well as therapeutic vesicles by themselves."
+  subtype: presentation
+  speakers: [9]
+-
+  id: 001 #NOAM
+  title: "How to give a powerful scientific presentation"
+  description: "This lecture will go over how to give a powerful and convincing scientific presentation (short and long); the basic ‘Do's and Don’ts’ when giving a scientific lecture; what to place emphasis on; how to explain complex scientific figures; how to leave an impression on your audience; how to turn your short lecture into a poster presentation; and what will make the listeners remember your message."
+  subtype: keynote
+  speakers: [2]
+-
+  id: 031 #LIOR
+  title: "Alpha-DaRT: breakthrough technology in radiation therapy"
+  description: "The aim of radiation therapy is to maximize the dose to the tumor while minimizing the dose to healthy tissue. Collateral damage to adjacent organs inevitably limits the tumor dose, which often leads to local recurrence of the disease and precludes re-irradiation. Even in the absence of tumor recurrence, healthy tissue irradiation regularly results in severe side effects with major impact on the patient’s quality of life. Alpha particles could, in principle, be the ideal tool for radiation therapy. They are deadly to cancer cells: a single alpha particle hit to a cell’s nucleus can lead to its death with high probability, and unlike electrons, their effect is insensitive to biological conditions which increase the resistance of cells to conventional radiation. Their short range in tissue – only a few tens of microns – can guarantee that nearby healthy organs are spared. However, this very same property has so far prevented their use in the treatment of solid, macroscopic, tumors, because no practical way has been found to effectively cover the entire tumor volume with alpha emitting atoms. Diffusing Alpha-emitters Radiation Therapy (‘Alpha DaRT’) is a new idea, which enables – for the first time - the treatment of solid tumors by alpha particles. The basic principle is to insert into the tumor an array of implantable sources, whose surface is embedded with a low activity of radium‑224 at a depth of a few nm. Each source continuously emits into the tumor a chain of short-lived alpha emitting atoms (progeny of radium) which spread by diffusion and convection over several mm around it, creating a continuous ‘kill region’ of high alpha-particle dose. After many years of basic work on the technology and associated physics, as well as an extensive campaign of preclinical studies in mice, Alpha DaRT has recently entered clinical trials. First results, on non-resectable tumors which have already failed radiation, are remarkable, with dramatic response and negligible side effects. This talk outlines Alpha DaRT’s basic principle, physics and safety, presents the status of current clinical trials and discusses its planned application in future ones."
+  subtype: presentation
+  speakers: [7]
+-
+  id: 032 #Chase
+  title: "Cells in a tight spot: Learning the stochastic dynamics and cell-cell interactions of confined cell migration from data"
+  description: "In many biological phenomena, cells migrate through confining environments. However, a quantitative framework to describe the stochastic dynamics of cell migration in confining environments remains elusive. We employ a data-driven approach to infer the dynamics of cell movement, morphology and interactions of cells confined in micropatterns. By inferring a stochastic equation of motion directly from the experimentally determined short time-scale dynamics, we show that cells exhibit intricate non-linear deterministic dynamics that adapt to the geometry of confinement. This approach reveals that different cell lines exhibit distinct classes of dynamical systems, ranging from bistable to limit cycle behavior. We extend this approach to interacting systems, by tracking the repeated collisions of confined pairs of cells. By inferring an interacting equation of motion for this system, we find that non-cancerous MCF10A cells exhibit repulsive and frictional interactions. In contrast, cancerous MDA-MB-231 cells exhibit attraction and a novel and surprising anti-friction interaction, causing cells to accelerate upon collision. Based on the inferred interactions, we show how our framework may generalize to provide a unifying theoretical description of diverse cellular interaction behaviors. Finally, I will discuss the collective dynamics of many cells migrating in curved confining geometries. Our framework could provide an important tool to characterize the system-level migratory dynamics of cells, biomolecular perturbations of the cellular migration and interaction machinery, and can be extended to describe more complex, collective migration processes."
+  subtype: presentation
+  speakers: [3]
+-
+  id: 041 #BEN MAOZ
+  title: "Organs-On-a-Chip: A New Tool for the Study of Human Physiology"
+  description: "Micro-engineered cell culture models, termed Organs-on-Chips, have emerged as a new tool to recapitulate human physiology and drug responses. Multiple studies and research programs have shown that Organs-on-Chips can capture the multicellular architectures, vascular-parenchymal tissue interfaces, chemical gradients, mechanical cues, and vascular perfusion of the body. Accordingly, these models can reproduce tissue and organ functionality and mimic human disease states to an extent thus far unattainable with conventional 2D or 3D culture systems. In this talk, we will present two approaches of using this technology. The first, will demonstrate how drug can be tested by linking of 8 human-Organ-on-a-Chip and showing results that are comparable to clinical data. Furthermore, we demonstrate how to exploit the micro-engineering technology in a novel system-level approach to decompose the integrated functions of the neurovascular unit into individual cellular compartments, while retaining their paracellular metabolic coupling. Using individual, fluidically-connected chip units, we have created a system that models influx and efflux functions of the brain vasculature and the metabolic interaction with the brain parenchyma. This model reveals a previously unknown role of the brain endothelium in neural cell metabolism: In addition to its well-established functions in metabolic transport, the brain endothelium secretes metabolites that are directly utilized by neurons. This discovery would have been impossible to achieve using conventional in vitro or in vivo measurements."
+  subtype: presentation
+  speakers: [6]
+# -
+#   id: 042
+#   title: "Session 3"
+#   description: ""
+#   subtype: presentation
+#   speakers: [10]
+-
+  id: 043 #OMAR
+  title: "A disordered protein that acts like a paper ball: Glassy dynamics and memory effects at the nanoscale"
+  description: "Disordered proteins display an intriguing mix of entropic freedom and weak transient interactions that underlie their biological roles. Motivated to understand that interplay, we carried out single-molecule force spectroscopy measurements on a model disordered protein construct, particularly measuring the nanoscale mechanical response of the construct to changes in applied force. Unexpectedly, we found that the construct displays glassy behavior: a one-step change in the applied force leads to an extremely slow, logarithmic response in the chain extension. Further, the disordered chain exhibits a distinct memory effect (the Kovacs effect), in which the chain ‘remembers’ changes in force that occurred tens of seconds prior. To figure out what was going on, we turned to recent studies that showed similar dynamics in a completely different system—the glassy behavior of crumpled paper balls. I will discuss how the insight from crumpled paper gave us clues into the molecular processes at work in the protein system, ultimately revealing that the mechanisms of glassy kinetics in the disordered chain differ from those typically invoked to explain glassy behavior in structured proteins."
+  subtype: presentation
+  speakers: [11]
+-
+  id: 044 #Nathalie
+  title: "Surface Enhanced Raman Scattering (SERS) sensors for the detection of pollutant in water"
+  description: "Raman scattering is a well-known analytical chemistry technique where the light is scattered by the 
+vibrating bounds of a molecule. As so it gives a molecular fingerprint of a specific compound. However, 
+Raman scattering is not a very sensitive technique. To circumvent this drawback, it is possible to take 
+advantage of the optical properties of metallic nanoparticles (NP). When exposed to light, coherent 
+oscillations of the free electron gas are taking place on the NP. These so-called Localized Surface 
+Plasmon (LSP) create an electromagnetic field which is the basis of the near field enhancement of 
+Raman scattering. This electromagnetic effect is responsible for an enhancement factor that can be as 
+high as 108. 
+<br>Another effect, the chemical effect, has a weaker contribution to the Raman scattering 
+enhancement. Its origin is discussed among the community but is probably based on the shifting of the 
+molecules energy levels when it is bound to the NP surface.<br>
+In this talk we will focus on the use of SERS substrate for the detection of pollutant in water. We will 
+present results concerning hydrophobic and hydrophilic compounds. The first are organic molecules, 
+consisting of two or more fused aromatic rings known as polycyclic aromatic hydrocarbons (PAHs).
+This group of compounds have received considerable attention due their toxicity and carcinogenicity.
+The hydrophilic compound that we have worked on is paracetamol. This is the most used drug around 
+the world and as so it is highly found in waste waters. However, in order to study its impact on the 
+marine environment it is first needed to be able to quantify its presence.<br>
+Obviously, these two classes of pollutants do not present the same issues in terms of sensing. In the first 
+case it is important to reach a very low limit of detection when the quantification and the specificity are 
+the key for the hydrophilic pollutants. We will present the strategy of surface functionalization we have 
+adopted in both case that include the use of Molecular Imprinted Polymers (MIP) for the detection of 
+paracetamol and the exploitation of − stacking for the detection of naphthalene, fluoranthene and 
+benzo[A]pyrene.<br>
+In the last part of the talk, I will show how the nanostructured surface can play an active role in the 
+functionalization. We have recently demonstrated that the LSP can support chemical reactions such as 
+the well-known click chemistry thiol-ene reaction. It is even possible to go further and to perform a 
+different functionalization on different direction of a nanostructure by taking advantage of the light 
+polarization"
+  subtype: presentation
+  speakers: [10]

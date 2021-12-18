@@ -1,0 +1,10 @@
+- {
+   	startTime: "16:00",
+   	endTime: "18:30",
+   	sessionIds: [450]
+  }
+- {
+   	startTime: "16:00",
+   	endTime: "18:30",
+   	sessionIds: [475]
+  }

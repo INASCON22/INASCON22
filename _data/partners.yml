@@ -1,0 +1,26 @@
+- 
+  group: "General sponsor"
+  elements: 
+#    - {name: "Tel Aviv University Center for Nanoscience and Nanotechnology", description: "Tel Aviv University Center for Nanoscience and Nanotechnology", link: "https://nano.tau.ac.il/", imageUrl: "tau_logo.svg"}
+#    - {name: "CECAM Israel", description: "CECAM Israel", link: "http://www3.tau.ac.il/cecam/", imageUrl: "cecam.png"}
+# - 
+#   group: "With support of"
+#   elements: 
+#     - {name: "Tel Aviv University", description: "Tel Aviv University", link: "https://www.tau.ac.il/", imageUrl: "tau_logo.svg"}
+#     # - {name: "GDG Tel Aviv", description: "GDG Tel Aviv - Open and volunteer geek community", link: "http://Tel Aviv.gdg.org.ua", imageUrl: "gdg-Tel Aviv.svg", width: "120px"}
+#     # - {name: "GDG[x]", description: "GDG[x] - Yeah, we can fix that", link: "https://github.com/gdg-x", imageUrl: "gdg-x.svg", width: "120px"}
+- 
+  group: "Information partners"
+  elements: 
+#    - {name: "Tel Aviv University Center for Nanoscience and Nanotechnology", description: "Tel Aviv University Center for Nanoscience and Nanotechnology", link: "https://nano.tau.ac.il/", imageUrl: "tau_logo.svg"}
+#    - {name: "CECAM Israel", description: "CECAM Israel", link: "http://www3.tau.ac.il/cecam/", imageUrl: "cecam.png"}
+#    - {name: "Tel Aviv University", description: "Tel Aviv University", link: "https://www.tau.ac.il/", imageUrl: "tau_logo.svg"}
+    # - {name: "Google", description: "Google", link: "https://www.google.com.ua/intl/en/about/", imageUrl: "google.svg"}
+    # - {name: "GDG Tel Aviv", description: "GDG Tel Aviv - Open and volunteer geek community", link: "http://Tel Aviv.gdg.org.ua", imageUrl: "gdg-Tel Aviv.svg"}
+    # - {name: "GDG[x]", description: "GDG[x] - Yeah, we can fix that", link: "https://github.com/gdg-x", imageUrl: "gdg-x.svg"}
+    # - {name: "Google", description: "Google", link: "https://www.google.com.ua/intl/en/about/", imageUrl: "google.svg"}
+    # - {name: "GDG Tel Aviv", description: "GDG Tel Aviv - Open and volunteer geek community", link: "http://Tel Aviv.gdg.org.ua", imageUrl: "gdg-Tel Aviv.svg"}
+    # - {name: "GDG[x]", description: "GDG[x] - Yeah, we can fix that", link: "https://github.com/gdg-x", imageUrl: "gdg-x.svg"}
+    # - {name: "Google", description: "Google", link: "https://www.google.com.ua/intl/en/about/", imageUrl: "google.svg"}
+    # - {name: "GDG Tel Aviv", description: "GDG Tel Aviv - Open and volunteer geek community", link: "http://Tel Aviv.gdg.org.ua", imageUrl: "gdg-Tel Aviv.svg"}
+    # - {name: "GDG[x]", description: "GDG[x] - Yeah, we can fix that", link: "https://github.com/gdg-x", imageUrl: "gdg-x.svg"}

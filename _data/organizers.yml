@@ -1,0 +1,9 @@
+- 
+  group: "Main organizer"
+  elements: 
+    - {name: "INASCON 2022", description: "INASCON 2022", link: "https://inascon.org", imageUrl: "Logo-inascon.png"}
+- 
+  group: "Co-organizers"
+  elements: 
+    - {name: "LMU", description: "LMU", link: "https://www.lmu.de/", imageUrl: ""}
+#    - {name: "TUM", description: "TUM", link: "https://www.tum.de/", imageUrl: ""}
