@@ -42,7 +42,7 @@
                 {% for member in site.data.team %}{% if member.subTeam != null %}
                 <div class="col-sm-4">
                     <div class="team-member">
-                        <img src="assets/images/people/{{ member.thumbnailUrl }}" class="img-circle"
+                        <img src="{{ site.baseurl }}assets/images/people/{{ member.thumbnailUrl }}" class="img-circle"
                             alt="">
                         <h4>{{ member.name }} <span> {{ member.surname }}</span></h4>
                         <h5>{{ member.title }}</h5>
