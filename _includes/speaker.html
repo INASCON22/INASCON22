@@ -1,4 +1,4 @@
-<!-- Begin Team List-->
+<!-- Begin Speaker List-->
 
 <section id="team" class="team">
     <div class="content-wrapper">
@@ -13,8 +13,10 @@
                 {% for member in site.data.speaker %}
                 <div class="col-sm-4">
                     <div class="team-member">
+                        <a href="{{member.website}}">
                         <img src="{{ site.baseurl | append: 'assets/images/speaker/' | append: speaker.thumbnailUrl }}" class="img-circle"
                             alt="">
+                        </a>
                         <h4>{{ member.title }} <span> {{ member.surname }} </span>  <span> {{ member.name }} </span></h4>
                         <h5>{{ member.affiliation }}</h5>
                         <ul class="list-inline social-buttons">

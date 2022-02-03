@@ -114,37 +114,3 @@
   description: "Disordered proteins display an intriguing mix of entropic freedom and weak transient interactions that underlie their biological roles. Motivated to understand that interplay, we carried out single-molecule force spectroscopy measurements on a model disordered protein construct, particularly measuring the nanoscale mechanical response of the construct to changes in applied force. Unexpectedly, we found that the construct displays glassy behavior: a one-step change in the applied force leads to an extremely slow, logarithmic response in the chain extension. Further, the disordered chain exhibits a distinct memory effect (the Kovacs effect), in which the chain ‘remembers’ changes in force that occurred tens of seconds prior. To figure out what was going on, we turned to recent studies that showed similar dynamics in a completely different system—the glassy behavior of crumpled paper balls. I will discuss how the insight from crumpled paper gave us clues into the molecular processes at work in the protein system, ultimately revealing that the mechanisms of glassy kinetics in the disordered chain differ from those typically invoked to explain glassy behavior in structured proteins."
   subtype: presentation
   speakers: [11]
--
-  id: 044 #Nathalie
-  title: "Surface Enhanced Raman Scattering (SERS) sensors for the detection of pollutant in water"
-  description: "Raman scattering is a well-known analytical chemistry technique where the light is scattered by the 
-vibrating bounds of a molecule. As so it gives a molecular fingerprint of a specific compound. However, 
-Raman scattering is not a very sensitive technique. To circumvent this drawback, it is possible to take 
-advantage of the optical properties of metallic nanoparticles (NP). When exposed to light, coherent 
-oscillations of the free electron gas are taking place on the NP. These so-called Localized Surface 
-Plasmon (LSP) create an electromagnetic field which is the basis of the near field enhancement of 
-Raman scattering. This electromagnetic effect is responsible for an enhancement factor that can be as 
-high as 108. 
-<br>Another effect, the chemical effect, has a weaker contribution to the Raman scattering 
-enhancement. Its origin is discussed among the community but is probably based on the shifting of the 
-molecules energy levels when it is bound to the NP surface.<br>
-In this talk we will focus on the use of SERS substrate for the detection of pollutant in water. We will 
-present results concerning hydrophobic and hydrophilic compounds. The first are organic molecules, 
-consisting of two or more fused aromatic rings known as polycyclic aromatic hydrocarbons (PAHs).
-This group of compounds have received considerable attention due their toxicity and carcinogenicity.
-The hydrophilic compound that we have worked on is paracetamol. This is the most used drug around 
-the world and as so it is highly found in waste waters. However, in order to study its impact on the 
-marine environment it is first needed to be able to quantify its presence.<br>
-Obviously, these two classes of pollutants do not present the same issues in terms of sensing. In the first 
-case it is important to reach a very low limit of detection when the quantification and the specificity are 
-the key for the hydrophilic pollutants. We will present the strategy of surface functionalization we have 
-adopted in both case that include the use of Molecular Imprinted Polymers (MIP) for the detection of 
-paracetamol and the exploitation of − stacking for the detection of naphthalene, fluoranthene and 
-benzo[A]pyrene.<br>
-In the last part of the talk, I will show how the nanostructured surface can play an active role in the 
-functionalization. We have recently demonstrated that the LSP can support chemical reactions such as 
-the well-known click chemistry thiol-ene reaction. It is even possible to go further and to perform a 
-different functionalization on different direction of a nanostructure by taking advantage of the light 
-polarization"
-  subtype: presentation
-  speakers: [10]

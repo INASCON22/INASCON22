@@ -8,6 +8,7 @@
   thumbnailUrl: CSKley.png
   affiliation: Fritz Haber Institute, Helmholtz Zentrum Berlin für Materialien und Energie 
 #  rockstar: true
+  website: https://www.helmholtz-berlin.de/forschung/oe/ce/photo-electrocatalysis/index_en.html 
   ribbon: 
     - {abbr: "Fritz Haber Institute", title: "Nanoscale Operando CO2 Photo - Electrocatalysis", url: "https://www.helmholtz-berlin.de/forschung/oe/ce/photo-electrocatalysis/index_en.html"}  
     - {abbr: "Helmholtz Zentrum Berlin für Materialien und Energie", title: "Nanoscale Operando CO2 Photo - Electrocatalysis", url: "https://www.helmholtz-berlin.de/forschung/oe/ce/photo-electrocatalysis/index_en.html"}  

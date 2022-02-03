@@ -1,73 +1,53 @@
-<!-- Begin Team List-->
-
-<section id="team" class="team">
+<!-- Begin Schedule Section -->
+<section id="schedule" class="schedule">
     <div class="content-wrapper">
-        <div class="col-lg">
-            <h3>{{ site.teamBlockTitle }}</h3>
-            <p class="text-left animated hiding" >{{ site.aboutUs }}</p>
-        </div>
-        <div class="col-lg text-center">
-            <ul class="list-inline">
-                {% for element in organizer.elements %}
-                <li {% if element.width != null %}style="width: {{ element.width }};"{% endif %}>
-                    <a href="{{ element.link }}" target="_blank">
-                        <img src="{{ site.baseurl }}assets/images/organizers/{{ element.imageUrl }}" title="{{ element.description }}" alt="{{ element.name }}">
-                    </a>
-                </li>
-                {% endfor %}
-            </ul>
+        <div class="row">
+            {% for day in site.data.schedule %}
+            <div class="col-schedule">
+                <h5 class="track-header-title">{{day.dateReadable}}</h5>
+                {% for slot in day.timeslots %}
+                <div class="schedule-table">
+                    <div class="row">
+                        <div class="col-session">
 
-            <h4 class="text-left col-team" data-animation="fadeInUp" data-delay="0">Organizers</h4>
-            {% for teamMember in site.data.team %} {% if teamMember.team != null %}
-            <div class="effect-wrapper col-team col-lg col-lg col-lg cols-centered">
-                <div class="zoe-effect" data-toggle="modal" data-target="#speakerDetail-{{ teamMember.id }}">
-                    <figure class="waves-effect waves-block waves-light" style="background-image: url({{ site.baseurl | append: 'assets/images/people/' | append: teamMember.thumbnailUrl }})">
-                        <div class="overlay solid-overlay"></div>
-                        <figcaption>
-                            <div class="col-lg col-lg text-left">
-                                <h2 class="name">{{ teamMember.name }} <span>{{ teamMember.surname }}</span></h2>
-                                <div class="clearfix"></div>
-                                <span class="position">{{ teamMember.title }}</span>
-                            </div>
-                            {% for social in teamMember.social %}
-                            <a href="{{ social["link"] }}" target="_blank">
-                                <svg class="icon icon-{{ social["name"] }}" viewBox="0 0 30 32">
-                                    <use xlink:href="{{ site.baseurl }}img/sprites/sprites.svg#icon-{{ social["name"] }}"></use>
-                                </svg>
-                            </a>
-                            {% endfor %}
-                        </figcaption>
-                    </figure>
+                            <h4> {{ slot.startTime }}</h4>
+
+                            <h4> {{ slot.endTime }}</h4>
+                        </div>
+                        <div class="col-session">
+                            <h4>{{slot.description}}</h4>
+                        </div>
+                    </div>
+                </div>
+                {% endfor %}
+            </div>
+            {% endfor %}
+        </div>
+        {% for day in site.data.schedule %}
+        <div class="schedule-table">
+            <div class="timeslot track-header stick-header">
+                <h5 class="track-header-title">{{day.dateReadable}}</h5>
+            </div>
+            {% for timeslot in day.timeslots %}
+            <div class="timeslot col-sm-4">
+                <div class="timeslot-label">
+                    <time class="start-time" itemprop="startDate"
+                        datetime="{{ day.dateReadable }}T{{ timeslot.startTime }}">
+                        {% assign startTime = timeslot.startTime | split: ":" %}
+                        {{ startTime[0] }}<span>{{ startTime[1] }}</span>
+                    </time>
+                    <time class="end-time" itemprop="endDate" datetime="{{ day.dateReadable }}T{{ timeslot.endTime }}">
+                        {% assign endTime = timeslot.endTime | split: ":" %}
+                        {{ endTime[0] }}<span>{{ endTime[1] }}</span>
+                    </time>
+                </div>
+                <div class="slot col-sm-4">
+                    {{timeslot.sessionIds}}
                 </div>
             </div>
-            {% endif %} {% endfor %}
+            {% endfor %}
         </div>
-        <div class="col-lg text-center">
-            <h4 class="text-left col-team" data-animation="fadeInUp" data-delay="0">Advisory Board</h4>
-            {% for teamMember in site.data.team %} {% if teamMember.subTeam != null %}
-            <div class="effect-wrapper col-team col-lg col-lg col-lg cols-centered">
-                <div class="zoe-effect" data-toggle="modal" data-target="#speakerDetail-{{ teamMember.id }}">
-                    <figure class="waves-effect waves-block waves-light" style="background-image: url({{ site.baseurl | append: 'assets/images/people/' | append: teamMember.thumbnailUrl }})">
-                        <div class="overlay solid-overlay"></div>
-                        <figcaption>
-                            <div class="col-lg col-lg text-left">
-                                <h2 class="name">{{ teamMember.name }} <span>{{ teamMember.surname }}</span></h2>
-                                <div class="clearfix"></div>
-                                <span class="position">{{ teamMember.title }}</span>
-                            </div>
-                            {% for social in teamMember.social %}
-                            <a href="{{ social["link"] }}" target="_blank">
-                                <svg class="icon icon-{{ social["name"] }}" viewBox="0 0 30 32">
-                                    <use xlink:href="{{ site.baseurl }}img/sprites/sprites.svg#icon-{{ social["name"] }}"></use>
-                                </svg>
-                            </a>
-                            {% endfor %}
-                        </figcaption>
-                    </figure>
-                </div>
-            </div>
-            {% endif %} {% endfor %}
-        </div>
+        {% endfor %}
     </div>
 </section>
-<!-- End Team List -->
+<!-- End Schedule Section -->
