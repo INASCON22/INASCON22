@@ -26,6 +26,11 @@
     line-height: 28px;
     margin-left: 48px
 }
+.schedule-border {
+  border-color: rgb(255, 255, 255);
+border-width: 5px;
+border-style: solid;
+}
 
 .schedule .speaker-position {
     color: #555;
@@ -36,7 +41,9 @@
 }
 
 .schedule-table {
-    margin-bottom: 90px
+    margin-bottom: 90px;
+    color:rgba(190, 46, 46, 0.15);
+
 }
 
 .schedule-table-heading {
@@ -104,10 +111,10 @@
 
 .slot-title,
 .track-header-title {
-    font-size: 22px;
+    font-size: 50px;
     font-weight: 300;
     margin: 0;
-    padding-right: 20px
+    padding-right: 20%;
 }
 
 .track-header-slot,
@@ -145,12 +152,13 @@
 }
 .col-schedule {
   position: center;
-  width: 60%;
-  padding: 10%;
+  width: 25%;
+  padding: 2%;
+  color:rgba(190, 46, 46, 0.15);
 }
 .col-session{
   width: 20%;
-  postion: center;
-  padding: 10%;
+  position: center;
+  padding: 20%;
 }
 }

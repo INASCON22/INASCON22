@@ -20,8 +20,10 @@
      - {
      	startTime: "11:15",
      	endTime: "12:00",
-     	sessionIds: [012],
-       description: "blablaba"
+      speaker: "TBA",
+      title: "TBA",
+      description: "TBA",
+      session: "TBA"
      }
      - {
      	startTime: "12:00",

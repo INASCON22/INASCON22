@@ -4,18 +4,19 @@
         <div class="row">
             {% for day in site.data.schedule %}
             <div class="col-schedule">
-                <h5 class="track-header-title">{{day.dateReadable}}</h5>
+                <h3 class="track-header-title">{{day.dateReadable}}</h3>
                 {% for slot in day.timeslots %}
-                <div class="schedule-table">
+                <div class="schedule-table schedule-border">
                     <div class="row">
                         <div class="col-session">
 
-                            <h4> {{ slot.startTime }}</h4>
+                            <h4 class = "start-time"> {{ slot.startTime }}</h4>
 
-                            <h4> {{ slot.endTime }}</h4>
+                            <h4 class = "end-time"> {{ slot.endTime }}</h4>
                         </div>
                         <div class="col-session">
-                            <h4>{{slot.description}}</h4>
+                            <h4>{{slot.speaker}}<span>: </span><span>{{slot.title}}</span></h4>
+                            <h5>{{slot.description}}</h5>
                         </div>
                     </div>
                 </div>
@@ -23,31 +24,6 @@
             </div>
             {% endfor %}
         </div>
-        {% for day in site.data.schedule %}
-        <div class="schedule-table">
-            <div class="timeslot track-header stick-header">
-                <h5 class="track-header-title">{{day.dateReadable}}</h5>
-            </div>
-            {% for timeslot in day.timeslots %}
-            <div class="timeslot col-sm-4">
-                <div class="timeslot-label">
-                    <time class="start-time" itemprop="startDate"
-                        datetime="{{ day.dateReadable }}T{{ timeslot.startTime }}">
-                        {% assign startTime = timeslot.startTime | split: ":" %}
-                        {{ startTime[0] }}<span>{{ startTime[1] }}</span>
-                    </time>
-                    <time class="end-time" itemprop="endDate" datetime="{{ day.dateReadable }}T{{ timeslot.endTime }}">
-                        {% assign endTime = timeslot.endTime | split: ":" %}
-                        {{ endTime[0] }}<span>{{ endTime[1] }}</span>
-                    </time>
-                </div>
-                <div class="slot col-sm-4">
-                    {{timeslot.sessionIds}}
-                </div>
-            </div>
-            {% endfor %}
-        </div>
-        {% endfor %}
     </div>
 </section>
 <!-- End Schedule Section -->
