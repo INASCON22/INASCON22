@@ -1,6 +1,6 @@
 # site settings
 title: INASCON
-subtitle: 2022
+subtitle: 2022 
 email: info@inascon2022.com
 description: 
 baseurl: "/" # the subpath of your site, e.g. /blog
@@ -15,7 +15,7 @@ country: Germany
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
-tiles-count: 6
+tiles-count: 5
 
 # social settings (key must match name of font awesome icon)
 # see https://fontawesome.com/icons?d=gallery&p=2&s=brands
@@ -25,8 +25,8 @@ socials:
   #GitHub: https://github.com/andrewbanchich
   #GitLab:
   #Google-Plus: https://plus.google.com/u/0/+AndrewBanchich
-  #Instagram:
-  #  LinkedIn: https://www.linkedin.com/in/andrew-banchich-a4ba1195
+  Instagram: https://www.instagram.com/inascon_official/
+  LinkedIn: https://www.linkedin.com/in/inascon2022
   Twitter: https://twitter.com/inascon1
   #Facebook:
   #Slack:
