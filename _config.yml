@@ -15,7 +15,7 @@ country: Germany
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
-tiles-count: 5
+tiles-count: 8
 
 # social settings (key must match name of font awesome icon)
 # see https://fontawesome.com/icons?d=gallery&p=2&s=brands
@@ -37,6 +37,8 @@ markdown: kramdown
 sass:
   style: compressed
 
+plugins:
+  - jekyll-redirect-from
 exclude:
 - "*.gemspec"
 - LICENSE.md
