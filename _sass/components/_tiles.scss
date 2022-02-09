@@ -109,37 +109,37 @@
 
 			&:nth-child(6n - 5) {
 				&:before {
-					background-color: _palette(accent1);
+					background-color: #083962;
 				}
 			}
 
 			&:nth-child(6n - 4) {
 				&:before {
-					background-color: _palette(accent2);
+					background-color: #2062ac;
 				}
 			}
 
 			&:nth-child(6n - 3) {
 				&:before {
-					background-color: _palette(accent3);
+					background-color: #0851a5;
 				}
 			}
 
 			&:nth-child(6n - 2) {
 				&:before {
-					background-color: _palette(accent4);
+					background-color: #bdc5e6;
 				}
 			}
 
 			&:nth-child(6n - 1) {
 				&:before {
-					background-color: _palette(accent5);
+					background-color: #183973;
 				}
 			}
 
 			&:nth-child(6n) {
 				&:before {
-					background-color: _palette(accent6);
+					background-color: #a5a5cf;
 				}
 			}
 		}
