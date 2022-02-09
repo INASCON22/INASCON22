@@ -2,7 +2,7 @@
 layout: post
 title: About INASCON 2022
 description: More info about INASCON
-image: assets/images/pic11.jpg
+#image: assets/images/pic11.jpg
 nav-menu: true
 ---
 
