@@ -11,7 +11,7 @@ city: Munich
 #state: TN
 #zip_code: 55555
 country: Germany
-#phone: (716) 555-5555
+phone: (716) 555-5555
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
