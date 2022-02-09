@@ -2,18 +2,23 @@
   id: 1
   name: "Kley"
   surname: "Christopher"
-#  company: "Tel Aviv University"
   title: "Dr."
-#  bio: 'Prof. Shomron has received his Bachelors degree in Biotechnology at Macquarie University in Sydney, Australia; his Masters degree in Gene Therapy at the Hebrew University of Jerusalem; and his graduate studies in Genetics at Tel Aviv University where he worked on regulatory RNA systems. As a Post-Doctorate affiliate at MIT in Cambridge, USA, Prof. Shomron gained expertise in combining high-throughout data with computational analysis in order to decipher gene regulation in health and disease. Today Prof. Shomron heads the Functional Genomics Laboratory at Tel Aviv University’s Medical School, as well as heading the Rare Genomics Institute - Israel. Prof. Shomron’s team explores regulation of gene expression mainly by small RNAs in order to reach a global, systems view of the mechanistic roles they play in health and disease.'
   thumbnailUrl: CSKley.png
   affiliation: Fritz Haber Institute, Helmholtz Zentrum Berlin für Materialien und Energie 
-#  rockstar: true
   website: https://www.helmholtz-berlin.de/forschung/oe/ce/photo-electrocatalysis/index_en.html 
   ribbon: 
     - {abbr: "Fritz Haber Institute", title: "Nanoscale Operando CO2 Photo - Electrocatalysis", url: "https://www.helmholtz-berlin.de/forschung/oe/ce/photo-electrocatalysis/index_en.html"}  
     - {abbr: "Helmholtz Zentrum Berlin für Materialien und Energie", title: "Nanoscale Operando CO2 Photo - Electrocatalysis", url: "https://www.helmholtz-berlin.de/forschung/oe/ce/photo-electrocatalysis/index_en.html"}  
 
-#  social: 
-#    - {name: "site", link: "https://nshomron.github.io/"}
-#    - {name: "twitter", link: "https://twitter.com/nshomron"}
+- 
+  id: 2
+  name: "Deschler"
+  surname: "Felix"
+  title: "Dr."
+  thumbnailUrl: Felix_Deschler.jpg
+  affiliation: TUM
+  website: https://www.wsi.tum.de/views/sub_group.php?group=Deschler 
+  ribbon: 
+    - {abbr: "TUM", title: "Walter Schottky Institute", url: "https://www.wsi.tum.de/views/sub_group.php?group=Deschler"}  
+
 - 
