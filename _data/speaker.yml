@@ -22,3 +22,15 @@
     - {abbr: "TUM", title: "Walter Schottky Institute", url: "https://www.wsi.tum.de/views/sub_group.php?group=Deschler"}  
 
 - 
+
+  id: 3
+  name: "Milic"
+  surname: "Jovana V."
+  title: "Dr."
+  thumbnailUrl: JVMilicPhoto.jpg
+  affiliation: Adolphe Merkle Institute (AMI)
+  website: https://jovanamilic.com/
+  ribbon: 
+    - {abbr: "AMI", title: "Adolphe Merkle Institute (AMI)", url: "https://jovanamilic.com/"}  
+
+- 
