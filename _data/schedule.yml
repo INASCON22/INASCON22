@@ -9,13 +9,13 @@
     - {
      	startTime: "11:00",
      	endTime: "12:00",
-      text: Registration,
+      description: "Registration",
      	sessionIds: [100]
       }
     - {
      	startTime: "13:00",
      	endTime: "14:00",
-      text: Registration,
+      description: "Registration",
      	sessionIds: [100]
     }
 
@@ -30,86 +30,86 @@
     - {
      	startTime: "16:00",
      	endTime: "17:00",
-       description: 'Intelligentg storage materials',
+      description: "Intelligentg storage materials",
      	sessionIds: [200]
      }
     - {
      	startTime: "16:00",
      	endTime: "17:00",
-       description:'Photovoltaics',
+      description: 'Photovoltaics',
      	sessionIds: [200]
      }
     - {
      	startTime: "17:30",
      	endTime: "18:00",
-       description:'Poster flash talks',
+      description: 'Poster flash talks',
      	sessionIds: [021]
      }
     - {
     	startTime: "17:30",
      	endTime: "19:00",
-        description: 'Poster session',
+      description: 'Poster session',
      	sessionIds: [022]
      }
  - 
    date: "2021-08-31"
    dateReadable: "August 31st"
    tracks: 
-     - {title: "Tuesday (GMT+3)", color: "#90be4e"}
-     - {title: "Community", color: "#e91e63"}
+    - {title: "Tuesday (GMT+3)", color: "#90be4e"}
+    - {title: "Community", color: "#e91e63"}
    timeslots:
-     - {
+    - {
      	startTime: "9:45",
      	endTime: "10:45",
-       description: 'Plenary talk',
+      description: "Plenary talk",
      	sessionIds: [400]
      }   
-     - {
-     startTime: '10:45',
+    - {
+     startTime: "10:45",
      endTime: '11:00',
-     description: 'Coffee break',
+     description: 'Coffee break'
      }
-     - {
+    - {
      startTime: '11:00',
      endTime: '12:00',
      description: 'Intelligent storage materials'
      }
-     - {
+    - {
      startTime: '11:00',
      endTime: '12:00',
      description: 'Photovoltaics'
      }
-     - {
+    - {
      startTime: '12:00',
      endTime: '13:00',
      description: 'Lunch break'
      }
-     - {
+    - {
      startTime: '13:00',
      endTime: '14:00',
      description: 'Catalysis'
      }
-     - {
+    - {
      startTime: '13:00',
      endTime: '14:00',
      description: 'Nano biophysics'
      }
-     - {
+    - {
      startTime: '14:00',
      endTime: '14:15',
      description: 'Coffee'
      }
-     - {
+    - {
      startTime: '14:15',
      endTime: '15:00',
      description: 'Workshop 1'
      }
-     - {
+    - {
      startTime: '14:15',
      endTime: '15:00',
      description: 'Workshop 2'
      }
-     - {
+    - {
      startTime: '15:00',
      endTime: '19:00',
      description: 'Group activity'
@@ -121,48 +121,48 @@
      - {title: "Tuesday (GMT+3)", color: "#90be4e"}
      - {title: "Community", color: "#e91e63"}
    timeslots:
-     - {
+    - {
      	startTime: "9:45",
      	endTime: "10:45",
       description: 'Plenary talk',
      	sessionIds: [400]
      }   
-     - {
+    - {
      startTime: '10:45',
      endTime: '11:00',
      description: 'Coffee break'
      }
-     - {
+    - {
      startTime: '11:00',
      endTime: '12:00',
      description: 'Intelligent storage materials'
      }
-     - {
+    - {
      startTime: '11:00',
      endTime: '12:00',
      description: 'Photovoltaics'
      } 
-     - {
+    - {
      startTime: '12:00',
      endTime: '13:00',
      description: 'Lunch break'
      }
-     - {
+    - {
      startTime: '13:00',
      endTime: '14:00',
      description: 'Catalysis'
      }
-     - {
+    - {
      startTime: '13:00',
      endTime: '14:00',
      description: 'Nano biophysics'
      }
-     - {
+    - {
      startTime: '14:00',
      endTime: '15:15',
      description: 'Company fair'
      }
-     - {
+    - {
      startTime: '15:30',
      endTime: '17:00',
      description: 'Plenary discussion'
