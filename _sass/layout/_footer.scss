@@ -27,6 +27,11 @@
 				}
 			}
 		}
+		.img_sponsor {
+				height: 100px;
+				padding: 20px;
+			}
+		
 
 		@include breakpoint(xsmall) {
 			.copyright {
