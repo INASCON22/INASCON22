@@ -12,15 +12,12 @@
 <!-- Menu -->
 <nav id="menu">
 	<ul class="links">
-        {% for page in site.pages %}
-		    {% if page.layout == "home" %}
-		        <li><a href="{{ "" | relativ_url }}/">{{ page.title }}</a></li>
-	    	{% endif %}
-		{% endfor %}
-		{% for page in site.html_pages %}
-		    {% if page.layout != "home" and page.nav-menu == true %}
-		        <li><a href="{{ page.permalink }}">{{ page.title }}</a></li>
-		    {% endif %}
-		{% endfor %}
+		<li><a href="{{ "" | relativ_url }}/">Home</a> </li>
+        <li><a href="about.html">About INASCON</a> </li>
+		<li><a href="speaker.html">Speaker</a> </li>
+		<li><a href="team.html">Team</a> </li>
+		<li><a href="location.html">Location</a> </li>
+		<li><a href="schedule.html">Schedule</a> </li>
+
 	</ul>
 </nav>
