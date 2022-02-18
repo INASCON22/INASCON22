@@ -114,8 +114,7 @@
      endTime: '19:00',
      description: 'Group activity'
      }
-
-- 
+ - 
    date: "2021-09-1"
    dateReadable: "September 1st"
    tracks: 
@@ -143,7 +142,7 @@
      endTime: '12:00',
      description: 'Photovoltaics'
      } 
-      - {
+     - {
      startTime: '12:00',
      endTime: '13:00',
      description: 'Lunch break'
