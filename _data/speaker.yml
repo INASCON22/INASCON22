@@ -16,7 +16,7 @@
   surname: "Felix"
   title: "Dr."
   thumbnailUrl: Felix_Deschler.jpg
-  affiliation: TUM
+  affiliation: Technische Universität München (TUM)
   website: https://www.wsi.tum.de/views/sub_group.php?group=Deschler 
   ribbon: 
     - {abbr: "TUM", title: "Walter Schottky Institute", url: "https://www.wsi.tum.de/views/sub_group.php?group=Deschler"}  
