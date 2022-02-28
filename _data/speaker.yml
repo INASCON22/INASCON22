@@ -34,3 +34,15 @@
     - {abbr: "AMI", title: "Adolphe Merkle Institute (AMI)", url: "https://jovanamilic.com/"}  
 
 - 
+
+  id: 4
+  name: "Kelsey"
+  surname: "Hatzell"
+  title: "Dr."
+  thumbnailUrl: hatzell.jpg
+  affiliation: Princeton University
+  website: https://www.kelseyhatzell.com/
+  ribbon: 
+    - {abbr: "Princeton University", title: "Princeton University", url: "https://www.kelseyhatzell.com/"}  
+
+- 
