@@ -28,7 +28,7 @@
   name: "Simone"
   surname: "Ezendam"
   title: "PhD student"
-  thumbnailUrl: simone.jpg
+  thumbnailUrl: simone.png
   team: true
   ribbon: 
   #  - {abbr: "TAU", title: "MD-PhD Student at TAU"}
@@ -139,7 +139,7 @@
   name: "Stefan"
   surname: "Maier"
   title: "Professor at LMU Munich"
-#  thumbnailUrl: RoyBeck.jpg
+  thumbnailUrl: stefan_maier.jpg
   subTeam: true
   social: 
     - {name: "site", link: "https://www.hybridplasmonics.org/"}    
