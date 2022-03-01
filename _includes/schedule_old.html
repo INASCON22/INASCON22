@@ -1,0 +1,31 @@
+<!-- Begin Schedule Section -->
+<section id="schedule" class="schedule">
+    <div class="content-wrapper">
+        <table>
+        <div class="row">
+            {% for day in site.data.schedule %}
+            <tr class="col-schedule">
+                <h3 class="track-header-title">{{day.dateReadable}}</h3>
+                {% for slot in day.timeslots %}
+                <div class="schedule-table schedule-border">
+                    <div class="row">
+                        <div class="col-session">
+
+                            <h4 class = "start-time"> {{ slot.startTime }}</h4>
+
+                            <h4 class = "end-time"> {{ slot.endTime }}</h4>
+                        </div>
+                        <div class="col-session">
+                            <h4>{{slot.speaker}}<span>: </span><span>{{slot.title}}</span></h4>
+                            <h5>{{slot.description}}</h5>
+                        </div>
+                    </div>
+                </div>
+                {% endfor %}
+            </tr>
+            {% endfor %}
+        </div>
+    </table>
+    </div>
+</section>
+<!-- End Schedule Section -->

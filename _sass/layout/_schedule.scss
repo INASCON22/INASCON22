@@ -1,164 +1,197 @@
 
 
-/* Schedule */
-
-#schedule {
-  .schedule ul {
-    list-style: none;
-    padding: 0;
-    margin-top: 15px
+.body {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 100vh;
+  padding: 4rem 0;
+  font-family: -system-ui, -apple-system, BlinkMacSystemFont, sans-serif;
 }
 
-.schedule li {
-    font-size: 16px;
-    margin-bottom: 5px
+.scheduleContainer {
+
+        display: grid;
+        grid-template-columns: repeat(9, 1fr);
+        grid-template-rows: 2fr repeat(45, 1fr);
+        grid-column-gap: 3px;
+        grid-row-gap: 0px;
+
+        
+        .time { grid-area: 1 / 1 / 2 / 2; }
+        .day1 { grid-area: 1 / 2 / 2 / 4; }
+        .day2 { grid-area: 1 / 4 / 2 / 6; }
+        .day3 { grid-area: 1 / 6 / 2 / 8; }
+        .day4 { grid-area: 1 / 8 / 2 / 10; }
+        .start-945 { grid-area: 2 / 1 / 3 / 2; }
+        .start-1000 { grid-area: 3 / 1 / 4 / 2; }
+        .start-1015 { grid-area: 4 / 1 / 5 / 2; }
+        .start-1030 { grid-area: 5 / 1 / 6 / 2; }
+        .start-1045 { grid-area: 6 / 1 / 7 / 2; }
+        .start-1100 { grid-area: 7 / 1 / 8 / 2; }
+        .start-1115 { grid-area: 8 / 1 / 9 / 2; }
+        .start-1130 { grid-area: 9 / 1 / 10 / 2; }
+        .start-1145 { grid-area: 10 / 1 / 11 / 2; }
+        .start-1200 { grid-area: 11 / 1 / 12 / 2; }
+        .start-1215 { grid-area: 12 / 1 / 13 / 2; }
+        .start-1230 { grid-area: 13 / 1 / 14 / 2; }
+        .start-1245 { grid-area: 14 / 1 / 15 / 2; }
+        .start-1300 { grid-area: 15 / 1 / 16 / 2; }
+        .start-1315 { grid-area: 16 / 1 / 17 / 2; }
+        .start-1330 { grid-area: 17 / 1 / 18 / 2; }
+        .start-1345 { grid-area: 18 / 1 / 19 / 2; }
+        .start-1400 { grid-area: 19 / 1 / 20 / 2; }
+        .start-1415 { grid-area: 20 / 1 / 21 / 2; }
+        .start-1430 { grid-area: 21 / 1 / 22 / 2; }
+        .start-1445 { grid-area: 22 / 1 / 23 / 2; }
+        .start-1500 { grid-area: 24 / 1 / 25 / 2; }
+        .start-1515 { grid-area: 25 / 1 / 26 / 2; }
+        .start-1530 { grid-area: 26 / 1 / 27 / 2; }
+        .start-1545 { grid-area: 27 / 1 / 28 / 2; }
+        .start-1600 { grid-area: 28 / 1 / 29 / 2; }
+        .start-1615 { grid-area: 29 / 1 / 30 / 2; }
+        .start-1630 { grid-area: 30 / 1 / 31 / 2; }
+        .start-1645 { grid-area: 31 / 1 / 32 / 2; }
+        .start-1700 { grid-area: 32 / 1 / 33 / 2; }
+        .start-1715 { grid-area: 33 / 1 / 34 / 2; }
+        .start-1730 { grid-area: 34 / 1 / 35 / 2; }
+        .start-1745 { grid-area: 35 / 1 / 36 / 2; }
+        .start-1800 { grid-area: 36 / 1 / 37 / 2; }
+        .start-1815 { grid-area: 37 / 1 / 38 / 2; }
+        .start-1830 { grid-area: 38 / 1 / 39 / 2; }
+        .start-1845 { grid-area: 39 / 1 / 40 / 2; }
+        .start-1900 { grid-area: 40 / 1 / 41 / 2; }
+        .start-1915 { grid-area: 41 / 1 / 42 / 2; }
+        .start-1930 { grid-area: 42 / 1 / 43 / 2; }
+        .start-1945 { grid-area: 43 / 1 / 44 / 2; }
+        .start-2000 { grid-area: 44 / 1 / 45 / 2; }
+        .start-2015 { grid-area: 45 / 1 / 46 / 2; }
+        .start-2030 { grid-area: 46 / 1 / 47 / 2; }
+        .start-2045 { grid-area: 47 / 1 / 48 / 2; }
+        .start-2100 { grid-area: 48 / 1 / 49 / 2; }
+
+        /**
+        * Sessions
+        */
+        .reg1 { grid-area: 7 / 2 / 11 / 4; }
+        .reg2 { grid-area: 15 / 2 / 19 / 4; }
+        .welcome { grid-area: 21 /2 /26/4;}
+        .IM1 {grid-area: 28/2/31/3;}
+        .PV1 {grid-area: 28/3/31/4;}
+        .poster_flash1 {grid-area: 33/2/34/4;}
+        .poster_session1 {grid-area: 34/2/39/4;}
+
+
+        .plenary1 {grid-area: 2/4/5/6;}
+        .coffee1 {grid-area: 5/4/6/6;}
+        .IM2 {grid-area: 7/4/11/5;}
+        .PV2 {grid-area: 7/5/11/6;}
+        .lunch1 {grid-area: 11/4/15/6;}
+        .EC1 {grid-area: 15/4/18/5;}
+        .NB1 {grid-area: 15/5/18/6;}
+        .coffee2 {grid-area: 18/4/19/6;}
+        .workshop1 {grid-area: 19/4/22/5;}
+        .workshop2 {grid-area: 19/5/22/6;}
+        .group_act{grid-area: 22/4/39/6;}
+        
+
+        .plenary2 {grid-area: 2/6/5/8;}
+        .coffee3 {grid-area: 5/6/6/8;}
+        .EC2 {grid-area: 7/6/11/7;}
+        .IM3 {grid-area: 7/7/11/8;}
+        .lunch2 {grid-area: 11/6/15/8;}
+        .PV3 {grid-area: 15/6/18/7;}
+        .NB2{grid-area: 15/7/18/8;}
+        .fair{grid-area: 18/6/24/8;}
+        .discussion{grid-area: 25/6/31/8;}
+        .dinner{grid-area: 37/6/44/8;}
+
+
+        .poster_flash2{grid-area: 3/8/5/10;}
+        .poster_session2{grid-area: 5/8/16/10;}
+        .EC3{grid-area: 16/8/20/9;}
+        .NB3{grid-area: 16/9/20/10;}
+        .coffee4{grid-area: 20/8/21/10;}
+        .plenary_bye{grid-area: 21/8/23/10;}
 }
 
-.schedule .speaker-img {
-    width: 40px;
-    height: 40px;
-    border: 2px solid #fff;
-    position: absolute;
-    box-shadow: 0 1px 0 rgba(0, 0, 0, 0.15), 0 1px 2px rgba(0, 0, 0, 0.2)
+/**
+ * Time
+ */
+.time {
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  border-top: thin dotted #ccc;
+  height: 100%;
+  padding: 0 0.5rem;
+
+  
 }
 
-.schedule .speaker-name {
-    line-height: 28px;
-    margin-left: 48px
-}
-.schedule-border {
-  border-color: rgb(255, 255, 255);
-border-width: 5px;
-border-style: solid;
-}
+/**
+ * Event
+ */
+.event {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  padding: 0.5rem 1rem;
+  background-color: orange;
+  border-radius: 0.2rem;
+  font-size: 0.8rem;
+  font-weight: bold;
+  line-height: 1.4;
 
-.schedule .speaker-position {
-    color: #555;
+  span {
     display: block;
-    line-height: 1;
-    font-size: 12px;
-    margin-top: -5px
-}
+    width: 100%;
+    font-size: 0.8em;
+    font-weight: normal;
+  }
 
-.schedule-table {
-    margin-bottom: 90px;
-    color:rgba(190, 46, 46, 0.15);
+ 
 
-}
-
-.schedule-table-heading {
-    margin: 10px 0 20px;
-    text-align: left
-}
-
-.timeslot {
-    background: #fff;
-    border-top: 1px solid #e7e7e7;
-    border-left: 1px solid #e7e7e7
-}
-
-.timeslot:last-child {
-    border-bottom: 1px solid #e7e7e7
-}
-
-.track-header {
-    z-index: 10;
-    -webkit-transition: all 0.3s;
-    transition: all 0.3s
-}
-
-.track-header.sticky {
-    box-shadow: 0 0 5px rgba(0, 0, 0, 0.2), 0 1px 0 rgba(255, 255, 255, 0.15)
-}
-
-.track-header-label,
-.timeslot-label {
-    position: absolute;
-    padding: 10px 15px 20px;
-    width: 100px;
-    text-align: left;
-    margin: 0;
-    font-size: 25px;
-    line-height: 1
-}
-
-.track-header-label span,
-.timeslot-label span {
-    font-size: 20px
-}
-
-.timeslot-label {
-    position: relative;
-    float: left;
-    display: block;
-    -webkit-transition: all 0.3s;
-    transition: all 0.3s;
-    font-size: 40px;
-    font-weight: 100
-}
-
-.time-element {
-    position: relative;
-    height: 100%
-}
-
-.timeslot-elements {
-    overflow: hidden;
-    margin-left: 100px;
-    -webkit-transition: all 0.3s;
-    transition: all 0.3s
-}
-
-.slot-title,
-.track-header-title {
-    font-size: 50px;
-    font-weight: 300;
-    margin: 0;
-    padding-right: 20%;
-}
-
-.track-header-slot,
-.slot {
-    padding: 10px 15px 10px;
-    text-align: left;
-    -webkit-transition: all 0.3s;
-    transition: all 0.3s;
-    border-right: 1px solid #e7e7e7;
-    -webkit-user-select: none;
-    -moz-user-select: none;
-    -ms-user-select: none;
-    user-select: none
-}
-
-.track-header-slot:first-child,
-.slot:first-child {
-    border-left: 1px solid #e7e7e7
-}
-
-.slot {
-    padding: 0;
-    cursor: pointer
-}
-
-.slot.blank-col,
-.slot.service-slot {
-    cursor: default
-}
-.col-lg {
-  position: relative;
-  min-height: 1px;
-  padding-left: 15px;
-  padding-right: 15px
-}
-.col-schedule {
-  position: center;
-  width: 25%;
-  padding: 2%;
-  color:rgba(190, 46, 46, 0.15);
-}
-.col-session{
-  width: 20%;
-  position: center;
-  padding: 20%;
-}
+  &.plenary {
+    background-color: #ffa726;
+  }
+  &.plenary_discussion {
+    background-color: #a36d1d;
+  }
+  &.registration {
+    background-color: #9ccc65;
+  }
+  &.IM {
+    background-color: #ff8a65;
+  }
+  &.PV {
+    background-color: #64a1bd;
+  }
+  &.NB {
+    background-color: #81d4fa;
+  }
+  &.EC {
+    background-color: #26c6da;
+  }
+  &.poster {
+    background-color: #5d2a80;
+  }
+  &.workshop {
+    background-color: #44da26;
+  }
+  &.company_fair {
+    background-color: #26c6da;
+  }
+  &.poster_flash {
+    background-color: #8926da;
+  }
+  &.group_activity {
+    background-color: #26c6da;
+  }
+  &.coffee {
+    background-color: #cf7642;
+  }
+  &.lunch {
+    background-color: #cf7642;
+  }
 }
