@@ -42,8 +42,10 @@
                 {% for member in site.data.team %}{% if member.subTeam != null %}
                 <div class="col-sm-4">
                     <div class="team-member">
+                        <a href="{{member.website}}">
                         <img src="{{ site.baseurl }}assets/images/people/{{ member.thumbnailUrl }}" class="img-circle"
                             alt="">
+                        </a>
                         <h4>{{ member.name }} <span> {{ member.surname }}</span></h4>
                         <h5>{{ member.title }}</h5>
                         <ul class="list-inline social-buttons">

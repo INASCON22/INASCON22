@@ -3,7 +3,7 @@
   name: "Clara"
   surname: "Aletsee"
   title: "PhD Student"
-  #thumbnailUrl: TamaraEhm.jpg
+  thumbnailUrl: clara.jpg
   team: true
   ribbon: 
    # - {abbr: "LMU", title: "PhD student at LMU"}
@@ -141,6 +141,7 @@
   title: "Professor at LMU Munich"
   thumbnailUrl: stefan_maier.jpg
   subTeam: true
+  website: https://www.hybridplasmonics.org/ 
   social: 
     - {name: "site", link: "https://www.hybridplasmonics.org/"}    
 - 
@@ -148,8 +149,9 @@
   name: "Ueli"
   surname: "Heiz"
   title: "Professor at TU Munich"
-#  thumbnailUrl: GuyCohen.jpg
+  thumbnailUrl: ueli_heiz.jpg
   subTeam: true
+  website: https://www.department.ch.tum.de/pc/home/ 
   social: 
     - {name: "site", link: "https://www.department.ch.tum.de/pc/home/"}    
 - 
@@ -157,8 +159,9 @@
   name: "Barbara"
   surname: "Lechner"
   title: "Professor at TU Munich"
-#  thumbnailUrl: GuyCohen.jpg
+  thumbnailUrl: barbara_lechner.jpg
   subTeam: true
+  website: https://www.department.ch.tum.de/nanomaterials/home/ 
   social: 
     - {name: "site", link: "https://www.department.ch.tum.de/nanomaterials/home/"}    
 
