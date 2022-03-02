@@ -5,12 +5,12 @@
   align-items: center;
   justify-content: center;
   min-height: 100vh;
-  padding: 4rem 0;
+  padding: 4rem 10%;
   font-family: -system-ui, -apple-system, BlinkMacSystemFont, sans-serif;
 }
 
 .scheduleContainer {
-
+        padding: 5%;
         display: grid;
         grid-template-columns: repeat(9, 1fr);
         grid-template-rows: 2fr repeat(45, 1fr);
