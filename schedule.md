@@ -1,9 +1,9 @@
 ---
 layout: page
 title: Schedule
-description: Will be anounced soon!
-nav-menu: False
-show_tile: False
+description: 
+nav-menu: True
+show_tile: True
 ---
 
  {% include schedule.html %}
