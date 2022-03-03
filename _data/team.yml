@@ -3,13 +3,13 @@
   name: "Clara"
   surname: "Aletsee"
   title: "PhD Student"
-  thumbnailUrl: Clara.jpg
+  thumbnailUrl: clara.jpg
   team: true
   ribbon: 
    # - {abbr: "LMU", title: "PhD student at LMU"}
     #- {abbr: "TAU", title: "PhD student at TAU"}
     #- {abbr: "INASCON2019", title: "INASCON 2019 China"}    
-  #social: 
+  social: 
    # - {name: "site", link: "https://www.linkedin.com/in/tamara-ehm-105455116/"}
 - 
   id: 1
