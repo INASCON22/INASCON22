@@ -3,7 +3,7 @@
   name: "Clara"
   surname: "Aletsee"
   title: "PhD Student"
-  thumbnailUrl: clara.jpg
+  thumbnailUrl: Clara.jpg
   team: true
   ribbon: 
    # - {abbr: "LMU", title: "PhD student at LMU"}
@@ -114,7 +114,7 @@
   name: "Christoph"
   surname: "Gruber"
   title: "PhD student"
-  thumbnailUrl: christoph.jpg
+  thumbnailUrl: Christoph.jpg
   team: true
   ribbon: 
   #  - {abbr: "TAU", title: "MD-PhD Student at TAU"}
