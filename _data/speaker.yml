@@ -46,3 +46,14 @@
     - {abbr: "Princeton University", title: "Princeton University", url: "https://www.kelseyhatzell.com/"}  
 
 - 
+ 
+
+  id: 4
+  name: "Klaus"
+  surname: "von Klitzing"
+  title: "Prof. Dr."
+  thumbnailUrl: KvK.jpg
+  affiliation: MPI for Solid State Research
+  website: https://www.fkf.mpg.de/klitzing
+  ribbon: 
+    - {abbr: "MPI for Solid State Research", title: "MPI for Solid State Research", url: "https://www.fkf.mpg.de/klitzing"}  
