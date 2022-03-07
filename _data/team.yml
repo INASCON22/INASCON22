@@ -2,7 +2,7 @@
   id: 0
   name: "Clara"
   surname: "Aletsee"
-  title: "PhD Student"
+  title: "PhD Student TUM chemistry"
   thumbnailUrl: clara.jpg
   team: true
   ribbon: 
@@ -15,7 +15,7 @@
   id: 1
   name: "Robert"
   surname: "Calaminus"
-  title: "PhD Student"
+  title: "PhD Student LMU Chemistry"
   thumbnailUrl: robert.jpg
   team: true
   ribbon: 
@@ -27,7 +27,7 @@
   id: 2
   name: "Simone"
   surname: "Ezendam"
-  title: "PhD student"
+  title: "PhD student LMU Physics"
   thumbnailUrl: simone.png
   team: true
   ribbon: 
@@ -41,7 +41,7 @@
   id: 3
   name: "Kevin"
   surname: "Bertrang"
-  title: "PhD student"
+  title: "PhD student TUM chemistry"
   thumbnailUrl: kevin.jpg
   team: true
   social: 
@@ -52,7 +52,7 @@
   id: 4
   name: "Pauline"
   surname: "Kolbeck"
-  title: "PhD student"
+  title: "PhD student LMU Physics"
   thumbnailUrl: pauline.jpg
   team: true
   social: 
@@ -61,7 +61,7 @@
   id: 5
   name: "Florian"
   surname: "Binder"
-  title: "PhD Student"
+  title: "PhD Student LMU Chemistry"
   thumbnailUrl: flo.jpg
   team: true
   ribbon: 
@@ -72,7 +72,7 @@
   id: 6
   name: "Sonia"
   surname: "Mackewicz"
-  title: "PhD student"
+  title: "PhD student TUM Chemistry"
   thumbnailUrl: sonia.jpg
   team: true
   ribbon: 
@@ -84,7 +84,7 @@
   id: 7
   name: "Tobias"
   surname: "Hinke"
-  title: "PhD student"
+  title: "PhD student TUM Chemistry"
   thumbnailUrl: tobi.jpg
   team: true
   ribbon: 
@@ -97,7 +97,7 @@
 - 
   id: 8
   name: "Philip"
-  surname: "Petzoldt"
+  surname: "Petzoldt TUM Chemistry"
   title: "PhD student"
   #thumbnailUrl: tobi.jpg
   team: true
@@ -113,7 +113,7 @@
   id: 9
   name: "Christoph"
   surname: "Gruber"
-  title: "PhD student"
+  title: "PhD student LMU Physics"
   thumbnailUrl: Christoph.jpg
   team: true
   ribbon: 
@@ -128,7 +128,7 @@
    id: 10
    name: "Jakob"
    surname: "Blahusch"
-   title: "PhD student"
+   title: "PhD student LMU Chemistry"
 #   thumbnailUrl: GuyShapira.jpg
    team: true
 #   social: 
