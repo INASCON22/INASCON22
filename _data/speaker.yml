@@ -38,8 +38,8 @@
  
 
   id: 3
-  name: "Klaus"
-  surname: "von Klitzing"
+  name: "von Klitzing"
+  surname: "Klaus"
   title: "Prof. Dr."
   thumbnailUrl: KvK.jpg
   affiliation: MPI for Solid State Research
@@ -50,8 +50,8 @@
  
 
   id: 4
-  name: "Nella"
-  surname: "Vargas-Barbosa"
+  name: "Vargas-Barbosa"
+  surname: "Nella"
   title: "Dr."
   thumbnailUrl: VargasBarbosa_NM.jpg
   affiliation: FZ Jülich
