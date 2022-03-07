@@ -14,8 +14,10 @@
                 <div class="col-sm-4">
                     <div class="team-member">
                         <a href="{{member.website}}">
-                        <img src="{{ site.baseurl }}assets/images/speaker/{{ member.thumbnailUrl }}" class="img-circle"
+                            <div class="img-square">
+                        <img src="{{ site.baseurl }}assets/images/speaker/{{ member.thumbnailUrl }}" class="img-content"
                             alt="">
+                            </div>
                         </a>
                         <h4>{{ member.title }} <span> {{ member.surname }} </span>  <span> {{ member.name }} </span></h4>
                         <h5>{{ member.affiliation }}</h5>

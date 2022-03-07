@@ -5,7 +5,7 @@
   surname: "Felix"
   title: "Dr."
   thumbnailUrl: Felix_Deschler.jpg
-  affiliation: Technical University Munich (TUM) <span></span>
+  affiliation: Technical University Munich (TUM)
   website: https://www.wsi.tum.de/views/sub_group.php?group=Deschler 
   ribbon: 
     - {abbr: "TUM", title: "Walter Schottky Institute", url: "https://www.wsi.tum.de/views/sub_group.php?group=Deschler"}  
@@ -65,7 +65,7 @@
   surname: "Christopher"
   title: "Dr."
   thumbnailUrl: CSKley.png
-  affiliation: Fritz Haber Institute, Helmholtz Zentrum Berlin für Materialien und Energie 
+  affiliation: FHI  <br> HZB 
   website: https://www.helmholtz-berlin.de/forschung/oe/ce/photo-electrocatalysis/index_en.html 
   ribbon: 
     - {abbr: "Fritz Haber Institute", title: "Nanoscale Operando CO2 Photo - Electrocatalysis", url: "https://www.helmholtz-berlin.de/forschung/oe/ce/photo-electrocatalysis/index_en.html"}  

@@ -4,6 +4,7 @@
   surname: "Aletsee"
   title: "PhD Student TUM chemistry"
   thumbnailUrl: clara.jpg
+  website: https://www.department.ch.tum.de/pc/home/ 
   team: true
   ribbon: 
    # - {abbr: "LMU", title: "PhD student at LMU"}
@@ -17,6 +18,7 @@
   surname: "Calaminus"
   title: "PhD Student LMU Chemistry"
   thumbnailUrl: robert.jpg
+  website: https://www.fkf.mpg.de/lotsch
   team: true
   ribbon: 
   #  - {abbr: "TAU", title: "MD-PhD Student at TAU"}
@@ -29,6 +31,7 @@
   surname: "Ezendam"
   title: "PhD student LMU Physics"
   thumbnailUrl: simone.png
+  website: https://www.hybridplasmonics.org/
   team: true
   ribbon: 
   #  - {abbr: "TAU", title: "MD-PhD Student at TAU"}
@@ -43,6 +46,7 @@
   surname: "Bertrang"
   title: "PhD student TUM chemistry"
   thumbnailUrl: kevin.jpg
+  website: https://www.department.ch.tum.de/pc/home/ 
   team: true
   social: 
   #  - {name: "site", link: "https://www.linkedin.com/in/yosi-azan-0b8186b1/"}    
@@ -54,6 +58,7 @@
   surname: "Kolbeck"
   title: "PhD student LMU Physics"
   thumbnailUrl: pauline.jpg
+  website: https://www.biophysik.physik.uni-muenchen.de/index.html
   team: true
   social: 
 #    - {name: "site", link: "https://www.linkedin.com/in/artem-danilevsky-237166155/"}
@@ -63,6 +68,7 @@
   surname: "Binder"
   title: "PhD Student LMU Chemistry"
   thumbnailUrl: flo.jpg
+  website: https://www.fkf.mpg.de/lotsch
   team: true
   ribbon: 
 #    - {abbr: "BGU", title: "BSc Student"}
@@ -74,6 +80,7 @@
   surname: "Mackewicz"
   title: "PhD student TUM Chemistry"
   thumbnailUrl: sonia.jpg
+  website: https://www.department.ch.tum.de/pc/home/ 
   team: true
   ribbon: 
 #    - {abbr: "TAU", title: "MD-PhD Student at TAU"}
@@ -86,6 +93,7 @@
   surname: "Hinke"
   title: "PhD student TUM Chemistry"
   thumbnailUrl: tobi.jpg
+  website: https://www.department.ch.tum.de/pc/home/ 
   team: true
   ribbon: 
   #  - {abbr: "TAU", title: "MD-PhD Student at TAU"}
@@ -100,6 +108,7 @@
   surname: "Petzoldt"
   title: "PhD student TUM Chemistry"
   #thumbnailUrl: tobi.jpg
+  website: https://www.department.ch.tum.de/pc/home/ 
   team: true
   ribbon: 
   #  - {abbr: "TAU", title: "MD-PhD Student at TAU"}
@@ -115,6 +124,7 @@
   surname: "Gruber"
   title: "PhD student LMU Physics"
   thumbnailUrl: Christoph.jpg
+  website: https://www.hybridplasmonics.org/
   team: true
   ribbon: 
   #  - {abbr: "TAU", title: "MD-PhD Student at TAU"}
@@ -129,6 +139,7 @@
    name: "Jakob"
    surname: "Blahusch"
    title: "PhD student LMU Chemistry"
+   website: https://www.fkf.mpg.de/lotsch
 #   thumbnailUrl: GuyShapira.jpg
    team: true
 #   social: 

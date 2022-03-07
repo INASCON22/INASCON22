@@ -13,10 +13,12 @@
                 {% for member in site.data.team %}{% if member.team != null %}
                 <div class="col-sm-4">
                     <div class="team-member">
+                        <a href="{{member.website}}">
                         <div class="img-square">
                         <img src="{{ site.baseurl | append: 'assets/images/people/' | append: member.thumbnailUrl }}" class="img-content"
                             alt="">
                         </div>
+                    </a>
                         <h4>{{ member.name }} <span> {{ member.surname }}</span></h4>
                         <h5>{{ member.title }}</h5>
                         <ul class="list-inline social-buttons">
@@ -45,8 +47,10 @@
                 <div class="col-sm-4">
                     <div class="team-member">
                         <a href="{{member.website}}">
-                        <img src="{{ site.baseurl }}assets/images/people/{{ member.thumbnailUrl }}" class="img-circle"
+                            <div class="img-square"><
+                        <img src="{{ site.baseurl }}assets/images/people/{{ member.thumbnailUrl }}" class="img-content"
                             alt="">
+                            </div>
                         </a>
                         <h4>{{ member.name }} <span> {{ member.surname }}</span></h4>
                         <h5>{{ member.title }}</h5>
