@@ -97,8 +97,8 @@
 - 
   id: 8
   name: "Philip"
-  surname: "Petzoldt TUM Chemistry"
-  title: "PhD student"
+  surname: "Petzoldt"
+  title: "PhD student TUM Chemistry"
   #thumbnailUrl: tobi.jpg
   team: true
   ribbon: 
