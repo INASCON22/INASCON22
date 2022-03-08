@@ -9,13 +9,18 @@
                     <h3 class="section-subheading text-muted"></h3>
                 </div>
             </div>
+            <h3>Informations for Sponsors about INASCON 2022 can be found <a href="{{ site.baseurl }}assets/Flyer_INASCON2022.pdf">here</a>.</h3>
             <div class="row">
                 {% for member in site.data.sponsors %}{% if member.team != null %}
                 <div class="col-sm-4">
                     <div class="team-member">
                         <a href="{{member.website}}">
-                        <img src="{{ site.baseurl | append: 'assets/images/' | append: member.thumbnailUrl }}" class="img-circle"
-                            alt=""></a>
+                            <div class="img-square">
+                        <img src="{{ site.baseurl }}assets/images/{{ member.thumbnailUrl }}" class="img-content-sponsor"
+                            alt="">
+                        </div>
+                        </a>
+
                         <h4>{{ member.name }} </h4>
                         
                         <ul class="list-inline social-buttons">
