@@ -42,7 +42,7 @@
   surname: "Klaus"
   title: "Prof. Dr."
   thumbnailUrl: KvK.jpg
-  affiliation: MPI for Solid State Research
+  affiliation: Nobel laureat <br> MPI for Solid State Research
   website: https://www.fkf.mpg.de/klitzing
   ribbon: 
     - {abbr: "MPI for Solid State Research", title: "MPI for Solid State Research", url: "https://www.fkf.mpg.de/klitzing"}  
