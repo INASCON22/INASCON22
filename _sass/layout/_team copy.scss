@@ -1,0 +1,149 @@
+
+
+/* Team */
+
+#team {
+  h3 {
+    margin-bottom: 26px;
+  }
+
+  h4 {
+    margin: 50px 0 20px;
+    text-align: center;
+  }
+  h5 {
+    text-align: center;
+  }
+
+  .content-wrapper {
+    position: relative;
+    z-index: 1;
+    height: 100%;
+    padding: 2%;
+  }
+  .text-left {
+    text-align: left;
+  }
+  .animated {
+    -webkit-animation-duration: 1s;
+    animation-duration: 1s;
+    -webkit-animation-fill-mode: both;
+    animation-fill-mode: both;
+  }
+  .hiding {
+    opacity: 0;
+  }
+  .text-center {
+    text-align: center;
+  }
+  .list-inline {
+    padding-left: 0;
+    list-style: none;
+    margin-left: -5px;
+  }
+  .appear-animation {
+    -webkit-transition-timing-function: ease-out;
+    transition-timing-function: ease-out;
+    -webkit-transform: scale(0);
+    -ms-transform: scale(0);
+    transform: scale(0);
+  }
+
+  .appear-animation.visible {
+    -webkit-transform: scale(1);
+    -ms-transform: scale(1);
+    transform: scale(1);
+  }
+  .col-lg {
+    position: relative;
+    min-height: 1px;
+    padding-left: 15px;
+    padding-right: 15px;
+  }
+  .col-team {
+    width: 25%;
+  }
+  .col-sm-4{
+    flex: 0 0 33.333333%;
+    max-width: 33.333333%;
+  }
+  
+  .col-lg-offset {
+    margin-left: 8.33333%;
+  }
+  .fade {
+    opacity: 0;
+    -webkit-transition: opacity 0.15s linear;
+    transition: opacity 0.15s linear;
+  }
+
+  .fade.in {
+    opacity: 1;
+  }  
+  .cols-centered {
+    display: inline-block;
+    float: none !important;
+    margin-right: -4px;
+    text-align: left;
+  }
+  .team-member {
+    
+}
+.team-member:after {
+  content: "";
+  display: block;
+  padding-bottom: 100%;
+}
+
+
+.team-member h4 {
+    margin-top: 25px;
+    margin-bottom: 0;
+    text-transform: none;
+}
+
+.team-member p {
+    margin-top: 0;
+}
+
+.img-circle {
+    border-radius: 50%;
+    width:300px;
+    height:300px;
+    min-height: 200px;
+    min-width: 200px;
+
+/*Scale down will take the necessary specified space that is 100px x 100px without stretching the image*/
+    object-fit:cover;
+  }
+  
+
+
+.img-square {
+  position: relative;
+  width: 300px;
+}
+
+.img-square:after {
+  content: "";
+  display: block;
+  padding-bottom: 100%;
+}
+
+.img-content {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  object-fit:cover;
+  border: 5px solid rgb(255, 255, 255);
+}
+.img-content-sponsor{
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+
+}
+
+
+}
