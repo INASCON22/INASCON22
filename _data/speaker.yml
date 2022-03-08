@@ -42,7 +42,7 @@
   surname: "Klaus"
   title: "Prof. Dr."
   thumbnailUrl: KvK.jpg
-  affiliation: Nobel laureat <br> MPI for Solid State Research
+  affiliation: Nobel laureat <br> Max-Planck-Institute <br >for Solid State Research (MPI-FKF)
   website: https://www.fkf.mpg.de/klitzing
   ribbon: 
     - {abbr: "MPI for Solid State Research", title: "MPI for Solid State Research", url: "https://www.fkf.mpg.de/klitzing"}  
@@ -54,7 +54,7 @@
   surname: "Nella"
   title: "Dr."
   thumbnailUrl: VargasBarbosa_NM.jpg
-  affiliation: FZ Jülich
+  affiliation: Forschungszentrum Jülich (FZJ)
   website: https://sites.google.com/view/theipeclab/home
   ribbon: 
     - {abbr: "FZ Jülich", title: "FZ Jülich", url: "https://sites.google.com/view/theipeclab/home"} 
@@ -65,7 +65,7 @@
   surname: "Christopher"
   title: "Dr."
   thumbnailUrl: CSKley.png
-  affiliation: FHI  <br> HZB 
+  affiliation: Fritz Haber Institute (FHI)  <br> Helmholtz Zentrum Berlin für Materialien und Energie (HZB)
   website: https://www.helmholtz-berlin.de/forschung/oe/ce/photo-electrocatalysis/index_en.html 
   ribbon: 
     - {abbr: "Fritz Haber Institute", title: "Nanoscale Operando CO2 Photo - Electrocatalysis", url: "https://www.helmholtz-berlin.de/forschung/oe/ce/photo-electrocatalysis/index_en.html"}  
