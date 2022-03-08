@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Team
-description: Team
+description: This year's organisation team
 nav-menu: true
 show_tile: true
 image: team.jpg
