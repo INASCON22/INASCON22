@@ -64,8 +64,9 @@
     width: 25%;
   }
   .col-sm-4{
-    flex: 0 0 33.333333%;
-    max-width: 33.333333%;
+    flex: 0 5 33.333333%;
+ 
+    
   }
   
   .col-lg-offset {
@@ -94,7 +95,14 @@
   display: block;
   padding-bottom: 100%;
 }
+.team-container{
+  flex-wrap: wrap;
+  flex-flow: column wrap;
+}
+.team-row{
+  
 
+}
 
 .team-member h4 {
     margin-top: 25px;
