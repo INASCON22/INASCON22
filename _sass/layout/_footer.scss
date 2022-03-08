@@ -7,10 +7,12 @@
 /* Footer */
 
 	#footer {
+		background-color: white;
 		.copyright {
 			font-size: 0.8em;
 			list-style: none;
 			padding-left: 0;
+			color: black;
 
 			li {
 				border-left: solid 1px _palette(border);
@@ -19,6 +21,7 @@
 				line-height: 1;
 				margin-left: 1em;
 				padding-left: 1em;
+				color:black;
 
 				&:first-child {
 					border-left: 0;
