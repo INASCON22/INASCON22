@@ -16,3 +16,25 @@
     margin-right: 0;
     margin-bottom: 5pt;
 }
+.about-img{
+    padding: 2%;
+    min-width: 200px;
+}
+.about-text{
+    min-width: 200px;
+}
+
+.col-sm-2{
+    flex: 0 0 50%;
+    padding: 1%;
+    display: block;
+    
+  }
+
+  .about-row{
+    display: flex;
+    flex-flow: wrap;
+    flex-wrap: wrap;
+  
+  
+  }
