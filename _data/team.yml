@@ -107,7 +107,7 @@
   name: "Philip"
   surname: "Petzoldt"
   title: "PhD student TUM Chemistry"
-  #thumbnailUrl: tobi.jpg
+  thumbnailUrl: Philip.jpg
   website: https://www.department.ch.tum.de/pc/home/ 
   team: true
   ribbon: 
@@ -140,7 +140,7 @@
    surname: "Blahusch"
    title: "PhD student LMU Chemistry"
    website: https://www.fkf.mpg.de/lotsch
-#   thumbnailUrl: GuyShapira.jpg
+   thumbnailUrl: jakob.jpg
    team: true
 #   social: 
 #     - {name: "site", link: "https://www.linkedin.com/in/guy-shapira-9a0440148/"}    
