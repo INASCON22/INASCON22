@@ -1,0 +1,11 @@
+- 
+  id: 0
+  name: "Pacchioni"
+  surname: "Gianfranco"
+  title: "Prof. Dr."
+  thumbnailUrl: Pacchioni.jpg
+  affiliation: University of Milano Bicocca <br> author of "The Overproduction of Truth; Passion, Competition, and Integrity in Modern Science"
+  website: https://qclab.mater.unimib.it/
+  #ribbon: 
+  #  - {abbr: "MPI for Solid State Research", title: "MPI for Solid State Research", url: "https://www.fkf.mpg.de/klitzing"}  
+    
