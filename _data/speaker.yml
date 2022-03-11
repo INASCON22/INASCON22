@@ -1,14 +1,14 @@
 - 
-
-  id: 3
-  name: "Deschler"
-  surname: "Felix"
-  title: "Dr."
-  thumbnailUrl: Felix_Deschler.jpg
-  affiliation: Technical University Munich (TUM)
-  website: https://www.wsi.tum.de/views/sub_group.php?group=Deschler 
+  id: 0
+  name: "von Klitzing"
+  surname: "Klaus"
+  title: "Prof. Dr."
+  thumbnailUrl: KvK.jpg
+  affiliation: Nobel laureat <br> Max-Planck-Institute <br >for Solid State Research (MPI-FKF)
+  website: https://www.fkf.mpg.de/klitzing
   ribbon: 
-    - {abbr: "TUM", title: "Walter Schottky Institute", url: "https://www.wsi.tum.de/views/sub_group.php?group=Deschler"}  
+    - {abbr: "MPI for Solid State Research", title: "MPI for Solid State Research", url: "https://www.fkf.mpg.de/klitzing"}  
+    
 
 - 
 
@@ -35,20 +35,19 @@
     - {abbr: "Princeton University", title: "Princeton University", url: "https://www.kelseyhatzell.com/"}  
 
 - 
- 
-
-  id: 0
-  name: "von Klitzing"
-  surname: "Klaus"
-  title: "Prof. Dr."
-  thumbnailUrl: KvK.jpg
-  affiliation: Nobel laureat <br> Max-Planck-Institute <br >for Solid State Research (MPI-FKF)
-  website: https://www.fkf.mpg.de/klitzing
+  id: 3
+  name: "Deschler"
+  surname: "Felix"
+  title: "Dr."
+  thumbnailUrl: Felix_Deschler.jpg
+  affiliation: Technical University Munich (TUM)
+  website: https://www.wsi.tum.de/views/sub_group.php?group=Deschler 
   ribbon: 
-    - {abbr: "MPI for Solid State Research", title: "MPI for Solid State Research", url: "https://www.fkf.mpg.de/klitzing"}  
-- 
- 
+    - {abbr: "TUM", title: "Walter Schottky Institute", url: "https://www.wsi.tum.de/views/sub_group.php?group=Deschler"}  
 
+
+
+- 
   id: 4
   name: "Vargas-Barbosa"
   surname: "Nella"
