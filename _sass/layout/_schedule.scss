@@ -155,45 +155,48 @@
  
 
   &.plenary {
-    background-color: #ffa726;
+    background-color: _palette(accent1);
   }
   &.plenary_discussion {
-    background-color: #a36d1d;
+    background-color: _palette(accent1);
   }
   &.registration {
-    background-color: #9ccc65;
+    background-color: _palette(accent2);
   }
   &.IM {
-    background-color: #ff8a65;
+    background-color: _palette(accent3);
   }
   &.PV {
-    background-color: #64a1bd;
+    background-color: _palette(accent3);
   }
   &.NB {
-    background-color: #81d4fa;
+    background-color: _palette(accent3);
   }
   &.EC {
-    background-color: #26c6da;
+    background-color: _palette(accent3);
   }
   &.poster {
-    background-color: #5d2a80;
+    background-color: _palette(accent4);
   }
   &.workshop {
-    background-color: #44da26;
+    background-color: _palette(accent4);
   }
   &.company_fair {
-    background-color: #26c6da;
+    background-color: _palette(accent4);
   }
   &.poster_flash {
-    background-color: #8926da;
+    background-color: _palette(accent4);
   }
   &.group_activity {
-    background-color: #26c6da;
+    background-color: _palette(accent5);
   }
   &.coffee {
-    background-color: #cf7642;
+    background-color: _palette(accent6);
   }
   &.lunch {
-    background-color: #cf7642;
+    background-color: _palette(accent6);
+  }
+  &.dinner {
+    background-color: _palette(accent6);
   }
 }
