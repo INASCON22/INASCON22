@@ -3,14 +3,7 @@
 ## Make a new tile
 Add a new .md file with the corresponding name. Add a permalink and then .hmtl file.
 
----
-layout: post
-title: About INASCON 2022
-description: 30.08.2022 - 02.09.2022, Munich
-image: MAP_INASCON.jpg
-nav-menu: true
-permalink: about
----
+
 
 Add it to the menu in the menu.html
 
