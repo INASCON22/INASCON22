@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Speaker
+title: Speakers
 #description: Lorem ipsum dolor est
 nav-menu: true
 permalink: speaker
