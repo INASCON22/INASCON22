@@ -30,15 +30,15 @@
 
 // Palette.
 	$palette: (
-		bg:					#242943,
-		bg-alt:				#2a2f4a,
-		fg:					#ffffff,
-		fg-bold:			#ffffff,
-		fg-light:			rgba(244,244,255,0.2),
-		border:				rgba(212,212,255,0.1),
-		border-bg:			rgba(212,212,255,0.035),
-		highlight:			#9bf1ff,
-		accent1:			#6fc3df,
+		bg:					#242943, //background color for the site
+		bg-alt:				#2a2f4a, // alternative background color
+		fg:					#ffffff, // font color
+		fg-bold:			#ffffff, // font color
+		fg-light:			rgba(244,244,255,0.2), //font color
+		border:				rgba(212,212,255,0.1), // border color for boxes
+		border-bg:			rgba(212,212,255,0.035), // border color
+		highlight:			#9bf1ff, // highlight color
+		accent1:			#6fc3df, // accent colors used in the website
 		accent2:			#8d82c4,
 		accent3:			#ec8d81,
 		accent4:			#e7b788,
