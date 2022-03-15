@@ -91,4 +91,12 @@
   website: https://qclab.mater.unimib.it/
   #ribbon: 
   #  - {abbr: "MPI for Solid State Research", title: "MPI for Solid State Research", url: "https://www.fkf.mpg.de/klitzing"}  
-    
+
+- 
+  id: 8
+  name: "Schmid"
+  surname: "Sonja"
+  title: "Dr."
+  thumbnailUrl: portrait_sonjaschmid.jpg
+  affiliation: NanoDynamicsLab <br> Laboratory of Biophysics <br> Wageningen University
+  website: https://www.nanodynamicslab.nl/home
