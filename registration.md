@@ -1,9 +1,9 @@
 ---
 layout: page
 title: Registration 
-description: Registration and abstract submission will begin on 15.03.2022
+description: Click here for registration and abstract submission.
 nav-menu: false
 show_tile: True
 permalink: registration
-redirect_to: https://inascon.org/
+redirect_to: https://www.eventool.com/web/inascon2022/inaSCON/en/register
 ---
