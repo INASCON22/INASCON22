@@ -13,14 +13,13 @@
 - 
 
   id: 1
-  name: "Milic"
-  surname: "Jovana V."
-  title: "Dr."
-  thumbnailUrl: JVMilicPhoto.jpg
-  affiliation: Adolphe Merkle Institute (AMI) <br> Fribourg, CH
-  website: https://jovanamilic.com/
-  ribbon: 
-    - {abbr: "AMI", title: "Adolphe Merkle Institute (AMI)", url: "https://jovanamilic.com/"}  
+  name: "Hell"
+  surname: "Stefan"
+  title: "Prof. Dr."
+  thumbnailUrl: stefan_hell.jpg
+  affiliation: Nobel laureate <br> Max-Planck-Institute (MPI) <br> for Multidisciplinary Sciences <br> Göttingen, DE
+  website: https://www.mpinat.mpg.de/de/hell
+
 
 - 
 
@@ -103,12 +102,14 @@
 
 - 
   id: 9
-  name: "Hell"
-  surname: "Stefan"
-  title: "Prof. Dr."
-  thumbnailUrl: stefan_hell.jpg
-  affiliation: Nobel laureate <br> Max-Planck-Institute (MPI) <br> for Multidisciplinary Sciences <br> Göttingen, DE
-  website: https://www.mpinat.mpg.de/de/hell
+  name: "Milic"
+  surname: "Jovana V."
+  title: "Dr."
+  thumbnailUrl: JVMilicPhoto.jpg
+  affiliation: Adolphe Merkle Institute (AMI) <br> Fribourg, CH
+  website: https://jovanamilic.com/
+  ribbon: 
+    - {abbr: "AMI", title: "Adolphe Merkle Institute (AMI)", url: "https://jovanamilic.com/"}  
 
 - 
   id: 10
