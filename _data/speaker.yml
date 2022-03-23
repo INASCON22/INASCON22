@@ -100,3 +100,30 @@
   thumbnailUrl: portrait_sonjaschmid.jpg
   affiliation: NanoDynamicsLab <br> Laboratory of Biophysics <br> Wageningen University
   website: https://www.nanodynamicslab.nl/home
+
+- 
+  id: 9
+  name: "Hell"
+  surname: "Stefan"
+  title: "Prof. Dr."
+  thumbnailUrl: stefan_hell.jpg
+  affiliation: MPI for Multidisciplinary Sciences
+  website: https://www.mpinat.mpg.de/de/hell
+
+- 
+  id: 10
+  name: "Hutter"
+  surname: "Eline"
+  title: "Dr."
+  thumbnailUrl: eline_hutter.jpg
+  affiliation: Utrecht University
+  website: https://bertweckhuysen.com/team_member/dr-eline-hutter/
+
+- 
+  id: 11
+  name: "Cortés"
+  surname: "Emiliano"
+  title: "Prof. Dr."
+  thumbnailUrl: Logo.png
+  affiliation: LMU
+  website: https://www.hybridplasmonics.org/
