@@ -17,7 +17,7 @@
   surname: "Jovana V."
   title: "Dr."
   thumbnailUrl: JVMilicPhoto.jpg
-  affiliation: Adolphe Merkle Institute (AMI)
+  affiliation: Adolphe Merkle Institute (AMI) <br> Fribourg, CH
   website: https://jovanamilic.com/
   ribbon: 
     - {abbr: "AMI", title: "Adolphe Merkle Institute (AMI)", url: "https://jovanamilic.com/"}  
@@ -29,7 +29,7 @@
   surname: "Hatzell"
   title: "Dr."
   thumbnailUrl: hatzell.jpg
-  affiliation: Princeton University
+  affiliation: Princeton University (PU) <br> New Jersey, USA
   website: https://www.kelseyhatzell.com/
   ribbon: 
     - {abbr: "Princeton University", title: "Princeton University", url: "https://www.kelseyhatzell.com/"}  
@@ -38,9 +38,9 @@
   id: 3
   name: "Deschler"
   surname: "Felix"
-  title: "Dr."
+  title: "Prof. Dr."
   thumbnailUrl: Felix_Deschler.jpg
-  affiliation: Technical University Munich (TUM)
+  affiliation: Ruprecht Karl University of Heidelberg <br> Heidelberg, DE
   website: https://www.wsi.tum.de/views/sub_group.php?group=Deschler 
   ribbon: 
     - {abbr: "TUM", title: "Walter Schottky Institute", url: "https://www.wsi.tum.de/views/sub_group.php?group=Deschler"}  
@@ -53,7 +53,7 @@
   surname: "Nella"
   title: "Dr."
   thumbnailUrl: VargasBarbosa_NM.jpg
-  affiliation: Forschungszentrum Jülich (FZJ)
+  affiliation: Forschungszentrum Jülich (FZJ) <br> Münster, DE
   website: https://sites.google.com/view/theipeclab/home
   ribbon: 
     - {abbr: "FZ Jülich", title: "FZ Jülich", url: "https://sites.google.com/view/theipeclab/home"} 
@@ -64,7 +64,8 @@
   surname: "Christopher"
   title: "Dr."
   thumbnailUrl: CSKley.png
-  affiliation: Fritz Haber Institute (FHI)  <br> Helmholtz Zentrum Berlin <br> für Materialien und Energie (HZB)
+  affiliation: Helmholtz Center Berlin <br> for Materials and Energy (HZB)<br>
+Fritz Haber Institute of <br> the Max Planck Society (FHI) <br> Berlin, DE
   website: https://www.helmholtz-berlin.de/forschung/oe/ce/photo-electrocatalysis/index_en.html 
   ribbon: 
     - {abbr: "Fritz Haber Institute", title: "Nanoscale Operando CO2 Photo - Electrocatalysis", url: "https://www.helmholtz-berlin.de/forschung/oe/ce/photo-electrocatalysis/index_en.html"}  
@@ -76,7 +77,7 @@
   surname: "Heike"
   title: "Dr."
   thumbnailUrl: Riel.png
-  affiliation: IBM Research
+  affiliation: IBM Research Europe <br> Zurich, CH
   website: https://researcher.watson.ibm.com/researcher/view.php?person=zurich-hei
   #ribbon: 
   #  - {abbr: "IBM", title: "Nanoscale Operando CO2 Photo - Electrocatalysis", url: "https://www.helmholtz-berlin.de/forschung/oe/ce/photo-electrocatalysis/index_en.html"}  
@@ -87,7 +88,7 @@
   surname: "Gianfranco"
   title: "Prof. Dr."
   thumbnailUrl: Pacchioni.jpg
-  affiliation: University of Milano Bicocca <br> author of "The Overproduction of Truth; Passion, Competition, and Integrity in Modern Science"
+  affiliation: University of Milano-Bicocca (UNIMIB) <br> Milan, IT
   website: https://qclab.mater.unimib.it/
   #ribbon: 
   #  - {abbr: "MPI for Solid State Research", title: "MPI for Solid State Research", url: "https://www.fkf.mpg.de/klitzing"}  
@@ -98,7 +99,7 @@
   surname: "Sonja"
   title: "Dr."
   thumbnailUrl: portrait_sonjaschmid.jpg
-  affiliation: NanoDynamicsLab <br> Laboratory of Biophysics <br> Wageningen University
+  affiliation: Wageningen University & Research (WUR) <br> Wageningen, NL
   website: https://www.nanodynamicslab.nl/home
 
 - 
@@ -107,7 +108,7 @@
   surname: "Stefan"
   title: "Prof. Dr."
   thumbnailUrl: stefan_hell.jpg
-  affiliation: MPI for Multidisciplinary Sciences
+  affiliation: Max Planck Institute (MPI) <br> for Multidisciplinary Sciences <br> Göttingen, DE
   website: https://www.mpinat.mpg.de/de/hell
 
 - 
@@ -116,7 +117,7 @@
   surname: "Eline"
   title: "Dr."
   thumbnailUrl: eline_hutter.jpg
-  affiliation: Utrecht University
+  affiliation: Utrecht University (UU) <br> Utrecht, NL
   website: https://bertweckhuysen.com/team_member/dr-eline-hutter/
 
 - 
@@ -125,5 +126,5 @@
   surname: "Emiliano"
   title: "Prof. Dr."
   thumbnailUrl: Logo.png
-  affiliation: LMU
+  affiliation: Ludwig Maximilian University <br> of Munich (LMU) <br> Munich, DE
   website: https://www.hybridplasmonics.org/
