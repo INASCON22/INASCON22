@@ -4,7 +4,7 @@
   surname: "Klaus"
   title: "Prof. Dr."
   thumbnailUrl: KvK.jpg
-  affiliation: Nobel laureat <br> Max-Planck-Institute (MPI)<br >for Solid State Research <br> Stuttgart, DE
+  affiliation: Nobel laureate <br> Max-Planck-Institute (MPI)<br >for Solid State Research <br> Stuttgart, DE
   website: https://www.fkf.mpg.de/klitzing
   ribbon: 
     - {abbr: "MPI for Solid State Research", title: "MPI for Solid State Research", url: "https://www.fkf.mpg.de/klitzing"}  
@@ -107,7 +107,7 @@
   surname: "Stefan"
   title: "Prof. Dr."
   thumbnailUrl: stefan_hell.jpg
-  affiliation: Nobel laureat <br> Max-Planck-Institute (MPI) <br> for Multidisciplinary Sciences <br> Göttingen, DE
+  affiliation: Nobel laureate <br> Max-Planck-Institute (MPI) <br> for Multidisciplinary Sciences <br> Göttingen, DE
   website: https://www.mpinat.mpg.de/de/hell
 
 - 
