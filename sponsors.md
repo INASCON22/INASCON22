@@ -4,7 +4,7 @@ title: Sponsors
 #description: Lorem ipsum dolor est
 nav-menu: true
 permalink: sponsors
-#image: sections-background/speaker.jpg
+image: sections-background/Handshake_krakenimages-unsplash_edit.png
 ---
 
 

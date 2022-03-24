@@ -3,7 +3,7 @@
   name: "Clara"
   surname: "Aletsee"
   title: "PhD Student TUM chemistry"
-  thumbnailUrl: clara.jpg
+  thumbnailUrl: clara_neu.png
   website: https://www.department.ch.tum.de/pc/home/ 
   team: true
   ribbon: 
@@ -17,7 +17,7 @@
   name: "Robert"
   surname: "Calaminus"
   title: "PhD Student LMU Chemistry"
-  thumbnailUrl: robert.jpg
+  thumbnailUrl: robert_neu.png
   website: https://www.fkf.mpg.de/lotsch
   team: true
   ribbon: 
@@ -30,7 +30,7 @@
   name: "Simone"
   surname: "Ezendam"
   title: "PhD student LMU Physics"
-  thumbnailUrl: simone.png
+  thumbnailUrl: simone_neu.png
   website: https://www.hybridplasmonics.org/
   team: true
   ribbon: 
@@ -45,7 +45,7 @@
   name: "Kevin"
   surname: "Bertrang"
   title: "PhD student TUM chemistry"
-  thumbnailUrl: kevin.jpg
+  thumbnailUrl: kevin_neu.png
   website: https://www.department.ch.tum.de/pc/home/ 
   team: true
   social: 
@@ -57,7 +57,7 @@
   name: "Pauline"
   surname: "Kolbeck"
   title: "PhD student LMU Physics"
-  thumbnailUrl: pauline.jpg
+  thumbnailUrl: pauline_neu.png
   website: https://www.biophysik.physik.uni-muenchen.de/index.html
   team: true
   social: 
@@ -67,7 +67,7 @@
   name: "Florian"
   surname: "Binder"
   title: "PhD Student LMU Chemistry"
-  thumbnailUrl: flo.jpg
+  thumbnailUrl: flo_neu.png
   website: https://www.fkf.mpg.de/lotsch
   team: true
   ribbon: 
@@ -79,7 +79,7 @@
   name: "Sonia"
   surname: "Mackewicz"
   title: "PhD student TUM Chemistry"
-  thumbnailUrl: sonia.jpg
+  thumbnailUrl: sonia_neu.png
   website: https://www.department.ch.tum.de/pc/home/ 
   team: true
   ribbon: 
@@ -92,7 +92,7 @@
   name: "Tobias"
   surname: "Hinke"
   title: "PhD student TUM Chemistry"
-  thumbnailUrl: tobi.jpg
+  thumbnailUrl: tobi_neu.png
   website: https://www.department.ch.tum.de/pc/home/ 
   team: true
   ribbon: 
@@ -107,7 +107,7 @@
   name: "Philip"
   surname: "Petzoldt"
   title: "PhD student TUM Chemistry"
-  thumbnailUrl: Philip.jpg
+  thumbnailUrl: Philip_neu.png
   website: https://www.department.ch.tum.de/pc/home/ 
   team: true
   ribbon: 
@@ -140,7 +140,7 @@
    surname: "Blahusch"
    title: "PhD student LMU Chemistry"
    website: https://www.fkf.mpg.de/lotsch
-   thumbnailUrl: jakob.jpg
+   thumbnailUrl: jakob_neu.png
    team: true
 #   social: 
 #     - {name: "site", link: "https://www.linkedin.com/in/guy-shapira-9a0440148/"}    

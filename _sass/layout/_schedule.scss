@@ -158,25 +158,25 @@
     background-color: _palette(accent1);
   }
   &.plenary_discussion {
-    background-color: _palette(accent1);
+    background-color: _palette(accent3);
   }
   &.registration {
-    background-color: _palette(accent2);
+    background-color: _palette(accent3);
   }
   &.IM {
-    background-color: _palette(accent3);
+    background-color: _palette(accent1);
   }
   &.PV {
-    background-color: _palette(accent3);
+    background-color: _palette(accent1);
   }
   &.NB {
-    background-color: _palette(accent3);
+    background-color: _palette(accent1);
   }
   &.EC {
-    background-color: _palette(accent3);
+    background-color: _palette(accent1);
   }
   &.poster {
-    background-color: _palette(accent4);
+    background-color: _palette(accent2);
   }
   &.workshop {
     background-color: _palette(accent4);
@@ -185,18 +185,18 @@
     background-color: _palette(accent4);
   }
   &.poster_flash {
-    background-color: _palette(accent4);
+    background-color: _palette(accent2);
   }
   &.group_activity {
-    background-color: _palette(accent5);
+    background-color: _palette(accent2);
   }
   &.coffee {
-    background-color: _palette(accent6);
+    background-color: _palette(accent2);
   }
   &.lunch {
-    background-color: _palette(accent6);
+    background-color: _palette(accent2);
   }
   &.dinner {
-    background-color: _palette(accent6);
+    background-color: _palette(accent2);
   }
 }
