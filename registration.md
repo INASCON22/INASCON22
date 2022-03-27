@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Registration 
-description: Click here for registration.
+description: Click here for registration and abstract submission.
 nav-menu: false
 show_tile: True
 image: sections-background/LandingPage_Screenshot_20220324_edit.png
