@@ -1,0 +1,14 @@
+.reg_button{
+    background-color: white ;
+    border: 1px;
+    border-color: _palette(highlight);
+    color: black; 
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+.reg_button:hover, .reg_button:active{
+    background-color: white;
+    color: _palette(highlight);
+}
