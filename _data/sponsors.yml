@@ -72,3 +72,17 @@
     #- {abbr: "INASCON2019", title: "INASCON 2019 China"}    
   social: 
     - {name: "site", link: "https://www.organicgarden.de/"}
+
+- 
+  id: 5
+  name: "Pfeiffer Vacuum"
+
+  thumbnailUrl: pfeiffer.jpg
+  team: true
+  website: https://www.pfeiffer-vacuum.com
+  ribbon: 
+   # - {abbr: "LMU", title: "PhD student at LMU"}
+    #- {abbr: "TAU", title: "PhD student at TAU"}
+    #- {abbr: "INASCON2019", title: "INASCON 2019 China"}    
+  social: 
+    - {name: "site", link: "https://www.pfeiffer-vacuum.com"}
