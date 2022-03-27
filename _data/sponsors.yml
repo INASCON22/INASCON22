@@ -1,88 +1,59 @@
 - 
   id: 0
   name: "e-conversion"
-  #surname: "Aletsee"
-  #title: "PhD Student"
   thumbnailUrl: econversion.png
   team: true
   website: https://www.e-conversion.de/
   ribbon: 
-   # - {abbr: "LMU", title: "PhD student at LMU"}
-    #- {abbr: "TAU", title: "PhD student at TAU"}
-    #- {abbr: "INASCON2019", title: "INASCON 2019 China"}    
   social: 
     - {name: "site", link: "https://www.e-conversion.de/"}
 
 - 
   id: 1
   name: "CeNS - Center for Nanoscience"
-  #surname: "Aletsee"
-  #title: "PhD Student"
   thumbnailUrl: cens.png
   team: true
   website: http://www.cens.de/
   ribbon: 
-   # - {abbr: "LMU", title: "PhD student at LMU"}
-    #- {abbr: "TAU", title: "PhD student at TAU"}
-    #- {abbr: "INASCON2019", title: "INASCON 2019 China"}    
   social: 
     - {name: "site", link: "http://www.cens.de/"}
 
 - 
   id: 2
   name: "LMU Graduate Center"
-  #surname: "Aletsee"
-  #title: "PhD Student"
   thumbnailUrl: LMU_graduate.jpg
   team: true
   website: https://www.graduatecenter.uni-muenchen.de/index.html
   ribbon: 
-   # - {abbr: "LMU", title: "PhD student at LMU"}
-    #- {abbr: "TAU", title: "PhD student at TAU"}
-    #- {abbr: "INASCON2019", title: "INASCON 2019 China"}    
   social: 
     - {name: "site", link: "https://www.graduatecenter.uni-muenchen.de/index.html"}
 
 - 
   id: 3
   name: "TUM Graduate School"
-  #surname: "Aletsee"
-  #title: "PhD Student"
   thumbnailUrl: logo_fgz.jpg
   team: true
   website: https://www.ch.tum.de/graduiertenzentrum/
   ribbon: 
-   # - {abbr: "LMU", title: "PhD student at LMU"}
-    #- {abbr: "TAU", title: "PhD student at TAU"}
-    #- {abbr: "INASCON2019", title: "INASCON 2019 China"}    
   social: 
     - {name: "site", link: "https://www.ch.tum.de/graduiertenzentrum/"}
 
 - 
   id: 4
   name: "Organic Garden"
-  #surname: "Aletsee"
-  #title: "PhD Student"
   thumbnailUrl: Organic-Garden.jpg
   team: true
   website: https://www.organicgarden.de/
   ribbon: 
-   # - {abbr: "LMU", title: "PhD student at LMU"}
-    #- {abbr: "TAU", title: "PhD student at TAU"}
-    #- {abbr: "INASCON2019", title: "INASCON 2019 China"}    
   social: 
     - {name: "site", link: "https://www.organicgarden.de/"}
 
 - 
   id: 5
   name: "Pfeiffer Vacuum"
-
   thumbnailUrl: pfeiffer.jpg
   team: true
   website: https://www.pfeiffer-vacuum.com
   ribbon: 
-   # - {abbr: "LMU", title: "PhD student at LMU"}
-    #- {abbr: "TAU", title: "PhD student at TAU"}
-    #- {abbr: "INASCON2019", title: "INASCON 2019 China"}    
   social: 
     - {name: "site", link: "https://www.pfeiffer-vacuum.com"}
