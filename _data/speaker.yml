@@ -128,3 +128,39 @@
   thumbnailUrl: EmilianoCortes.jpg
   affiliation: Ludwig Maximilian University <br> of Munich (LMU) <br> Munich, DE
   website: https://www.hybridplasmonics.org/
+  
+ - 
+  id: 12
+  name: "Hofmann"
+  surname: "Hagen"
+  title: "Dr."
+  thumbnailUrl: 
+  affiliation: Weizmann Institute of Science <br> Rehovot, IL
+  website: http://www.weizmann.ac.il/CSB/Hofmann/home
+  
+  - 
+  id: 13
+  name: "Irina"
+  surname: "Martynenko"
+  title: "Dr."
+  thumbnailUrl: 
+  affiliation: Bundesanstalt für Materialforschung und -prüfung (BAM) <br> Berlin, DE
+  website: https://www.bam.de/Navigation/DE/Home/home.html
+  
+ - 
+  id: 14
+  name: "Moscatelli"
+  surname: "Alberto"
+  title: "Dr."
+  thumbnailUrl: 
+  affiliation: Chief Editor at Nature Nanotechnology<br> Berlin, DE
+  website: https://www.nature.com/nnano/
+  
+ - 
+  id: 15
+  name: "Schreiter"
+  surname: "Anne"
+  title: "Dr."
+  thumbnailUrl: 
+  affiliation: Executive Director at German Scholars Organization e.V. (GSO)<br> Berlin, DE
+  website: https://gsonet.org/
