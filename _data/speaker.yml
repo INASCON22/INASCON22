@@ -134,7 +134,7 @@
   name: "Hofmann"
   surname: "Hagen"
   title: "Dr."
-  thumbnailUrl: 
+  thumbnailUrl: Logo.png
   affiliation: Weizmann Institute of Science <br> Rehovot, IL
   website: http://www.weizmann.ac.il/CSB/Hofmann/home
   
@@ -143,7 +143,7 @@
   name: "Irina"
   surname: "Martynenko"
   title: "Dr."
-  thumbnailUrl: 
+  thumbnailUrl: Logo.png
   affiliation: Bundesanstalt für Materialforschung und -prüfung (BAM) <br> Berlin, DE
   website: https://www.bam.de/Navigation/DE/Home/home.html
   
@@ -152,7 +152,7 @@
   name: "Moscatelli"
   surname: "Alberto"
   title: "Dr."
-  thumbnailUrl: 
+  thumbnailUrl: Logo.png
   affiliation: Chief Editor at Nature Nanotechnology<br> Berlin, DE
   website: https://www.nature.com/nnano/
   
@@ -161,6 +161,6 @@
   name: "Schreiter"
   surname: "Anne"
   title: "Dr."
-  thumbnailUrl: 
+  thumbnailUrl: Logo.png
   affiliation: Executive Director at German Scholars Organization e.V. (GSO)<br> Berlin, DE
   website: https://gsonet.org/
