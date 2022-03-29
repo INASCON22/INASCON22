@@ -14,7 +14,7 @@
                 {% for member in site.data.team %}{% if member.team != null %}
                 <div class="col-sm-4">
                     <div class="team-member">
-                        <a href="{{member.website}}">
+                        <a href="{{member.website}}" target="_blank">
                         <div class="img-square">
                         <img src="{{ site.baseurl | append: 'assets/images/people/' | append: member.thumbnailUrl }}" class="img-content"
                             alt="">
@@ -47,7 +47,7 @@
                 {% for member in site.data.team %}{% if member.subTeam != null %}
                 <div class="col-sm-4">
                     <div class="team-member">
-                        <a href="{{member.website}}">
+                        <a href="{{member.website}}" target="_blank">
                             <div class="img-square">
                         <img src="{{ site.baseurl }}assets/images/people/{{ member.thumbnailUrl }}" class="img-content"
                             alt="">
