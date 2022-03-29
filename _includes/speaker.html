@@ -20,6 +20,7 @@
                         </a>
                         <h3>{{ member.title }} <span> {{ member.surname }} </span>  <span> {{ member.name }} </span></h3>
                         <h5>{{ member.affiliation }}</h5>
+                        <h5> <a href="{{member.website}}" target="_blank">Website</a></h5>
                         <ul class="list-inline social-buttons">
                             {% for network in member.social %}
                             <li>
