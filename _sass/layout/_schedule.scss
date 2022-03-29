@@ -123,10 +123,11 @@
 .time {
   display: flex;
   align-items: center;
-  justify-content: flex-end;
-  border-top: thin dotted #ccc;
+  justify-content: left flex-end;
   height: 100%;
   padding: 0 0.5rem;
+  text-align: center;
+  font-size: x-large;
 
   
 }
@@ -144,6 +145,7 @@
   font-size: 0.8rem;
   font-weight: bold;
   line-height: 1.4;
+  text-align: center;
 
   span {
     display: block;
