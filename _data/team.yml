@@ -2,7 +2,7 @@
   id: 0
   name: "Clara"
   surname: "Aletsee"
-  title: "PhD Student TUM chemistry"
+  title: "PhD Student TUM Chemistry"
   thumbnailUrl: clara_neu.jpg
   website: https://www.department.ch.tum.de/pc/home/ 
   team: true
@@ -29,7 +29,7 @@
   id: 2
   name: "Simone"
   surname: "Ezendam"
-  title: "PhD student LMU Physics"
+  title: "PhD Student LMU Physics"
   thumbnailUrl: simone_neu.jpg
   website: https://www.hybridplasmonics.org/
   team: true
@@ -44,7 +44,7 @@
   id: 3
   name: "Kevin"
   surname: "Bertrang"
-  title: "PhD student TUM chemistry"
+  title: "PhD Student TUM Chemistry"
   thumbnailUrl: kevin_neu.jpg
   website: https://www.department.ch.tum.de/pc/home/ 
   team: true
@@ -56,7 +56,7 @@
   id: 4
   name: "Pauline"
   surname: "Kolbeck"
-  title: "PhD student LMU Physics"
+  title: "PhD Student LMU Physics"
   thumbnailUrl: pauline_neu.jpg
   website: https://www.biophysik.physik.uni-muenchen.de/index.html
   team: true
@@ -78,7 +78,7 @@
   id: 6
   name: "Sonia"
   surname: "Mackewicz"
-  title: "PhD student TUM Chemistry"
+  title: "PhD Student TUM Chemistry"
   thumbnailUrl: sonia_neu.jpg
   website: https://www.department.ch.tum.de/pc/home/ 
   team: true
@@ -91,7 +91,7 @@
   id: 7
   name: "Tobias"
   surname: "Hinke"
-  title: "PhD student TUM Chemistry"
+  title: "PhD Student TUM Chemistry"
   thumbnailUrl: tobi_neu.jpg
   website: https://www.department.ch.tum.de/pc/home/ 
   team: true
@@ -106,7 +106,7 @@
   id: 8
   name: "Philip"
   surname: "Petzoldt"
-  title: "PhD student TUM Chemistry"
+  title: "PhD Student TUM Chemistry"
   thumbnailUrl: philip_neu.jpg
   website: https://www.department.ch.tum.de/pc/home/ 
   team: true
@@ -122,7 +122,7 @@
   id: 9
   name: "Christoph"
   surname: "Gruber"
-  title: "PhD student LMU Physics"
+  title: "PhD Student LMU Physics"
   thumbnailUrl: christoph_neu.jpg
   website: https://www.hybridplasmonics.org/
   team: true
@@ -138,7 +138,7 @@
    id: 10
    name: "Jakob"
    surname: "Blahusch"
-   title: "PhD student LMU Chemistry"
+   title: "PhD Student LMU Chemistry"
    website: https://www.fkf.mpg.de/lotsch
    thumbnailUrl: jakob_neu.jpg
    team: true
