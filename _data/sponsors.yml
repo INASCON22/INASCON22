@@ -57,3 +57,12 @@
   ribbon: 
   social: 
     - {name: "site", link: "https://www.pfeiffer-vacuum.com"}
+- 
+  id: 6
+  name: "SPECS Surface Nano Analysis GmbH"
+  thumbnailUrl: specs.jpg
+  team: true
+  website: https://www.specs-group.com
+  ribbon: 
+  social: 
+    - {name: "site", link: "www.specs-group.com"}
