@@ -66,3 +66,12 @@
   ribbon: 
   social: 
     - {name: "site", link: "www.specs-group.com"}
+-
+  id: 7
+  name: "Kurt J. Lesker Company"
+  thumbnailUrl: lesker.png
+  team: true
+  website: https://de.lesker.com/index.cfm
+  ribbon: 
+  social: 
+    - {name: "site", link: "https://de.lesker.com/index.cfm"}
