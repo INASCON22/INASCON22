@@ -98,7 +98,7 @@
   title: "Dr."
   thumbnailUrl: portrait_sonjaschmid.jpg
   affiliation: Wageningen University & Research (WUR) <br> Wageningen, NL
-  website: https://www.nanodynamicslab.nl/home
+  website: https://www.nanodynamicslab.nl/homenews
 
 - 
   id: 9
@@ -144,9 +144,8 @@
   surname: "Irina"
   title: "Dr."
   thumbnailUrl: Logo.png
-  affiliation: Bundesanstalt für Materialforschung und -prüfung (BAM) <br> Berlin, DE
-  website: https://www.bam.de/Navigation/DE/Home/home.html
-  
+  affiliation: Ludwig Maximilian University <br> of Munich (LMU) <br> Munich, DE
+  website: https://www.softmatter.physik.uni-muenchen.de/liedl_group/index.html
 - 
   id: 14
   name: "Moscatelli"
