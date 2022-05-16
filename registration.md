@@ -1,10 +1,53 @@
 ---
-layout: page
+layout: post
 title: Registration 
-description: Click here for registration and abstract submission. Apply until 15.05.2022
+description: Click here for registration and abstract submission. Apply until 16.05.2022. Submission extended until 16.06.2022.
 nav-menu: false
 show_tile: True
 image: sections-background/LandingPage_Screenshot_20220324_edit.png
 permalink: registration
-redirect_to: https://www.eventool.com/web/inascon2022/inaSCON/en/register
 ---
+
+
+### Who can register?
+
+Are you a PhD, Master or Bachelor student in chemistry, physics or a related discipline?
+Would you like to gain conference experience at an early stage of your career?
+Are you interested in energy materials for a sustainable future or perform topic-related research? 
+
+
+#### We organize INASCON 2022 for YOU! Submit your abstract until 15.06.2022 – significantly less than 1500 characters is perfectly fine as well. 
+
+<a href="https://www.eventool.com/web/inascon2022/inaSCON/en/register">
+                    <button class="reg_button">Submit Your Abstract<br/></button>
+                </a>
+
+
+We highly encourage you to apply for a talk or to present a poster. INASCON 2022 is your opportunity to practice how to present your research in an international, scientific and safe space. 
+
+*You never made a poster before? 
+You don’t know what to put on your poster since you have not started your Master thesis/PhD yet?*
+
+Don´t worry. A poster is a starting point for a scientific discussion on the topic of your choice. We are looking forward to your presentation of your bachelor or master thesis, or even a research internship.
+
+Here are some ideas for your poster:
+
+- Your research motivation
+- Your experimental results/ preliminary(!) data
+- Your proposed research plan for your thesis
+- Your experimental setup
+- Ideas and questions on which you like to get input from your fellow scientists
+ 
+
+If you don't have any research experience because you are still in your bachelor studies, you can still apply by ticking the option “Poster” and writing the following in the Abstract Text box:
+
+*I can not present a poster because I am an undergraduate student.*<br>
+*Number of your semesters you studied so far* <br>
+*Short(!) description why you want to go to INASCON*
+ 
+Still worried? Drop us a message (<a href="mailto:info@inascon2022.com">info@inascon2022.com</a>) – we are happy to answer your questions. 
+
+
+
+
+
