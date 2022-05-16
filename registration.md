@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Registration 
-description: Click here for registration and abstract submission. Apply until 16.05.2022. Submission extended until 16.06.2022.
+title: Info for Registration 
+description: Click here for registration and abstract submission. Apply until 16.05.2022. Submission extended until 15.06.2022.
 nav-menu: false
 show_tile: True
 image: sections-background/LandingPage_Screenshot_20220324_edit.png
