@@ -75,3 +75,13 @@
   ribbon: 
   social: 
     - {name: "site", link: "https://de.lesker.com/index.cfm"}
+
+-
+  id: 8
+  name: "MuniCat"
+  thumbnailUrl: municat.jpg
+  team: true
+  website: https://webarchiv.typo3.tum.de/TUM/mc/ueber-municat/index.html
+  ribbon: 
+  social: 
+    - {name: "site", link: "https://webarchiv.typo3.tum.de/TUM/mc/ueber-municat/index.html"}
