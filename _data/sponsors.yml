@@ -85,3 +85,13 @@
   ribbon: 
   social: 
     - {name: "site", link: "https://webarchiv.typo3.tum.de/TUM/mc/ueber-municat/index.html"}
+
+-
+  id: 9
+  name: "Taurus Investment Holdings"
+  thumbnailUrl: logo_taurus.png
+  team: true
+  website: https://www.tiholdings.com/
+  ribbon: 
+  social: 
+    - {name: "site", link: "https://www.tiholdings.com/"}
