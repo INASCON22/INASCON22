@@ -16,7 +16,7 @@ Would you like to gain conference experience at an early stage of your career?
 Are you interested in energy materials for a sustainable future or perform topic-related research? 
 
 
-#### We organize INASCON 2022 for YOU! Submit your abstract until 15.06.2022 – significantly less than 1500 characters is perfectly fine as well. 
+#### We organize INASCON 2022 for YOU! Submit your abstract – significantly less than 1500 characters is perfectly fine as well. 
 
 <a href="https://www.eventool.com/web/inascon2022/inaSCON/en/register">
                     <button class="reg_button">Submit Your Abstract<br/></button>
