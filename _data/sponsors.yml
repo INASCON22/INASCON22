@@ -95,3 +95,13 @@
   ribbon: 
   social: 
     - {name: "site", link: "https://www.tiholdings.com/"}
+
+-
+  id: 10
+  name: "M. Braun INERTGAS-SYSTEME"
+  thumbnailUrl: MBRAUN.png
+  team: true
+  website: https://www.mbraun.com/
+  ribbon: 
+  social: 
+    - {name: "site", link: "https://www.mbraun.com"}
