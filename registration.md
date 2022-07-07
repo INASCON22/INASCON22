@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Info for Registration 
-description: Click here for registration and abstract submission. Apply for one of the last spots: first come, first serve!
+description: Click here for registration and abstract submission. Apply for one of the last spots! First come, first serve!
 nav-menu: false
 show_tile: True
 image: sections-background/LandingPage_Screenshot_20220324_edit.png
