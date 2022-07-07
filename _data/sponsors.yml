@@ -105,3 +105,13 @@
   ribbon: 
   social: 
     - {name: "site", link: "https://www.mbraun.com"}
+
+-
+  id: 11
+  name: "Thorlabs"
+  thumbnailUrl: Thorlabs.png
+  team: true
+  website: https://www.thorlabs.com/
+  ribbon: 
+  social: 
+    - {name: "site", link: "https://www.thorlabs.com/"}
