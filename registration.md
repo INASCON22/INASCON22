@@ -1,13 +1,13 @@
 ---
 layout: post
 title: Info for Registration 
-description: Click here for registration and abstract submission. Apply for one of the last spots! First come, first serve!
+description: Registration is closed!
 nav-menu: false
 show_tile: True
 image: sections-background/LandingPage_Screenshot_20220324_edit.png
 permalink: registration
 ---
-
+# Registration is closed!
 
 ### Who can register?
 
@@ -17,10 +17,6 @@ Are you interested in energy materials for a sustainable future or perform topic
 
 
 #### We organize INASCON 2022 for YOU! Submit your abstract – significantly less than 1500 characters is perfectly fine as well. 
-
-<a href="https://www.eventool.com/web/inascon2022/inaSCON/en/register">
-                    <button class="reg_button">Submit Your Abstract<br/></button>
-                </a>
 
 
 We highly encourage you to apply for a talk or to present a poster. INASCON 2022 is your opportunity to practice how to present your research in an international, scientific and safe space. 
