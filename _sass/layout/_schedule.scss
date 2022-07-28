@@ -46,58 +46,59 @@
         .start-1415 { grid-area: 20 / 1 / 21 / 2; }
         .start-1430 { grid-area: 21 / 1 / 22 / 2; }
         .start-1445 { grid-area: 22 / 1 / 23 / 2; }
-        .start-1500 { grid-area: 24 / 1 / 25 / 2; }
-        .start-1515 { grid-area: 25 / 1 / 26 / 2; }
-        .start-1530 { grid-area: 26 / 1 / 27 / 2; }
-        .start-1545 { grid-area: 27 / 1 / 28 / 2; }
-        .start-1600 { grid-area: 28 / 1 / 29 / 2; }
-        .start-1615 { grid-area: 29 / 1 / 30 / 2; }
-        .start-1630 { grid-area: 30 / 1 / 31 / 2; }
-        .start-1645 { grid-area: 31 / 1 / 32 / 2; }
-        .start-1700 { grid-area: 32 / 1 / 33 / 2; }
-        .start-1715 { grid-area: 33 / 1 / 34 / 2; }
-        .start-1730 { grid-area: 34 / 1 / 35 / 2; }
-        .start-1745 { grid-area: 35 / 1 / 36 / 2; }
-        .start-1800 { grid-area: 36 / 1 / 37 / 2; }
-        .start-1815 { grid-area: 37 / 1 / 38 / 2; }
-        .start-1830 { grid-area: 38 / 1 / 39 / 2; }
-        .start-1845 { grid-area: 39 / 1 / 40 / 2; }
-        .start-1900 { grid-area: 40 / 1 / 41 / 2; }
-        .start-1915 { grid-area: 41 / 1 / 42 / 2; }
-        .start-1930 { grid-area: 42 / 1 / 43 / 2; }
-        .start-1945 { grid-area: 43 / 1 / 44 / 2; }
-        .start-2000 { grid-area: 44 / 1 / 45 / 2; }
-        .start-2015 { grid-area: 45 / 1 / 46 / 2; }
-        .start-2030 { grid-area: 46 / 1 / 47 / 2; }
-        .start-2045 { grid-area: 47 / 1 / 48 / 2; }
-        .start-2100 { grid-area: 48 / 1 / 49 / 2; }
+        .start-1500 { grid-area: 23 / 1 / 24 / 2; }
+        .start-1515 { grid-area: 24 / 1 / 25 / 2; }
+        .start-1530 { grid-area: 25 / 1 / 27 / 2; }
+        .start-1545 { grid-area: 26 / 1 / 27 / 2; }
+        .start-1600 { grid-area: 27 / 1 / 28 / 2; }
+        .start-1615 { grid-area: 28 / 1 / 29 / 2; }
+        .start-1630 { grid-area: 29 / 1 / 30 / 2; }
+        .start-1645 { grid-area: 30 / 1 / 31 / 2; }
+        .start-1700 { grid-area: 31 / 1 / 32 / 2; }
+        .start-1715 { grid-area: 32 / 1 / 33 / 2; }
+        .start-1730 { grid-area: 33 / 1 / 34 / 2; }
+        .start-1745 { grid-area: 34 / 1 / 35 / 2; }
+        .start-1800 { grid-area: 35 / 1 / 36 / 2; }
+        .start-1815 { grid-area: 36 / 1 / 37 / 2; }
+        .start-1830 { grid-area: 37 / 1 / 38 / 2; }
+        .start-1845 { grid-area: 38 / 1 / 39 / 2; }
+        .start-1900 { grid-area: 39 / 1 / 40 / 2; }
+        .start-1915 { grid-area: 40 / 1 / 41 / 2; }
+        .start-1930 { grid-area: 41 / 1 / 42 / 2; }
+        .start-1945 { grid-area: 42 / 1 / 43 / 2; }
+        .start-2000 { grid-area: 43 / 1 / 44 / 2; }
+        .start-2015 { grid-area: 44 / 1 / 45 / 2; }
+        .start-2030 { grid-area: 45 / 1 / 46 / 2; }
+        .start-2045 { grid-area: 46 / 1 / 47 / 2; }
+        .start-2100 { grid-area: 47 / 1 / 48 / 2; }
 
         /**
         * Sessions
         */
-        .reg1 { grid-area: 7 / 2 / 11 / 4; }
-        .reg2 { grid-area: 15 / 2 / 19 / 4; }
-        .welcome { grid-area: 21 /2 /26/4;}
-        .IM1 {grid-area: 28/2/31/3;}
-        .PV1 {grid-area: 28/3/31/4;}
+        .reg1 { grid-area: 12 / 2 / 18 / 4; }
+        .welcome { grid-area: 20 /2 /23 / 4;}
+        .plenary0 {grid-area: 23 / 2 / 27 / 4;}
+        .IM1 {grid-area: 28/2/32/3;}
+        .PV1 {grid-area: 28/3/32/4;}
         .poster_flash1 {grid-area: 33/2/34/4;}
-        .poster_session1 {grid-area: 34/2/39/4;}
+        .poster_session1 {grid-area: 34/2 /44 /4;}
 
 
         .plenary1 {grid-area: 2/4/6/6;}
         .coffee1 {grid-area: 6/4/7/6;}
-        .IM2 {grid-area: 7/4/11/5;}
+        .NB1 {grid-area: 7/4/11/5;}
         .PV2 {grid-area: 7/5/11/6;}
         .lunch1 {grid-area: 11/4/15/6;}
-        .EC1 {grid-area: 15/4/18/5;}
-        .NB1 {grid-area: 15/5/18/6;}
+        .plenary2 {grid-area: 15/4/18/6;}
         .coffee2 {grid-area: 18/4/19/6;}
         .workshop1 {grid-area: 19/4/22/5;}
         .workshop2 {grid-area: 19/5/22/6;}
         .group_act{grid-area: 22/4/39/6;}
         
 
-        .plenary2 {grid-area: 2/6/6/8;}
+        .plenary3 {grid-area: 2/6/4/8;}
+        .company1 {grid-area: 4/6/5/8;}
+        .company2 {grid-area: 5/6/6/8;}
         .coffee3 {grid-area: 6/6/7/8;}
         .EC2 {grid-area: 7/6/11/7;}
         .IM3 {grid-area: 7/7/11/8;}
@@ -106,14 +107,15 @@
         .NB2{grid-area: 15/7/18/8;}
         .fair{grid-area: 18/6/24/8;}
         .discussion{grid-area: 25/6/31/8;}
-        .dinner{grid-area: 37/6/44/8;}
+        .dinner{grid-area: 39/6/47/8;}
 
 
         .poster_flash2{grid-area: 3/8/5/10;}
-        .poster_session2{grid-area: 5/8/16/10;}
-        .EC3{grid-area: 16/8/20/9;}
-        .NB3{grid-area: 16/9/20/10;}
-        .coffee4{grid-area: 20/8/21/10;}
+        .poster_session2{grid-area: 5/8/12/10;}
+        .EC3{grid-area: 12/8/16/9;}
+        .NB3{grid-area: 12/9/16/10;}
+        .coffee4{grid-area: 16/8/17/10;}
+        .plenary4{grid-area: 17/8/21/10;}
         .plenary_bye{grid-area: 21/8/23/10;}
 }
 
@@ -156,11 +158,14 @@
 
  
 
-  &.plenary {
+  &.welcome{
     background-color: _palette(accent1);
   }
   &.plenary_discussion {
     background-color: _palette(accent3);
+  }
+  &.plenary {
+    background-color: _palette(accent1);
   }
   &.registration {
     background-color: _palette(accent3);
@@ -187,7 +192,7 @@
     background-color: _palette(accent4);
   }
   &.poster_flash {
-    background-color: _palette(accent2);
+    background-color: _palette(accent1);
   }
   &.group_activity {
     background-color: _palette(accent2);
@@ -199,6 +204,12 @@
     background-color: _palette(accent2);
   }
   &.dinner {
+    background-color: _palette(accent2);
+  }
+  &.company {
+    background-color: _palette(accent3);
+  }
+  &.goodbye {
     background-color: _palette(accent2);
   }
 }
