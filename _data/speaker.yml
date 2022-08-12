@@ -35,14 +35,12 @@
 
 - 
   id: 3
-  name: "Deschler"
-  surname: "Felix"
-  title: "Prof. Dr."
-  thumbnailUrl: Felix_Deschler.jpg
-  affiliation: Ruprecht Karl University of Heidelberg <br> Heidelberg, DE
-  website: https://www.wsi.tum.de/views/sub_group.php?group=Deschler 
-  ribbon: 
-    - {abbr: "TUM", title: "Walter Schottky Institute", url: "https://www.wsi.tum.de/views/sub_group.php?group=Deschler"}  
+  name: "Bodnar"
+  surname: "Stanislav"
+  title: "Dr."
+  thumbnailUrl: Bodnar.png
+  affiliation: Ludwig Maximilian University <br> of Munich (LMU) <br> Munich, DE
+  website: https://www.wsi.tum.de/views/user.php?user=180113473
 
 
 
