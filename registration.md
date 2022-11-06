@@ -1,22 +1,22 @@
 ---
 layout: post
 title: Info for Registration 
-description: Registration is closed!
+description: Registration starts in 2023!
 nav-menu: false
 show_tile: True
 image: sections-background/LandingPage_Screenshot_20220324_edit.png
 permalink: registration
 ---
-# Registration is closed!
+# Registration starts in 2023!
 
 ### Who can register?
 
-Are you a PhD, Master or Bachelor student in chemistry, physics or a related discipline?
+Are you a PhD, Master or Bachelor student in biology, chemistry, physics or a related discipline?
 Would you like to gain conference experience at an early stage of your career?
 Are you interested in energy materials for a sustainable future or perform topic-related research? 
 
 
-#### We organize INASCON 2022 for YOU! Submit your abstract – significantly less than 1500 characters is perfectly fine as well. 
+#### We organize INASCON 2023 for YOU! Submit your abstract – significantly less than 1500 characters is perfectly fine as well. 
 
 
 We highly encourage you to apply for a talk or to present a poster. INASCON 2022 is your opportunity to practice how to present your research in an international, scientific and safe space. 
@@ -41,7 +41,7 @@ If you don't have any research experience because you are still in your bachelor
 *Number of your semesters you studied so far* <br>
 *Short(!) description why you want to go to INASCON*
  
-Still worried? Drop us a message (<a href="mailto:info@inascon2022.com">info@inascon2022.com</a>) – we are happy to answer your questions. 
+Still worried? Drop us a message (<a href="mailto:info-inascon2023@unibas.ch">info-inascon2023@unibas.ch</a>) – we are happy to answer your questions. 
 
 
 

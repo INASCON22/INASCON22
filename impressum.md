@@ -9,11 +9,11 @@ permalink: impressum
 
 Angaben gemäß § 5 TMG
 
-INASCON2022
-Butenandtstr. 5-13
-81377 München
+INASCON2023
+Petersplatz 1
+4051 Basel
 
-Vertreten durch:
+<!-- Vertreten durch:
 Jakob Blahusch
 
 Kontakt:
@@ -23,7 +23,7 @@ E-Mail: j.blahusch@fkf.mpg.de
 Verantwortlich für den Inhalt nach § 55 Abs. 2 RStV:
 Jakob Blahusch
 Butenandtstr. 5-13
-81377 München
+81377 München -->
 
 # Haftungsausschluss:
 

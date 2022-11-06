@@ -13,10 +13,10 @@ permalink: datenschutz
 
 Die verantwortliche Stelle für die Datenverarbeitung auf dieser Website ist:
 
-<span id="s3-t-firma">INASCON 2022</span>  
-<span id="s3-t-ansprechpartner">Jakob Blahusch</span>  
-<span id="s3-t-strasse">Butenandtstr., 5-13</span>  
-<span id="s3-t-plz">81377</span> <span id="s3-t-ort">München</span>
+<span id="s3-t-firma">INASCON 2023</span>  
+<!-- <span id="s3-t-ansprechpartner">??</span> -->
+<span id="s3-t-strasse">Petersplatz 1</span>  
+<span id="s3-t-plz">4051</span> <span id="s3-t-ort">Basel</span>
 
 Die verantwortliche Stelle entscheidet allein oder gemeinsam mit anderen über die Zwecke und Mittel der Verarbeitung von personenbezogenen Daten (z.B. Namen, Kontaktdaten o. Ä.).
 
