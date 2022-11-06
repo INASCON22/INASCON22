@@ -1,17 +1,17 @@
 # site settings
 title: INASCON
-subtitle: 2022 
-email: info@inascon2022.com
+subtitle: 2023
+email: info-inascon2023@unibas.ch
 description: 
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: inascon.org # the base hostname & protocol for your site
 author:
 #street_address: 1234 Somewhere Road
-city: Munich
+city: Basel
 #state: TN
-#zip_code: 55555
-country: Germany
-phone: (716) 555-5555
+#zip_code: 4058
+country: Switzerland
+#phone: (716) 555-5555
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
