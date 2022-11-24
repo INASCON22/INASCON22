@@ -12,13 +12,17 @@
   padding: 10%
 }
 
-.schedule_img {
+.schedule_img img{
   display: flex;
   justify-content: center;
   align-items: center;
-  text-align: justify;
+  text-align: center;
   width: 50%;
   min-width: 330px;
+}
+.schedule_img {
+  text-align: justify;
+  width: 50%;
 }
 
 
