@@ -8,7 +8,7 @@
 
 #banner {
     @include vendor('align-items', 'center');
-    @include vendor('background-image', 'url("../images/sections-background/homepage_bg_05.svg")');
+    @include vendor('background-image', 'url("../images/background1.png")');
     @include vendor('display', 'flex');
     @include padding(4em, 0, (2em, 0, 0, 0));
     background-attachment: fixed;
