@@ -1,10 +1,10 @@
 - 
   id: 0
-  name: "Clara"
-  surname: "Aletsee"
-  title: "PhD Student TUM Chemistry"
-  thumbnailUrl: clara_neu.jpg
-  website: https://www.department.ch.tum.de/pc/home/ 
+  name: "Mathias"
+  surname: "Claus"
+  title: "PhD Student SNI, University of Basel"
+  thumbnailUrl: 20221201_Mathias.png
+  website: https://poggiolab.unibas.ch/people/mathias-claus/ 
   team: true
   ribbon: 
    # - {abbr: "LMU", title: "PhD student at LMU"}
@@ -14,11 +14,11 @@
    # - {name: "site", link: "https://www.linkedin.com/in/tamara-ehm-105455116/"}
 - 
   id: 1
-  name: "Robert"
-  surname: "Calaminus"
-  title: "PhD Student LMU Chemistry"
-  thumbnailUrl: robert_neu.jpg
-  website: https://www.fkf.mpg.de/lotsch
+  name: "Rahel"
+  surname: "Kaiser"
+  title: "PhD Student SNI, University of Basel"
+  thumbnailUrl: 20221201_Rahel.jpg
+  website: https://physik.unibas.ch/de/personen/kaiser-rahel-maria/
   team: true
   ribbon: 
   #  - {abbr: "TAU", title: "MD-PhD Student at TAU"}
@@ -27,11 +27,11 @@
   #  - {name: "twitter", link: "https://twitter.com/MayerOri"}
 - 
   id: 2
-  name: "Simone"
-  surname: "Ezendam"
-  title: "PhD Student LMU Physics"
-  thumbnailUrl: simone_neu.jpg
-  website: https://www.hybridplasmonics.org/
+  name: "Luca"
+  surname: "Forrer"
+  title: "PhD Student SNI, University of Basel"
+  thumbnailUrl: 20221201_Luca.jpg
+  website: https://poggiolab.unibas.ch/people/luca-forrer/
   team: true
   ribbon: 
   #  - {abbr: "TAU", title: "MD-PhD Student at TAU"}
@@ -42,11 +42,11 @@
     # - {name: "site", link: "http://yazeedzoabi.com/"}    
 - 
   id: 3
-  name: "Kevin"
-  surname: "Bertrang"
-  title: "PhD Student TUM Chemistry"
-  thumbnailUrl: kevin_neu.jpg
-  website: https://www.department.ch.tum.de/pc/home/ 
+  name: "Lukas"
+  surname: "Schneider"
+  title: "PhD Student SNI University of Basel"
+  thumbnailUrl: 20221201_Lukas.jpg
+  website: https://poggiolab.unibas.ch/people/lukas-schneider/
   team: true
   social: 
   #  - {name: "site", link: "https://www.linkedin.com/in/yosi-azan-0b8186b1/"}    
@@ -54,33 +54,34 @@
     # - {name: "github", link: "https://github.com/dmytrodanylyk"}
 - 
   id: 4
-  name: "Pauline"
-  surname: "Kolbeck"
-  title: "PhD Student LMU Physics"
-  thumbnailUrl: pauline_neu.jpg
-  website: https://www.biophysik.physik.uni-muenchen.de/index.html
+  name: "Alexa"
+  surname: "Dani"
+  title: "Master's Student Nanoscience University of Basel"
+  thumbnailUrl: 20221201_Alexa.jpg
+  #website: 
   team: true
   social: 
 #    - {name: "site", link: "https://www.linkedin.com/in/artem-danilevsky-237166155/"}
 -
   id: 5
-  name: "Florian"
-  surname: "Binder"
-  title: "PhD Student LMU Chemistry"
-  thumbnailUrl: flo_neu.jpg
-  website: https://www.fkf.mpg.de/lotsch
+  name: "Timon"
+  surname: "Flathmann"
+  title: "Master's Student Nanoscience University of Basel"
+  thumbnailUrl: 20221201_Timon.jpg
+  #website: 
   team: true
   ribbon: 
 #    - {abbr: "BGU", title: "BSc Student"}
   social: 
 #    - {name: "site", link: "https://www.linkedin.com/in/tehila-cohen-5b410820b/"}   
+
 -
   id: 6
-  name: "Sonia"
-  surname: "Mackewicz"
-  title: "PhD Student TUM Chemistry"
-  thumbnailUrl: sonia_neu.jpg
-  website: https://www.department.ch.tum.de/pc/home/ 
+  name: "Elaine"
+  surname: "Schneider"
+  title: "Master's Student Nanoscience University of Basel"
+  thumbnailUrl: 20221201_Elaine.jpg
+  website: 
   team: true
   ribbon: 
 #    - {abbr: "TAU", title: "MD-PhD Student at TAU"}
@@ -89,11 +90,11 @@
 
 - 
   id: 7
-  name: "Tobias"
-  surname: "Hinke"
-  title: "PhD Student TUM Chemistry"
-  thumbnailUrl: tobi_neu.jpg
-  website: https://www.department.ch.tum.de/pc/home/ 
+  name: "Valerie"
+  surname: "Bendel"
+  title: "Bachelor's Student Nanoscience University of Basel"
+  thumbnailUrl: 20221201_Valeriejpg
+  website: 
   team: true
   ribbon: 
   #  - {abbr: "TAU", title: "MD-PhD Student at TAU"}
@@ -102,77 +103,3 @@
    # - {name: "site", link: "https://www.linkedin.com/in/zoabi"}
   #  - {name: "github", link: "https://github.com/yazeedz"}
     # - {name: "site", link: "http://yazeedzoabi.com/"}    
-- 
-  id: 8
-  name: "Philip"
-  surname: "Petzoldt"
-  title: "PhD Student TUM Chemistry"
-  thumbnailUrl: philip_neu.jpg
-  website: https://www.department.ch.tum.de/pc/home/ 
-  team: true
-  ribbon: 
-  #  - {abbr: "TAU", title: "MD-PhD Student at TAU"}
-  social: 
-  #+  - {name: "twitter", link: "https://twitter.com/yzedz"}
-   # - {name: "site", link: "https://www.linkedin.com/in/zoabi"}
-  #  - {name: "github", link: "https://github.com/yazeedz"}
-    # - {name: "site", link: "http://yazeedzoabi.com/"}    - 
-
-- 
-  id: 9
-  name: "Christoph"
-  surname: "Gruber"
-  title: "PhD Student LMU Physics"
-  thumbnailUrl: christoph_neu.jpg
-  website: https://www.hybridplasmonics.org/
-  team: true
-  ribbon: 
-  #  - {abbr: "TAU", title: "MD-PhD Student at TAU"}
-  social: 
-  #+  - {name: "twitter", link: "https://twitter.com/yzedz"}
-   # - {name: "site", link: "https://www.linkedin.com/in/zoabi"}
-  #  - {name: "github", link: "https://github.com/yazeedz"}
-    # - {name: "site", link: "http://yazeedzoabi.com/"}    - 
-    
--
-   id: 10
-   name: "Jakob"
-   surname: "Blahusch"
-   title: "PhD Student LMU Chemistry"
-   website: https://www.fkf.mpg.de/lotsch
-   thumbnailUrl: jakob_neu.jpg
-   team: true
-#   social: 
-#     - {name: "site", link: "https://www.linkedin.com/in/guy-shapira-9a0440148/"}    
-  
-- 
-  id: 11
-  name: "Stefan"
-  surname: "Maier"
-  title: "Professor at LMU Munich"
-  thumbnailUrl: stefan_maier.jpg
-  subTeam: true
-  website: https://www.hybridplasmonics.org/ 
-  social: 
-    - {name: "site", link: "https://www.hybridplasmonics.org/"}    
-- 
-  id: 12
-  name: "Ueli"
-  surname: "Heiz"
-  title: "Professor at TU Munich"
-  thumbnailUrl: ueli_heiz.jpg
-  subTeam: true
-  website: https://www.department.ch.tum.de/pc/home/ 
-  social: 
-    - {name: "site", link: "https://www.department.ch.tum.de/pc/home/"}    
-- 
-  id: 13
-  name: "Barbara"
-  surname: "Lechner"
-  title: "Professor at TU Munich"
-  thumbnailUrl: barbara_lechner.jpg
-  subTeam: true
-  website: https://www.department.ch.tum.de/nanomaterials/home/ 
-  social: 
-    - {name: "site", link: "https://www.department.ch.tum.de/nanomaterials/home/"}    
-
