@@ -3,7 +3,7 @@
   name: "Mathias"
   surname: "Claus"
   title: "PhD Student SNI, University of Basel"
-  thumbnailUrl: 20221201_Mathias.png
+  thumbnailUrl: 20221201_Mathias.jpeg
   website: https://poggiolab.unibas.ch/people/mathias-claus/ 
   team: true
   ribbon: 
@@ -17,7 +17,7 @@
   name: "Rahel"
   surname: "Kaiser"
   title: "PhD Student SNI, University of Basel"
-  thumbnailUrl: 20221201_Rahel.jpg
+  thumbnailUrl: 20221201_Rahel.jpeg
   website: https://physik.unibas.ch/de/personen/kaiser-rahel-maria/
   team: true
   ribbon: 
@@ -30,7 +30,7 @@
   name: "Luca"
   surname: "Forrer"
   title: "PhD Student SNI, University of Basel"
-  thumbnailUrl: 20221201_Luca.jpg
+  thumbnailUrl: 20221201_Luca.jpeg
   website: https://poggiolab.unibas.ch/people/luca-forrer/
   team: true
   ribbon: 
@@ -45,7 +45,7 @@
   name: "Lukas"
   surname: "Schneider"
   title: "PhD Student SNI University of Basel"
-  thumbnailUrl: 20221201_Lukas.jpg
+  thumbnailUrl: 20221201_Lukas.jpeg
   website: https://poggiolab.unibas.ch/people/lukas-schneider/
   team: true
   social: 
@@ -57,7 +57,7 @@
   name: "Alexa"
   surname: "Dani"
   title: "Master's Student Nanoscience University of Basel"
-  thumbnailUrl: 20221201_Alexa.jpg
+  thumbnailUrl: 20221201_Alexa.jpeg
   #website: 
   team: true
   social: 
@@ -67,7 +67,7 @@
   name: "Timon"
   surname: "Flathmann"
   title: "Master's Student Nanoscience University of Basel"
-  thumbnailUrl: 20221201_Timon.jpg
+  thumbnailUrl: 20221201_Timon.jpeg
   #website: 
   team: true
   ribbon: 
@@ -80,7 +80,7 @@
   name: "Elaine"
   surname: "Schneider"
   title: "Master's Student Nanoscience University of Basel"
-  thumbnailUrl: 20221201_Elaine.jpg
+  thumbnailUrl: 20221201_Elaine.jpeg
   website: 
   team: true
   ribbon: 
@@ -93,7 +93,7 @@
   name: "Valerie"
   surname: "Bendel"
   title: "Bachelor's Student Nanoscience University of Basel"
-  thumbnailUrl: 20221201_Valeriejpg
+  thumbnailUrl: 20221201_Valerie.jpeg
   website: 
   team: true
   ribbon: 
