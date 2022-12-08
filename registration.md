@@ -13,18 +13,18 @@ permalink: registration
 
 Are you a PhD, Master or Bachelor student in biology, chemistry, physics or a related discipline?
 Would you like to gain conference experience at an early stage of your career?
-Are you interested in energy materials for a sustainable future or perform topic-related research? 
+Are you interested in the facettes of nanoscience, interested in visualization techniques and seek interdisciplinary exchange? 
 
 
-#### We organize INASCON 2023 for YOU! Submit your abstract – significantly less than 1500 characters is perfectly fine as well. 
+#### We are honored to organize INASCON 2023 for YOU! Save the date: 22nd to 25th of August 2023. Registration will open in spring! 
 
 
-We highly encourage you to apply for a talk or to present a poster. INASCON 2022 is your opportunity to practice how to present your research in an international, scientific and safe space. 
+We highly encourage you to apply for a talk or to present a poster. INASCON 2023 is your perfect opportunity to practice how to present your research in an international, scientific and safe space among fellow students. 
 
-*You never made a poster before? 
-You don’t know what to put on your poster since you have not started your Master thesis/PhD yet?*
+*You have never made or presented a poster before? 
+You don’t know what to put on your poster since you have not started your Master's thesis/PhD yet?*
 
-Don´t worry. A poster is a starting point for a scientific discussion on the topic of your choice. We are looking forward to your presentation of your bachelor or master thesis, or even a research internship.
+Don't worry. A poster is a starting point for a scientific discussion on a topic of your choice. We are looking forward to your presentation of your Bachelor's or Master's thesis, or even a research internship – anything that you deem interesting and relevant to the conference's topic: Make Nano Visible!
 
 Here are some ideas for your poster:
 
@@ -32,14 +32,14 @@ Here are some ideas for your poster:
 - Your experimental results/ preliminary(!) data
 - Your proposed research plan for your thesis
 - Your experimental setup
-- Ideas and questions on which you like to get input from your fellow scientists
+- Ideas and questions on which you would like to get input from your fellow scientists
  
 
-If you don't have any research experience because you are still in your bachelor studies, you can still apply by ticking the option “Poster” and writing the following in the Abstract Text box:
+If you don't have any research experience because you are still in your Bachelor studies, you can still apply! Just make sure to let us know in the registration form with the following text:
 
-*I can not present a poster because I am an undergraduate student.*<br>
-*Number of your semesters you studied so far* <br>
-*Short(!) description why you want to go to INASCON*
+*Unfortunately, I cannot present a poster because I am an undergraduate student.*<br>
+*Number of your semesters you have studied so far* <br>
+*Short(!) description of why you want to go to INASCON*
  
 Still worried? Drop us a message (<a href="mailto:info-inascon2023@unibas.ch">info-inascon2023@unibas.ch</a>) – we are happy to answer your questions. 
 
