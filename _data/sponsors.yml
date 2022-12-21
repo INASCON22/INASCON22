@@ -3,7 +3,7 @@
   name: "Swiss Nanoscience Institute"
   thumbnailUrl: SNI_logo.jpg
   team: true
-  website: www.nanoscience.ch/de/
+  website: https://nanoscience.ch/de/
   ribbon: 
   social: 
     - {name: "site", link: "https://nanoscience.ch/de/"}
@@ -13,7 +13,7 @@
   name: "Schweizerische Gesellschaft der Verfahrens- und ChemieingenieurInnen"
   thumbnailUrl: SGVC_Color-1.png
   team: true
-  website: www.sgvc.ch
+  website: http://www.sgvc.ch
   ribbon: 
   social: 
     - {name: "site", link: "http://www.sgvc.ch"}
