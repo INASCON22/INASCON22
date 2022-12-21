@@ -1,117 +1,19 @@
 - 
   id: 0
-  name: "e-conversion"
-  thumbnailUrl: econversion.png
+  name: "Swiss Nanoscience Institute"
+  thumbnailUrl: SNI_logo.jpg
   team: true
-  website: https://www.e-conversion.de/
+  website: www.nanoscience.ch/de/
   ribbon: 
   social: 
-    - {name: "site", link: "https://www.e-conversion.de/"}
+    - {name: "site", link: "https://nanoscience.ch/de/"}
 
 - 
   id: 1
-  name: "CeNS - Center for Nanoscience"
-  thumbnailUrl: cens.png
+  name: "Schweizerische Gesellschaft der Verfahrens- und ChemieingenieurInnen"
+  thumbnailUrl: SGVC_Color.pdf
   team: true
-  website: http://www.cens.de/
+  website: www.sgvc.ch
   ribbon: 
   social: 
-    - {name: "site", link: "http://www.cens.de/"}
-
-- 
-  id: 2
-  name: "LMU Graduate Center"
-  thumbnailUrl: LMU_graduate.jpg
-  team: true
-  website: https://www.graduatecenter.uni-muenchen.de/index.html
-  ribbon: 
-  social: 
-    - {name: "site", link: "https://www.graduatecenter.uni-muenchen.de/index.html"}
-
-- 
-  id: 3
-  name: "TUM Graduate School"
-  thumbnailUrl: logo_fgz.jpg
-  team: true
-  website: https://www.ch.tum.de/graduiertenzentrum/
-  ribbon: 
-  social: 
-    - {name: "site", link: "https://www.ch.tum.de/graduiertenzentrum/"}
-
-- 
-  id: 4
-  name: "Organic Garden"
-  thumbnailUrl: Organic-Garden.jpg
-  team: true
-  website: https://www.organicgarden.de/
-  ribbon: 
-  social: 
-    - {name: "site", link: "https://www.organicgarden.de/"}
-
-- 
-  id: 5
-  name: "Pfeiffer Vacuum"
-  thumbnailUrl: pfeiffer.jpg
-  team: true
-  website: https://www.pfeiffer-vacuum.com
-  ribbon: 
-  social: 
-    - {name: "site", link: "https://www.pfeiffer-vacuum.com"}
-- 
-  id: 6
-  name: "SPECS Surface Nano Analysis GmbH"
-  thumbnailUrl: specs.jpg
-  team: true
-  website: https://www.specs-group.com
-  ribbon: 
-  social: 
-    - {name: "site", link: "www.specs-group.com"}
--
-  id: 7
-  name: "Kurt J. Lesker Company"
-  thumbnailUrl: lesker.png
-  team: true
-  website: https://de.lesker.com/index.cfm
-  ribbon: 
-  social: 
-    - {name: "site", link: "https://de.lesker.com/index.cfm"}
-
--
-  id: 8
-  name: "MuniCat"
-  thumbnailUrl: municat.jpg
-  team: true
-  website: https://webarchiv.typo3.tum.de/TUM/mc/ueber-municat/index.html
-  ribbon: 
-  social: 
-    - {name: "site", link: "https://webarchiv.typo3.tum.de/TUM/mc/ueber-municat/index.html"}
-
--
-  id: 9
-  name: "Taurus Investment Holdings"
-  thumbnailUrl: logo_taurus.png
-  team: true
-  website: https://www.tiholdings.com/
-  ribbon: 
-  social: 
-    - {name: "site", link: "https://www.tiholdings.com/"}
-
--
-  id: 10
-  name: "M. Braun INERTGAS-SYSTEME"
-  thumbnailUrl: MBRAUN.png
-  team: true
-  website: https://www.mbraun.com/
-  ribbon: 
-  social: 
-    - {name: "site", link: "https://www.mbraun.com"}
-
--
-  id: 11
-  name: "Thorlabs"
-  thumbnailUrl: Thorlabs.png
-  team: true
-  website: https://www.thorlabs.com/
-  ribbon: 
-  social: 
-    - {name: "site", link: "https://www.thorlabs.com/"}
+    - {name: "site", link: "http://www.sgvc.ch"}
