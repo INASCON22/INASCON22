@@ -17,3 +17,22 @@
   ribbon: 
   social: 
     - {name: "site", link: "http://www.sgvc.ch"}
+
+- 
+  id: 2
+  name: "Empa – Materials Science and Technology "
+  thumbnailUrl: empa.eps
+  team: true
+  website: https://www.empa.ch/
+  ribbon: 
+  social: 
+    - {name: "site", link: "https://www.empa.ch/"}
+- 
+  id: 3
+  name: "Sensirion AG"
+  thumbnailUrl:
+  team: true
+  website: https://sensirion.com/de/
+  ribbon: 
+  social: 
+    - {name: "site", link: "https://sensirion.com/de/"}
