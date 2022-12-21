@@ -6,7 +6,11 @@ description:
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: inascon.org # the base hostname & protocol for your site
 author:
-street_address: Klingelbergstrasse 82
+street_address:
+  Klingelbergstrasse 82 
+  University of Basel 
+  Swiss Nanoscience Institute 
+  c/o INASCON 2023
 city: Basel
 #state: TN
 zip_code: 4056
@@ -26,7 +30,7 @@ socials:
   #GitLab:
   #Google-Plus: https://plus.google.com/u/0/+AndrewBanchich
   Instagram: https://www.instagram.com/inascon_official/
-  #LinkedIn: https://www.linkedin.com/company/inascon2022
+  LinkedIn: https://www.linkedin.com/company/inascon2022
   Twitter: https://twitter.com/inascon1
   #Facebook:
   #Slack:
