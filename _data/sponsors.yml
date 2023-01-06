@@ -30,7 +30,7 @@
 - 
   id: 1
   name: "Sensirion AG"
-  thumbnailUrl:
+  thumbnailUrl: sensirion.png
   team: true
   website: https://sensirion.com/de/
   ribbon: 
