@@ -9,7 +9,7 @@
     - {name: "site", link: "https://nanoscience.ch/de/"}
 
 - 
-  id: 1
+  id: 5
   name: "Schweizerische Gesellschaft der Verfahrens- und ChemieingenieurInnen"
   thumbnailUrl: SGVC_Color-1.png
   team: true
@@ -19,7 +19,7 @@
     - {name: "site", link: "http://www.sgvc.ch"}
 
 - 
-  id: 2
+  id: 3
   name: "Empa – Materials Science and Technology "
   thumbnailUrl: empa.png
   team: true
@@ -28,7 +28,7 @@
   social: 
     - {name: "site", link: "https://www.empa.ch/"}
 - 
-  id: 3
+  id: 1
   name: "Sensirion AG"
   thumbnailUrl:
   team: true
@@ -36,3 +36,23 @@
   ribbon: 
   social: 
     - {name: "site", link: "https://sensirion.com/de/"}
+
+- 
+  id: 2
+  name: "NCCR SPIN"
+  thumbnailUrl: Logo_NCCR_SPIN_Centered-1.png
+  team: true
+  website: https://www.nccr-spin.ch/
+  ribbon: 
+  social: 
+    - {name: "site", link: "https://www.nccr-spin.ch/"}
+    
+- 
+  id: 4
+  name: "Standortförderung Baselland"
+  thumbnailUrl: standortfoerderung-baselland-logo-gross.png
+  team: true
+  website: https://www.economy-bl.ch/
+  ribbon: 
+  social: 
+    - {name: "site", link: "https://www.economy-bl.ch/"}
