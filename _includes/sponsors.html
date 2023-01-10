@@ -16,9 +16,9 @@
                     <div class="team-member">
                         <a href="{{member.website}}" target="_blank">
                         <div class="img-square">
-                            <img src="{{ site.baseurl }}assets/images/{{ member.thumbnailUrl }}" class="img-content-sponsor"
+                            <img src="{{ site.baseurl | append: 'assets/images/' | append: member.thumbnailUrl }}" class="img-content-sponsor"
                             alt="">
-                        </div>
+                            </div>
                         </a>
 
                         <h4>{{ member.name }} </h4>
