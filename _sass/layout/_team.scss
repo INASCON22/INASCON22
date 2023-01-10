@@ -64,7 +64,7 @@
     width: 25%;
   }
   .col-sm-4{
-    flex: 0 0 33.333333%;
+    flex: 33.333333%;
     padding: 1%;
     display: block;
     
@@ -137,6 +137,7 @@
   width: 300px;
   margin-left: auto;
   margin-right: auto;
+  object-fit: contain;
 }
 
 .img-square:after {
