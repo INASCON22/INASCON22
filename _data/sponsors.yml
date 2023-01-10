@@ -50,9 +50,7 @@
     
 - 
   id: 5
-  name: | 
-  Schweizerische Gesellschaft
-  der Verfahrens- und ChemieingenieurInnen
+  name: "Schweizerische Gesellschaft \nder Verfahrens- und ChemieingenieurInnen"
   thumbnailUrl: SGVC_Color-1.png
   team: true
   website: http://www.sgvc.ch
