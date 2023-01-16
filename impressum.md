@@ -7,11 +7,11 @@ show_tile: false
 permalink: impressum
 ---
 
-Angaben gemäß § 5 TMG
+<!-- Angaben gemäß § 5 TMG
 
-INASCON2023
+INASCON 2023
 Petersplatz 1
-4051 Basel
+4051 Basel -->
 
 <!-- Vertreten durch:
 Jakob Blahusch
@@ -25,23 +25,32 @@ Jakob Blahusch
 Butenandtstr. 5-13
 81377 München -->
 
-# Haftungsausschluss:
+# Texte & Inhalte
 
-Haftung für Inhalte
+Die Verantwortung für die Inhalte der Website liegt bei:
+INASON 2023
+Klingelbergstrasse 82 c/o INASCON 2023
+4056 Basel
+Schweiz
 
-Die Inhalte unserer Seiten wurden mit größter Sorgfalt erstellt. Für die Richtigkeit, Vollständigkeit und Aktualität der Inhalte können wir jedoch keine Gewähr übernehmen. Als Diensteanbieter sind wir gemäß § 7 Abs.1 TMG für eigene Inhalte auf diesen Seiten nach den allgemeinen Gesetzen verantwortlich. Nach §§ 8 bis 10 TMG sind wir als Diensteanbieter jedoch nicht verpflichtet, übermittelte oder gespeicherte fremde Informationen zu überwachen oder nach Umständen zu forschen, die auf eine rechtswidrige Tätigkeit hinweisen. Verpflichtungen zur Entfernung oder Sperrung der Nutzung von Informationen nach den allgemeinen Gesetzen bleiben hiervon unberührt. Eine diesbezügliche Haftung ist jedoch erst ab dem Zeitpunkt der Kenntnis einer konkreten Rechtsverletzung möglich. Bei Bekanntwerden von entsprechenden Rechtsverletzungen werden wir diese Inhalte umgehend entfernen.
+Kontakt: info-inascon2023@unibas.ch
 
-# Haftung für Links
+# Gewährleistungs- und Haftungsausschluss
+Die INASCON bemüht sich um die Richtigkeit und Aktualisierung der Informationen auf ihren Seiten. Sie übernimmt jedoch keine Gewähr für Aktualität, Korrektheit, Vollständigkeit und Qualität der bereitgestellten Informationen. Sie behält sich vor, die Informationen jederzeit und ohne Ankündigung anzupassen oder zu entfernen. Haftungsansprüche daraus sind ausgeschlossen.
 
-Unser Angebot enthält Links zu externen Webseiten Dritter, auf deren Inhalte wir keinen Einfluss haben. Deshalb können wir für diese fremden Inhalte auch keine Gewähr übernehmen. Für die Inhalte der verlinkten Seiten ist stets der jeweilige Anbieter oder Betreiber der Seiten verantwortlich. Die verlinkten Seiten wurden zum Zeitpunkt der Verlinkung auf mögliche Rechtsverstöße überprüft. Rechtswidrige Inhalte waren zum Zeitpunkt der Verlinkung nicht erkennbar. Eine permanente inhaltliche Kontrolle der verlinkten Seiten ist jedoch ohne konkrete Anhaltspunkte einer Rechtsverletzung nicht zumutbar. Bei Bekanntwerden von Rechtsverletzungen werden wir derartige Links umgehend entfernen.
+# Urheberrechte
+Sämtliche Online-Inhalte (Dokumente, Webseiten und deren Teile) auf der Website der INASCON sind urheberrechtlich geschützt und dürfen nur zum privaten, wissenschaftlichen und nicht kommerziellen Gebrauch kopiert und ausgedruckt werden.
 
-# Urheberrecht
+INASCON haftet nicht bei Schäden materieller oder immaterieller Art, welche aus dem Zugriff oder der Nutzung bzw. Nichtnutzung der veröffentlichten Informationen, durch Missbrauch der Verbindung oder durch technische Störungen entstanden sind.
 
-Die durch die Seitenbetreiber erstellten Inhalte und Werke auf diesen Seiten unterliegen dem deutschen Urheberrecht. Die Vervielfältigung, Bearbeitung, Verbreitung und jede Art der Verwertung außerhalb der Grenzen des Urheberrechtes bedürfen der schriftlichen Zustimmung des jeweiligen Autors bzw. Erstellers. Downloads und Kopien dieser Seite sind nur für den privaten, nicht kommerziellen Gebrauch gestattet. Soweit die Inhalte auf dieser Seite nicht vom Betreiber erstellt wurden, werden die Urheberrechte Dritter beachtet. Insbesondere werden Inhalte Dritter als solche gekennzeichnet. Sollten Sie trotzdem auf eine Urheberrechtsverletzung aufmerksam werden, bitten wir um einen entsprechenden Hinweis. Bei Bekanntwerden von Rechtsverletzungen werden wir derartige Inhalte umgehend entfernen.
+INASCON hat fremde, d.h. nicht auf ihren Servern oder in ihrem Einflussbereich liegende Websites, die mit dieser Website über Verknüpfungen (Hyperlinks) allenfalls verbunden sind, nicht überprüft und übernimmt keine Verantwortung für deren Inhalte.
+
+Jegliche Vervielfältigung, Wiedergabe, Weiterübertragung oder sonstiger Gebrauch der Information auf dieser Website ist für kommerzielle Zwecke untersagt.
+
 
 # Datenschutz
 
-Die Nutzung unserer Webseite ist in der Regel ohne Angabe personenbezogener Daten möglich. Soweit auf unseren Seiten personenbezogene Daten (beispielsweise Name, Anschrift oder eMail-Adressen) erhoben werden, erfolgt dies, soweit möglich, stets auf freiwilliger Basis. Diese Daten werden ohne Ihre ausdrückliche Zustimmung nicht an Dritte weitergegeben.
+Die Nutzung unserer Webseite ist in der Regel ohne Angabe personenbezogener Daten möglich. Soweit auf unseren Seiten personenbezogene Daten (beispielsweise Name, Anschrift oder E-Mail-Adressen) erhoben werden, erfolgt dies, soweit möglich, stets auf freiwilliger Basis. Diese Daten werden ohne Ihre ausdrückliche Zustimmung nicht an Dritte weitergegeben.
 Wir weisen darauf hin, dass die Datenübertragung im Internet (z.B. bei der Kommunikation per E-Mail) Sicherheitslücken aufweisen kann. Ein lückenloser Schutz der Daten vor dem Zugriff durch Dritte ist nicht möglich.
 Der Nutzung von im Rahmen der Impressumspflicht veröffentlichten Kontaktdaten durch Dritte zur Übersendung von nicht ausdrücklich angeforderter Werbung und Informationsmaterialien wird hiermit ausdrücklich widersprochen. Die Betreiber der Seiten behalten sich ausdrücklich rechtliche Schritte im Falle der unverlangten Zusendung von Werbeinformationen, etwa durch Spam-Mails, vor.
 
