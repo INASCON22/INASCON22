@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: Impressum
 description: Impressum
 nav-menu: true
