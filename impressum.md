@@ -28,9 +28,9 @@ Butenandtstr. 5-13
 # Texte & Inhalte
 
 Die Verantwortung für die Inhalte der Website liegt bei:
-INASCON 2023
-Klingelbergstrasse 82 c/o INASCON 2023
-4056 Basel
+INASCON 2023  
+Klingelbergstrasse 82 c/o INASCON 2023  
+4056 Basel  
 Schweiz
 
 Kontakt: info-inascon2023@unibas.ch
