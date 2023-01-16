@@ -28,7 +28,7 @@ Butenandtstr. 5-13
 # Texte & Inhalte
 
 Die Verantwortung für die Inhalte der Website liegt bei:
-INASON 2023
+INASCON 2023
 Klingelbergstrasse 82 c/o INASCON 2023
 4056 Basel
 Schweiz
