@@ -103,7 +103,7 @@ Bei Nutzung von Twitter und der Funktion "Re-Tweet" werden von Ihnen besuchte We
 
 Sie können Ihre Datenschutzeinstellungen bei Twitter ändern: [https://twitter.com/account/settings](https://twitter.com/account/settings)
 
-<small>Quelle: Datenschutz-Konfigurator von [mein-datenschutzbeauftragter.de](http://www.mein-datenschutzbeauftragter.de)</small>
+<!-- <small>Quelle: Datenschutz-Konfigurator von [mein-datenschutzbeauftragter.de](http://www.mein-datenschutzbeauftragter.de)</small> -->
 
 
 <img class="img-responsive feature-image" src="{{ site.baseurl }}/img/posts/cod.jpg" style="display:none">
