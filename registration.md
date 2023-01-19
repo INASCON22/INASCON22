@@ -7,7 +7,7 @@ show_tile: True
 image: sections-background/LandingPage_Screenshot_20220324_edit.png
 permalink: registration
 ---
-# Registration starts in 2023!
+# Registration starts in a few weeks!
 
 ### Who can register?
 
@@ -16,13 +16,17 @@ Would you like to gain conference experience at an early stage of your career?
 Are you interested in the facettes of nanoscience, interested in visualization techniques and seek interdisciplinary exchange? 
 
 
-#### We are honored to organize INASCON 2023 for YOU! Save the date: 22nd to 25th of August 2023. Registration will open in spring! 
+#### We are honored to organize INASCON 2023 for YOU! Save the date: 22nd to 25th of August 2023. Registration will open in February 2023! 
 
+We are pleased to announce that we are able to provide accomodation for attendees from far away to make up for a part of your travel expenses! Since there is a limited number of reservations we can make, you may want to sign up quickly – first come, first served!
+Generally, attendance for INASCON 2023 is limited: We have space for up to 100 students from all around the world. Don't wait too long!
 
-We highly encourage you to apply for a talk or to present a poster. INASCON 2023 is your perfect opportunity to practice how to present your research in an international, scientific and safe space among fellow students. 
+#### INASCON 2023 is *the* perfect opportunity to present your research and interests!
+
+We highly encourage you to apply for a talk or to present a poster. INASCON 2023 is a great chance to practice how to present your research in an international, scientific and safe space among fellow students. 
 
 *You have never made or presented a poster before? 
-You don’t know what to put on your poster since you have not started your Master's thesis/PhD yet?*
+You don’t know what to put on your poster since you haven't started your Master's thesis/PhD yet?*
 
 Don't worry. A poster is a starting point for a scientific discussion on a topic of your choice. We are looking forward to your presentation of your Bachelor's or Master's thesis, or even a research internship – anything that you deem interesting and relevant to the conference's topic: Make Nano Visible!
 
