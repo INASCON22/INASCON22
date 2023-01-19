@@ -1,5 +1,5 @@
 - 
-  id: 3
+  id: 0
   name: "Empa – Materials Science and Technology "
   thumbnailUrl: empa.png
   team: true
@@ -9,7 +9,7 @@
     - {name: "site", link: "https://www.empa.ch/"}
 
 - 
-  id: 4
+  id: 1
   name: "Standortförderung Baselland"
   thumbnailUrl: standortfoerderung-baselland-logo-gross.png
   team: true
@@ -19,7 +19,7 @@
     - {name: "site", link: "https://www.economy-bl.ch/"}
     
 - 
-  id: 5
+  id: 2
   name: "Schweizerische Gesellschaft \nder Verfahrens- und ChemieingenieurInnen"
   thumbnailUrl: SGVC_Color-1.png
   team: true
@@ -29,7 +29,7 @@
     - {name: "site", link: "http://www.sgvc.ch"}
 
 - 
-  id: 6
+  id: 3
   name: "Pfeiffer Vacuum"
   thumbnailUrl: PVLogo-4c.png
   team: true
