@@ -19,11 +19,13 @@
 				border-right: solid 1px _palette(border);
 				width: 60%;
 				z-index: 1;
+				float:left;
 			}
 
 			> :nth-child(2n) {
 				padding-left: 3em;
 				width: 40%;
+				float:left;
 			}
 
 			> .split {
