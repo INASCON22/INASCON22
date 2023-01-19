@@ -57,3 +57,13 @@
   ribbon: 
   social: 
     - {name: "site", link: "http://www.sgvc.ch"}
+
+- 
+  id: 6
+  name: "Pfeiffer Vacuum"
+  thumbnailUrl: PVLogo-4c.png
+  team: true
+  website: https://www.pfeiffer-vacuum.com/de/
+  ribbon: 
+  social: 
+    - {name: "site", link: "https://www.pfeiffer-vacuum.com/de/"}
