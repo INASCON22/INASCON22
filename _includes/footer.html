@@ -1,55 +1,6 @@
 <!-- Contact -->
 <section id="contact">
-    <div class="inner">
-        <section class="split">
-           <!--<section>
-                <div class="contact-method">
-                    <span class="icon alt fa-phone"></span>
-                    <h3>Social Media</h3>
-                    <a href="tel:{{ site.phone }}">{{ site.phone }}</a>
-                </div>
-            </section>--> 
-            <section>
-                <div class="contact-method">
-                    <span class="icon alt fa-home"></span>
-                    <h3>Address</h3>
-                    <span>
-			    		{% if site.street_address_1 %}
-					    {{ site.street_address_1 }}<br />
-					{% endif %}
-			    		{% if site.street_address_2 %}
-					    {{ site.street_address_2 }}<br />
-					{% endif %}
-			    		{% if site.street_address_3 %}
-					    {{ site.street_address_3 }}<br />
-					{% endif %}
-			    		{% if site.street_address %}
-					    {{ site.street_address }}<br />
-					{% endif %}
-					{% if site.city %}
-					    {{ site.city }},
-					{% endif %}
-					{% if site.state %}
-					    {{ site.state }} 
-					{% endif %}
-					{% if site.zip_code %}
-					    {{ site.zip_code }}<br />
-					{% endif %}
-					{% if site.country %}
-					    {{ site.country }}
-					{% endif %}
-					</span>
-                </div>
-            </section>
-	    <section>
-                <div class="contact-method">
-                    <span class="icon alt fa-envelope"></span>
-                    <h3>Email</h3>
-                    <a href="mailto:{{ site.email }}">{{ site.email }}</a>
-                </div>
-            </section>
-        </section>
-    </div>
+    
 </section>
 
 <!-- Footer -->
@@ -91,6 +42,58 @@
             </li>
             {% endif %} {% endfor %}
         </ul>
+	    
+	<div class="inner">
+        <!-- <section class="split">
+           <section>
+                <div class="contact-method">
+                    <span class="icon alt fa-phone"></span>
+                    <h3>Social Media</h3>
+                    <a href="tel:{{ site.phone }}">{{ site.phone }}</a>
+                </div>
+            </section> 
+        <section> -->
+                <div class="contact-method">
+                    <span class="icon alt fa-home"></span>
+                    <h3>Address</h3>
+                    <span>
+			    		{% if site.street_address_1 %}
+					    {{ site.street_address_1 }}<br />
+					{% endif %}
+			    		{% if site.street_address_2 %}
+					    {{ site.street_address_2 }}<br />
+					{% endif %}
+			    		{% if site.street_address_3 %}
+					    {{ site.street_address_3 }}<br />
+					{% endif %}
+			    		{% if site.street_address %}
+					    {{ site.street_address }}<br />
+					{% endif %}
+					{% if site.city %}
+					    {{ site.city }},
+					{% endif %}
+					{% if site.state %}
+					    {{ site.state }} 
+					{% endif %}
+					{% if site.zip_code %}
+					    {{ site.zip_code }}<br />
+					{% endif %}
+					{% if site.country %}
+					    {{ site.country }}
+					{% endif %}
+					</span>
+                </div>
+            </section>
+	    <section>
+                <div class="contact-method">
+                    <span class="icon alt fa-envelope"></span>
+                    <h3>Email</h3>
+                    <a href="mailto:{{ site.email }}">{{ site.email }}</a>
+                </div>
+            </section>
+        </section>
+    </div>    
+	    
         <ul class="copyright">
             <li>&copy; {{ site.title }} {{ site.subtitle }}</li>
             <li><a href="impressum.html">Impressum</a> </li>
