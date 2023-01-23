@@ -9,7 +9,7 @@
                     <h3 class="section-subheading text-muted"></h3>
                 </div>
             </div>
-            <h3>We are grateful for support by our main sponsors:</h3>
+            <h3>We are grateful for support by our sponsors:</h3>
             <div class="team-row">
                 {% for member in site.data.sponsors %}{% if member.team != null %}
                 <div class="col-sm-4">
@@ -37,36 +37,6 @@
                 </div>
                 {% endif %} {% endfor %}
             </div>
-            
-
-            <h4>Furthermore, we would like to thank:</h4>
-            <div class="team-row">
-                {% for member in site.data.small_sponsors %}{% if member.team != null %}
-                <div class="col-sm-4">
-                    <div class="team-member">
-                        <a href="{{member.website}}" target="_blank">
-                        <div class="img-square">
-                            <img src="{{ site.baseurl | append: 'assets/images/' | append: member.thumbnailUrl }}" class="img-content-sponsor"
-                            alt="">
-                            </div>
-                        </a>
-
-                        <h4>{{ member.name }} </h4>
-                        
-                        <ul class="list-inline social-buttons">
-                            {% for network in member.social %}
-                            <li>
-                                <a href="{{ network.url }}">
-                                    <i class="fa fa-{{ network.title }}"></i>
-                                </a>
-                            </li>
-                            {% endfor %}
-
-                        </ul>
-                    </div>
-                </div>
-                {% endif %} {% endfor %}
-            </div> 
 
 
             
