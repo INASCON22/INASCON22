@@ -36,8 +36,16 @@
 				padding: 20px;
 				background-color: white;
 			}
+		.sponsors{
+				display: flex;
+				flex-flow: row wrap;
+				justify-content: center;
+				align-items: center;
+				margin: 0 0 2em 0;
+		}
 		
-
+		
+		
 		@include breakpoint(xsmall) {
 			.copyright {
 				li {
