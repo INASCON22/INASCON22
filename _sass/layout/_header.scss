@@ -27,7 +27,14 @@
 		top: 0;
 		width: 100%;
 		z-index: _misc(z-index-base);
-
+		
+		.v_line{
+			display: inline-block;
+        		border-left: 2px solid #ccc;
+       			 margin: 0 1em;
+        		height: 2em;
+		}
+		
 		.logo {
 			border: 0;
 			display: inline-block;
