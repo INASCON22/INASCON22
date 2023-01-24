@@ -43,10 +43,12 @@
 			padding: 0 1.5em;
 			
 			img {
-			height: 2.5em;
 			display: inline-block;
 			margin: 0 auto;
 			vertical-align: middle;
+			width: 5em;
+			max-height: 2.5em;
+			object-fit: contain;
 			}
 		}
 		
