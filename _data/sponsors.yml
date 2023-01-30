@@ -30,6 +30,16 @@
 
 - 
   id: 3
+  name: "Paul Scherrer Institut"
+  thumbnailUrl: PSI-Logo_narrow_30k.png
+  team: true
+  website: https://www.psi.ch/en
+  ribbon: 
+  social: 
+    - {name: "site", link: "https://www.psi.ch/en"}
+
+- 
+  id: 5
   name: "Empa – Materials Science and Technology "
   thumbnailUrl: empa.png
   team: true
@@ -39,7 +49,7 @@
     - {name: "site", link: "https://www.empa.ch/"}
 
 - 
-  id: 4
+  id: 7
   name: "Standortförderung Baselland"
   thumbnailUrl: standortfoerderung-baselland-logo-gross.png
   team: true
@@ -49,7 +59,7 @@
     - {name: "site", link: "https://www.economy-bl.ch/"}
     
 - 
-  id: 5
+  id: 9
   name: "Schweizerische Gesellschaft \nder Verfahrens- und ChemieingenieurInnen"
   thumbnailUrl: SGVC_Color-1.png
   team: true
@@ -59,7 +69,7 @@
     - {name: "site", link: "http://www.sgvc.ch"}
 
 - 
-  id: 6
+  id: 11
   name: "Pfeiffer Vacuum"
   thumbnailUrl: PVLogo-4c.jpg
   team: true
