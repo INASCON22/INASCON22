@@ -49,6 +49,16 @@
     - {name: "site", link: "https://www.empa.ch/"}
 
 - 
+  id: 6
+  name: "FHNW – Fachhochschule Nordwestschweiz"
+  thumbnailUrl: fhnw_e_10mm.jpg
+  team: true
+  website: https://www.fhnw.ch/en/startseite
+  ribbon: 
+  social: 
+    - {name: "site", link: "https://www.fhnw.ch/en/startseite"}
+
+- 
   id: 7
   name: "Standortförderung Baselland"
   thumbnailUrl: standortfoerderung-baselland-logo-gross.png
