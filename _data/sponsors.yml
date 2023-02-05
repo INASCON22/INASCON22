@@ -60,6 +60,16 @@
 
 - 
   id: 7
+  name: "Nikon"
+  thumbnailUrl: Nikon_Logo.png
+  team: true
+  website: https://www.nikon.ch/de_CH/
+  ribbon: 
+  social: 
+    - {name: "site", link: "https://www.nikon.ch/de_CH/"}
+
+- 
+  id: 9
   name: "Standortförderung Baselland"
   thumbnailUrl: standortfoerderung-baselland-logo-gross.png
   team: true
@@ -69,7 +79,7 @@
     - {name: "site", link: "https://www.economy-bl.ch/"}
     
 - 
-  id: 9
+  id: 11
   name: "Schweizerische Gesellschaft \nder Verfahrens- und ChemieingenieurInnen"
   thumbnailUrl: SGVC_Color-1.png
   team: true
@@ -79,7 +89,7 @@
     - {name: "site", link: "http://www.sgvc.ch"}
 
 - 
-  id: 11
+  id: 13
   name: "Pfeiffer Vacuum"
   thumbnailUrl: PVLogo-4c.jpg
   team: true
