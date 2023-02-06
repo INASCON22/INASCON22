@@ -33,7 +33,8 @@
 		}
 		.img_sponsor {
 				display: flex;
-				width: 15em;
+				max-width: 23em;
+				max-height: 10em;
 				padding: 20px;
 				background-color: white;
 			}
