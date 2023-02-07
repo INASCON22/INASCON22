@@ -87,15 +87,16 @@
   ribbon: 
   social: 
     - {name: "site", link: "http://www.sgvc.ch"}
-
-id: 12
-  name: "Nanosurf"
-  thumbnailUrl: Nanosurf_Logo_Black.png
-  team: true
-  website: https://www.nanosurf.com/en/
-  ribbon: 
-  social: 
-    - {name: "site", link: "https://www.nanosurf.com/en/"}
+    
+-
+  id: 12
+    name: "Nanosurf"
+    thumbnailUrl: Nanosurf_Logo_Black.png
+    team: true
+    website: https://www.nanosurf.com/en/
+    ribbon: 
+    social: 
+      - {name: "site", link: "https://www.nanosurf.com/en/"}
     
 - 
   id: 13
