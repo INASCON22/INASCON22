@@ -33,7 +33,7 @@
 		}
 		.img_sponsor {
 				display: flex;
-				max-width: 23em;
+				max-width: 13em;
 				max-height: 10em;
 				padding: 40px;
 				background-color: white;
@@ -41,7 +41,7 @@
 		.sponsors{
 				display: flex;
 				flex-flow: row wrap;
-				justify-content: center;
+				justify-content: space-around;
 				align-items: center;
 				margin: 0 0 2em 0;
 		}
