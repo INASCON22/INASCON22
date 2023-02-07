@@ -107,3 +107,14 @@
   ribbon: 
   social: 
     - {name: "site", link: "https://www.pfeiffer-vacuum.com/de/"}
+  
+
+- 
+  id: 14
+  name: "SPECS"
+  thumbnailUrl: SPECS_logo_blue_blue.jpg
+  team: true
+  website: https://www.specs-group.com/specs/products/
+  ribbon: 
+  social: 
+    - {name: "site", link: "https://www.specs-group.com/specs/products/"}
