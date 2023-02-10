@@ -17,10 +17,10 @@
 		box-shadow: 0 0 0.25em 0 rgba(0, 0, 0, 0.288);
 		cursor: default;
 		font-weight: _font(weight-bold);
-		height: 3.25em;
+		height: 7em;
 		left: 0;
 		letter-spacing: _font(letter-spacing-alt);
-		line-height: 3.25em;
+		line-height: 7em;
 		margin: 0;
 		position: fixed;
 		text-transform: uppercase;
@@ -32,15 +32,19 @@
 			display: inline-block;
         		border-left: 1px solid rgb(198, 36, 41);
        			margin: auto auto;
-        		height: 2.1em;
+        		height: 4em;
 		}
 		
 		.logo_sponsors{
 			border: 0;
-			display: inline-block;
+			display: flex;
 			height: inherit;
 			line-height: inherit;
 			padding: 0 0.6em;
+			flex-flow: row wrap;
+			align-items: center;
+			align-content: center;
+			justify-content: center;
 			
 			img {
 			display: inline-block;
