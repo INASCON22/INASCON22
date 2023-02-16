@@ -18,7 +18,7 @@ Are you interested in the facettes of nanoscience, interested in visualization t
 
 #### We are honored to organize INASCON 2023 for YOU! Save the date: 22nd to 25th of August 2023. Registration opens on 17th of February 2023! 
 
-We are pleased to announce that we are able to provide accomodation for attendees from far away to make up for a part of your travel expenses! Since there is a limited number of reservations we can make, you may want to sign up quickly – first come, first served!
+We are pleased to announce that we are able to provide accomodation for attendees from far away to make up for a part of your travel expenses! Since there is a limited number of reservations we can make, you may want to sign up quickly – first come, first served! Meals like lunch, dinner and coffee breaks will be provided by us for all participants!
 
 Generally, attendance for INASCON 2023 is limited: We have space for up to 100 students from all around the world. Don't wait too long!
 
@@ -45,6 +45,11 @@ If you don't have any research experience because you are still in your Bachelor
 *Unfortunately, I cannot present a poster because I am an undergraduate student.*<br>
 *Number of your semesters you have studied so far* <br>
 *Short(!) description of why you want to go to INASCON*
+
+Click this button to sign up for INASCON 2023:
+<a href="https://form.jotform.com/230431299876364" target="_blank">
+                    <button class="reg_button"> Click here to register for INASCON 2023!<br/></button>
+</a>
  
 Still worried? Drop us a message (<a href="mailto:info-inascon2023@unibas.ch">info-inascon2023@unibas.ch</a>) – we are happy to answer your questions. 
 
