@@ -7,7 +7,7 @@ show_tile: True
 image: sections-background/LandingPage_Screenshot_20220324_edit.png
 permalink: registration
 ---
-# Registration starts in a few weeks!
+# Registration has started – sign up now!
 
 ### Who can register?
 
