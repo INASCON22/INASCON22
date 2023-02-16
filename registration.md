@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Info for Registration 
-description: Registration starts in 2023!
+description: Register now!
 nav-menu: false
 show_tile: True
 image: sections-background/LandingPage_Screenshot_20220324_edit.png
