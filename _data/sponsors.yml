@@ -57,9 +57,31 @@
   ribbon: 
   social: 
     - {name: "site", link: "https://www.fhnw.ch/en/startseite"}
-
+    
 - 
   id: 7
+  name: "Heidelberg Instruments"
+  thumbnailUrl: HIMT_logo_full.png
+  team: true
+  website: https://heidelberg-instruments.com/
+  ribbon: 
+  social: 
+    - {name: "site", link: "https://heidelberg-instruments.com/"}
+    
+
+- 
+  id: 8
+  name: "VAT AG"
+  thumbnailUrl: VAT_Company_Logo.jpg
+  team: true
+  website: https://www.vatvalve.com/
+  ribbon: 
+  social: 
+    - {name: "site", link: "https://www.vatvalve.com/"}
+
+
+- 
+  id: 9
   name: "Nikon"
   thumbnailUrl: Nikon_Logo.png
   team: true
@@ -69,7 +91,7 @@
     - {name: "site", link: "https://www.nikon.ch/de_CH/"}
 
 - 
-  id: 9
+  id: 10
   name: "Standortförderung Baselland"
   thumbnailUrl: standortfoerderung-baselland-logo-gross.png
   team: true
@@ -108,9 +130,18 @@
   social: 
     - {name: "site", link: "https://www.pfeiffer-vacuum.com/de/"}
   
-
 - 
   id: 14
+  name: "Rolic"
+  thumbnailUrl: ROLIC_BASF_LOGO_CMYK.jpg
+  team: true
+  website: https://www.basf.com/ch/de/who-we-are/BASF-in-Switzerland/group-companies/Rolic-Technologies-AG.html
+  ribbon: 
+  social: 
+    - {name: "site", link: "https://www.basf.com/ch/de/who-we-are/BASF-in-Switzerland/group-companies/Rolic-Technologies-AG.html"}
+  
+- 
+  id: 15
   name: "SPECS"
   thumbnailUrl: SPECS_logo_blue_blue.jpg
   team: true
