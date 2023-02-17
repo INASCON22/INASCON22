@@ -48,7 +48,7 @@ If you don't have any research experience because you are still in your Bachelor
 *Number of your semesters you have studied so far* <br>
 *Short(!) description of why you want to go to INASCON*
 
-Click this button to sign up for INASCON 2023:
+Are you ready?
 
 <a href="https://form.jotform.com/230431299876364" target="_blank">
                     <button class="reg_button"> Click here to register for INASCON 2023!<br/></button>
