@@ -26,7 +26,7 @@ Generally, attendance for INASCON 2023 is limited: We have space for up to 100 s
 
 #### INASCON 2023 is *the* perfect opportunity to present your research and interests!
 
-We highly encourage you to apply for a talk or to present a poster. INASCON 2023 is a great chance to practice how to present your research in an international, scientific and safe space among fellow students. 
+We highly encourage you to apply for a talk or to present a poster. INASCON 2023 is a great chance to practice how to present your research in an international, scientific and safe space among fellow students. On top of that, there will be a prize for the best poster and best talk – a camera set by Nikon!
 
 *You have never made or presented a poster before? 
 You don’t know what to put on your poster since you haven't started your Master's thesis/PhD yet?*
