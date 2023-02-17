@@ -20,7 +20,7 @@ Are you interested in the facettes of nanoscience, interested in visualization t
 
 We are pleased to announce that we are able to provide accomodation for attendees from far away to make up for a part of your travel expenses! Since there is a limited number of reservations we can make, you may want to sign up quickly – first come, first served! Meals like lunch, dinner and coffee breaks will be provided by us for all participants! The registration fee amounts to CHF 123.- . The following infographics summarizes the steps necessary to apply for hotel accomodation:
 
-<img class="about-img" src="/assets/images/20230217_infografik_hotel.png">
+<img class="registration-img" src="/assets/images/20230217_infografik_hotel.png">
 
 Generally, attendance for INASCON 2023 is limited: We have space for up to 100 students from all around the world. Don't wait too long!
 
