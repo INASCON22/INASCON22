@@ -2,7 +2,7 @@
 layout: post
 title: Info for Registration 
 description: Register now!
-nav-menu: false
+nav-menu: true
 show_tile: True
 image: sections-background/LandingPage_Screenshot_20220324_edit.png
 permalink: registration
