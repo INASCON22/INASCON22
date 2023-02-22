@@ -27,6 +27,7 @@ Generally, attendance for INASCON 2023 is limited: We have space for up to 100 s
 #### Deadlines:
 - with hotel: April 9th 
 - general attendance without hotel: May 1st
+- abstract submission for talks and posters: June 1st
 
 #### INASCON 2023 is *the* perfect opportunity to present your research and interests!
 
