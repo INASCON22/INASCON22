@@ -125,7 +125,7 @@
   name: "IMT AG"
   thumbnailUrl: IMT_logo.jpg
   team: true
-  website: https://www.imt.ch/
+  website: https://www.imt.ch/en/
   ribbon: 
   social: 
     - {name: "site", link: "https://www.imt.ch/"}
