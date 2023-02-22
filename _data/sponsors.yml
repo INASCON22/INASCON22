@@ -120,8 +120,18 @@
   social: 
     - {name: "site", link: "https://www.nanosurf.com/en/"}
     
-- 
+-
   id: 13
+  name: "IMT AG"
+  thumbnailUrl: IMT_logo.jpg
+  team: true
+  website: https://www.imt.ch/
+  ribbon: 
+  social: 
+    - {name: "site", link: "https://www.imt.ch/"}
+    
+- 
+  id: 14
   name: "Pfeiffer Vacuum"
   thumbnailUrl: PVLogo-4c.jpg
   team: true
@@ -131,7 +141,7 @@
     - {name: "site", link: "https://www.pfeiffer-vacuum.com/de/"}
   
 - 
-  id: 14
+  id: 15
   name: "Rolic"
   thumbnailUrl: ROLIC_BASF_LOGO_CMYK.jpg
   team: true
@@ -141,7 +151,7 @@
     - {name: "site", link: "https://www.basf.com/ch/de/who-we-are/BASF-in-Switzerland/group-companies/Rolic-Technologies-AG.html"}
   
 - 
-  id: 15
+  id: 16
   name: "SPECS"
   thumbnailUrl: SPECS_logo_blue_blue.jpg
   team: true
