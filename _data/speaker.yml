@@ -1,189 +1,42 @@
 - 
+
   id: 0
-  name: "von Klitzing"
-  surname: "Klaus"
+  name: "Guex"
+  surname: "Anne Géraldine"
   title: "Prof. Dr."
-  thumbnailUrl: KvK.jpg
-  affiliation: Nobel laureate <br> Max-Planck-Institute (MPI)<br >for Solid State Research <br> Stuttgart, DE
-  website: https://www.fkf.mpg.de/klitzing
-  ribbon: 
-    - {abbr: "MPI for Solid State Research", title: "MPI for Solid State Research", url: "https://www.fkf.mpg.de/klitzing"}  
-    
+  thumbnailUrl: 
+  affiliation: Oral Implantology <br> Universitäres Zentrum für Zahnmedizin <br> Basel, CH
+  website: https://www.unibas.ch/en/News-Events/News/Uni-Info/New-assistant-professor-of-oral-implantology.html
+
 
 - 
-
   id: 1
-  name: "Hell"
-  surname: "Stefan"
-  title: "Prof. Dr."
-  thumbnailUrl: stefan_hell.jpg
-  affiliation: Nobel laureate <br> Max-Planck-Institute (MPI) <br> for Multidisciplinary Sciences <br> Göttingen, DE
-  website: https://www.mpinat.mpg.de/de/hell
-
+  name: "Shahgaldian"
+  surname: "Patrick"
+  title: "Prof. Dr.
+  thumbnailUrl: 
+  affiliation: Team Leader Molecular Nanotechnology <br> FHNW <br> Muttenz, CH
+  website: https://www.fhnw.ch/en/people/patrick-shahgaldian
+  
 
 - 
 
   id: 2
-  name: "Hatzell"
-  surname: "Kelsey"
+  name: "Wootton"
+  surname: "James R."
   title: "Dr."
-  thumbnailUrl: hatzell.jpg
-  affiliation: Princeton University (PU) <br> New Jersey, US
-  website: https://www.kelseyhatzell.com/
-  ribbon: 
-    - {abbr: "Princeton University", title: "Princeton University", url: "https://www.kelseyhatzell.com/"}  
-
+  thumbnailUrl: 
+  affiliation: Quantum Error Correction <br> IBM Research <br> Zurich, CH
+  website: https://researcher.watson.ibm.com/researcher/view.php?person=zurich-JWO
+  
+  
 - 
   id: 3
-  name: "Bodnar"
-  surname: "Stanislav"
+  name: "Caneva"
+  surname: "Sabina"
   title: "Dr."
   thumbnailUrl: Bodnar.png
-  affiliation:  Walter Schottky Institute <br> Technical University <br> of Munich (TUM), DE
-  website: https://www.wsi.tum.de/views/user.php?user=180113473
+  affiliation:  Nanoelectromechanical Systems <br> Technical University <br> Delft, NL
+  website: https://www.tudelft.nl/staff/s.caneva/?cHash=dd232f64a8da7df9f3e669d51a7a3c23
 
 
-
-- 
-  id: 4
-  name: "Vargas-Barbosa"
-  surname: "Nella"
-  title: "Dr."
-  thumbnailUrl: VargasBarbosa_NM.jpg
-  affiliation: Forschungszentrum Jülich (FZJ) <br> Münster, DE
-  website: https://sites.google.com/view/theipeclab/home
-  ribbon: 
-    - {abbr: "FZ Jülich", title: "FZ Jülich", url: "https://sites.google.com/view/theipeclab/home"} 
- 
-- 
-  id: 5
-  name: "Kley"
-  surname: "Christopher"
-  title: "Dr."
-  thumbnailUrl: CSKley.png
-  affiliation: Helmholtz Center Berlin <br> for Materials and Energy (HZB)<br> Fritz Haber Institute of <br> the Max Planck Society (FHI) <br> Berlin, DE
-  website: https://www.helmholtz-berlin.de/forschung/oe/ce/photo-electrocatalysis/index_en.html 
-  ribbon: 
-    - {abbr: "Fritz Haber Institute", title: "Nanoscale Operando CO2 Photo - Electrocatalysis", url: "https://www.helmholtz-berlin.de/forschung/oe/ce/photo-electrocatalysis/index_en.html"}  
-    - {abbr: "Helmholtz Zentrum Berlin für Materialien und Energie", title: "Nanoscale Operando CO2 Photo - Electrocatalysis", url: "https://www.helmholtz-berlin.de/forschung/oe/ce/photo-electrocatalysis/index_en.html"}  
-
-- 
-  id: 6
-  name: "Riel"
-  surname: "Heike"
-  title: "Dr."
-  thumbnailUrl: Riel.jpg
-  affiliation: IBM Research Europe <br> Zurich, CH
-  website: https://researcher.watson.ibm.com/researcher/view.php?person=zurich-hei
-  #ribbon: 
-  #  - {abbr: "IBM", title: "Nanoscale Operando CO2 Photo - Electrocatalysis", url: "https://www.helmholtz-berlin.de/forschung/oe/ce/photo-electrocatalysis/index_en.html"}  
-  
-- 
-  id: 7
-  name: "Pacchioni"
-  surname: "Gianfranco"
-  title: "Prof. Dr."
-  thumbnailUrl: Pacchioni.jpg
-  affiliation: University of Milano-Bicocca (UNIMIB) <br> Milan, IT
-  website: https://qclab.mater.unimib.it/
-  #ribbon: 
-  #  - {abbr: "MPI for Solid State Research", title: "MPI for Solid State Research", url: "https://www.fkf.mpg.de/klitzing"}  
-
-- 
-  id: 8
-  name: "Schmid"
-  surname: "Sonja"
-  title: "Dr."
-  thumbnailUrl: portrait_sonjaschmid.jpg
-  affiliation: Wageningen University & Research (WUR) <br> Wageningen, NL
-  website: https://www.nanodynamicslab.nl/homenews
-
-- 
-  id: 9
-  name: "Milic"
-  surname: "Jovana V."
-  title: "Dr."
-  thumbnailUrl: JVMilicPhoto.jpg
-  affiliation: Adolphe Merkle Institute (AMI) <br> Fribourg, CH
-  website: https://jovanamilic.com/
-  ribbon: 
-    - {abbr: "AMI", title: "Adolphe Merkle Institute (AMI)", url: "https://jovanamilic.com/"}  
-
-- 
-  id: 10
-  name: "Hutter"
-  surname: "Eline"
-  title: "Dr."
-  thumbnailUrl: eline_hutter.jpg
-  affiliation: Utrecht University (UU) <br> Utrecht, NL
-  website: https://bertweckhuysen.com/team_member/dr-eline-hutter/
-
-- 
-  id: 11
-  name: "Cortés"
-  surname: "Emiliano"
-  title: "Prof. Dr."
-  thumbnailUrl: EmilianoCortes.jpg
-  affiliation: Ludwig Maximilian University <br> of Munich (LMU) <br> Munich, DE
-  website: https://www.hybridplasmonics.org/
-  
-- 
-  id: 12
-  name: "Hofmann"
-  surname: "Hagen"
-  title: "Dr."
-  thumbnailUrl: Logo.png
-  affiliation: Weizmann Institute of Science <br> Rehovot, IL
-  website: http://www.weizmann.ac.il/CSB/Hofmann/home
-  
-- 
-  id: 13
-  name: "Martynenko"
-  surname: "Irina"
-  title: "Dr."
-  thumbnailUrl: Logo.png
-  affiliation: Ludwig Maximilian University <br> of Munich (LMU) <br> Munich, DE
-  website: https://www.softmatter.physik.uni-muenchen.de/liedl_group/index.html
-- 
-  id: 14
-  name: "Moscatelli"
-  surname: "Alberto"
-  title: "Dr."
-  thumbnailUrl: Logo.png
-  affiliation: Chief Editor at Nature Nanotechnology<br> Berlin, DE
-  website: https://www.nature.com/nnano/
-  
-- 
-  id: 15
-  name: "Schreiter"
-  surname: "Anne"
-  title: "Dr."
-  thumbnailUrl: Anne_Schreiter.jpg
-  affiliation: Executive Director at German Scholars Organization e.V. (GSO)<br> Berlin, DE
-  website: https://gsonet.org/
-
-- 
-  id: 16
-  name: "Eder"
-  surname: "Moritz"
-  title: "Dr."
-  thumbnailUrl: Bild_Eder.jpg
-  affiliation: TU Wien (TUW)<br> Vienna, AT
-  website: https://sfb-taco.at/profile/?smid=3835
-- 
-  id: 17
-  name: "Pippig"
-  surname: "Diana"
-  title: "Dr."
-  thumbnailUrl: DAP.jpg
-  affiliation: Science and People Lead <br> High Throughput Screening at Roche, DE
-  website: https://de.linkedin.com/in/diana-pippig-301b6a28
-
-- 
-  id: 18
-  name: "Zupanc"
-  surname: "Jernej"
-  title: "Dr."
-  thumbnailUrl: Seyens-Jernej-Zupanc-2.jpg
-  affiliation: Visual Communication of Science at Seyens, SLO
-  website: https://www.seyens.com/jernej-zupanc/
