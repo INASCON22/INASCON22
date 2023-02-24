@@ -27,9 +27,19 @@
   ribbon: 
   social: 
     - {name: "site", link: "https://www.nccr-spin.ch/"}
+ 
+ - 
+  id: 3
+  name: "University of Basel"
+  thumbnailUrl: unibas_logo.jpg
+  team: true
+  website: https://www.unibas.ch/en.html
+  ribbon: 
+  social: 
+    - {name: "site", link: "https://www.unibas.ch/en.html"}
 
 - 
-  id: 3
+  id: 4
   name: "Paul Scherrer Institut"
   thumbnailUrl: PSI-Logo_narrow_30k.png
   team: true
