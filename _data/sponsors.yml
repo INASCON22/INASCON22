@@ -28,7 +28,7 @@
   social: 
     - {name: "site", link: "https://www.nccr-spin.ch/"}
  
- - 
+- 
   id: 3
   name: "University of Basel"
   thumbnailUrl: unibas_logo.jpg
@@ -50,7 +50,7 @@
 
 - 
   id: 5
-  name: "Empa – Materials Science and Technology "
+  name: "Empa – Materials Science and Technology"
   thumbnailUrl: empa.png
   team: true
   website: https://www.empa.ch/
