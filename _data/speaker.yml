@@ -3,38 +3,39 @@
   name: "Guex"
   surname: "Anne Géraldine"
   title: "Prof. Dr."
-  thumbnailUrl: 
+  #thumbnailUrl: 
   affiliation: Oral Implantology <br> Universitäres Zentrum für Zahnmedizin <br> Basel, CH
   website: https://www.unibas.ch/en/News-Events/News/Uni-Info/New-assistant-professor-of-oral-implantology.html
 
-
 - 
   id: 1
+  name: "Caneva"
+  surname: "Sabina"
+  title: "Prof. Dr."
+  #thumbnailUrl: 
+  affiliation:  Nanoelectromechanical Systems <br> Technical University <br> Delft, NL
+  website: https://www.tudelft.nl/staff/s.caneva/?cHash=dd232f64a8da7df9f3e669d51a7a3c23
+
+
+- 
+  id: 2
   name: "Shahgaldian"
   surname: "Patrick"
   title: "Prof. Dr."
-  thumbnailUrl: 
+  #thumbnailUrl: 
   affiliation: Team Leader Molecular Nanotechnology <br> FHNW <br> Muttenz, CH
   website: https://www.fhnw.ch/en/people/patrick-shahgaldian
   
 
 - 
-  id: 2
+  id: 3
   name: "Wootton"
   surname: "James R."
   title: "Dr."
-  thumbnailUrl: 
+  #thumbnailUrl: 
   affiliation: Quantum Error Correction <br> IBM Research <br> Zurich, CH
   website: https://researcher.watson.ibm.com/researcher/view.php?person=zurich-JWO
   
   
-- 
-  id: 3
-  name: "Caneva"
-  surname: "Sabina"
-  title: "Dr."
-  thumbnailUrl: 
-  affiliation:  Nanoelectromechanical Systems <br> Technical University <br> Delft, NL
-  website: https://www.tudelft.nl/staff/s.caneva/?cHash=dd232f64a8da7df9f3e669d51a7a3c23
 
 
