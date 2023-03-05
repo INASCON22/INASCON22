@@ -25,10 +25,18 @@
   #thumbnailUrl: 
   affiliation: Team Leader Molecular Nanotechnology <br> FHNW <br> Muttenz, CH
   website: https://www.fhnw.ch/en/people/patrick-shahgaldian
-  
 
 - 
   id: 3
+  name: "Aiello"
+  surname: "Clarice"
+  title: "Prof. Dr."
+  #thumbnailUrl: 
+  affiliation: Head of the Quantum Biology Tech (QuBiT) Lab <br> University of California <br> Los Angeles, USA
+  website: https://samueli.ucla.edu/people/clarice-aiello/
+
+- 
+  id: 4
   name: "Wootton"
   surname: "James R."
   title: "Dr."
