@@ -3,7 +3,7 @@
   name: "Guex"
   surname: "Anne Géraldine"
   title: "Prof. Dr."
-  #thumbnailUrl: 
+  thumbnailUrl: user.png
   affiliation: Oral Implantology <br> Universitäres Zentrum für Zahnmedizin <br> Basel, CH
   website: https://www.unibas.ch/en/News-Events/News/Uni-Info/New-assistant-professor-of-oral-implantology.html
 
@@ -22,7 +22,7 @@
   name: "Shahgaldian"
   surname: "Patrick"
   title: "Prof. Dr."
-  #thumbnailUrl: 
+  thumbnailUrl: user.png
   affiliation: Team Leader Molecular Nanotechnology <br> FHNW <br> Muttenz, CH
   website: https://www.fhnw.ch/en/people/patrick-shahgaldian
 
@@ -31,7 +31,7 @@
   name: "Aiello"
   surname: "Clarice"
   title: "Prof. Dr."
-  #thumbnailUrl: 
+  thumbnailUrl: user.png
   affiliation: Head of the Quantum Biology Tech (QuBiT) Lab <br> University of California <br> Los Angeles, USA
   website: https://samueli.ucla.edu/people/clarice-aiello/
 
