@@ -25,8 +25,8 @@ We are pleased to announce that **we are able to provide accomodation (bed & bre
 Generally, attendance for INASCON 2023 is limited: We have space for up to 100 students from all around the world. Don't wait too long!
 
 #### Deadlines:
-- with hotel: April 9th 
-- general attendance without hotel: May 1st
+- with hotel: ~~April 9th~~ – EXTENDED until April 28th!
+- general attendance without hotel: ~~May 1st~~ June 1st
 - abstract submission for talks and posters: June 1st
 
 #### INASCON 2023 is *the* perfect opportunity to present your research and interests!
