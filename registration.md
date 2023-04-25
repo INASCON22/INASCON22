@@ -47,11 +47,11 @@ Here are some ideas for your poster:
 - Ideas and questions on which you would like to get input from your fellow scientists
  
 
-If you don't have any research experience because you are still in your Bachelor studies, you can still apply! Just make sure to let us know in the registration form with the following text:
+<!-- If you don't have any research experience because you are still in your Bachelor studies, you can still apply! Just make sure to let us know in the registration form with the following text:
 
 *Unfortunately, I cannot present a poster because I am an undergraduate student.*<br>
 *Number of your semesters you have studied so far* <br>
-*Short(!) description of why you want to go to INASCON*
+*Short(!) description of why you want to go to INASCON* -->
 
 Are you ready?
 
