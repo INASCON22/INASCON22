@@ -1,5 +1,14 @@
 - 
   id: 0
+  name: "Meldal"
+  surname: "Morten"
+  title: "Prof. Dr."
+  thumbnailUrl: 
+  affiliation: Nobel Laureate in Chemistry for his work on click chemistry <br> University of Copenhagen<br> Copenhagen, DK
+  website: https://chem.ku.dk/ansatte/alle/?pure=en/persons/87232
+  
+- 
+  id: 1
   name: "Guex"
   surname: "Anne Géraldine"
   title: "Prof. Dr."
@@ -8,7 +17,7 @@
   website: https://www.unibas.ch/en/News-Events/News/Uni-Info/New-assistant-professor-of-oral-implantology.html
 
 - 
-  id: 1
+  id: 2
   name: "Caneva"
   surname: "Sabina"
   title: "Prof. Dr."
@@ -18,7 +27,7 @@
 
 
 - 
-  id: 2
+  id: 3
   name: "Shahgaldian"
   surname: "Patrick"
   title: "Prof. Dr."
@@ -27,7 +36,7 @@
   website: https://www.fhnw.ch/en/people/patrick-shahgaldian
 
 - 
-  id: 3
+  id: 4
   name: "Aiello"
   surname: "Clarice"
   title: "Prof. Dr."
@@ -36,7 +45,7 @@
   website: https://samueli.ucla.edu/people/clarice-aiello/
 
 - 
-  id: 4
+  id: 5
   name: "Wootton"
   surname: "James R."
   title: "Dr."
