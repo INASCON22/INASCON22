@@ -7,8 +7,6 @@ show_tile: True
 image: sections-background/LandingPage_Screenshot_20220324_edit.png
 permalink: registration
 ---
-# Registration has started – sign up now!
-
 ### Who can register?
 
 Are you a PhD, Master or Bachelor student in biology, chemistry, physics or a related discipline?
@@ -16,16 +14,16 @@ Would you like to gain conference experience at an early stage of your career?
 Are you interested in the facettes of nanoscience, interested in visualization techniques and seek interdisciplinary exchange? 
 
 
-#### We are honored to organize INASCON 2023 for YOU! Save the date: August 22nd to 25th, 2023. Registration is open now! 
+#### We are honored to organize INASCON 2023 for YOU! Save the date: August 22nd to 25th, 2023. 
 
 We are pleased to announce that **we are able to provide accomodation (bed & breakfast) for attendees from far away** to make up for a part of your travel expenses! Since there is a limited number of reservations we can make, you may want to sign up quickly – first come, first served! **Meals like lunch, dinner and coffee breaks will be provided by us for all participants!** The registration fee amounts to CHF 123.- .
 
-Generally, attendance for INASCON 2023 is limited: We have space for up to 100 students from all around the world. Don't wait too long, we only have few open spots!
+Generally, attendance for INASCON 2023 is limited: We have space for up to 100 students from all around the world.
 
 #### Deadlines:
 - with hotel: ~~April 9th~~ – EXTENDED until April 28th!
 - general attendance without hotel: ~~May 1st~~ June 1st
-- abstract submission for talks and posters: June 1st
+- **abstract submission for talks and posters: June 1st**
 
 #### INASCON 2023 is *the* perfect opportunity to present your research and interests!
 
@@ -51,10 +49,8 @@ Here are some ideas for your poster:
 *Number of your semesters you have studied so far* <br>
 *Short(!) description of why you want to go to INASCON* -->
 
-Are you ready?
-
-<a href="https://form.jotform.com/230431299876364" target="_blank">
-                    <button class="reg_button"> Click here to register for INASCON 2023!<br/></button>
+<a>
+                    <button class="reg_button"> Registration is closed now.<br/> We are excited to meet you all in August!</button>
 </a>
  
 Still worried? Drop us a message (<a href="mailto:info-inascon2023@unibas.ch">info-inascon2023@unibas.ch</a>) – we are happy to answer your questions. 
