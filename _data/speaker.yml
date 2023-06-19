@@ -6,6 +6,7 @@
   thumbnailUrl: Morten.jpeg
   affiliation: Nobel Laureate in Chemistry for his work on click chemistry <br> University of Copenhagen<br> Copenhagen, DK
   website: https://chem.ku.dk/ansatte/alle/?pure=en/persons/87232
+  title: " 'Molecular Click Adventures – A Leap from the Shoulders of Giants' "
   
 - 
   id: 0
@@ -25,6 +26,7 @@
   thumbnailUrl: Geraldine_Gues_image.jpg
   affiliation: Oral Implantology <br> Universitäres Zentrum für Zahnmedizin <br> Basel, CH
   website: https://www.unibas.ch/en/News-Events/News/Uni-Info/New-assistant-professor-of-oral-implantology.html
+  title: " 'From Nanosciences to Oral Implantology: Interdisciplinary Research to Tackle Medical Challenges' "
 
 - 
   id: 3
@@ -34,6 +36,7 @@
   thumbnailUrl: sabina_caneva_image.jpg
   affiliation:  Nanoelectromechanical Systems <br> Technical University <br> Delft, NL
   website: https://www.tudelft.nl/staff/s.caneva/?cHash=dd232f64a8da7df9f3e669d51a7a3c23
+  title: " 'Multifunctional Nanopores for Single-Molecule Studies' "
 
 
 - 
@@ -44,6 +47,7 @@
   thumbnailUrl: Patrick_S.jpeg
   affiliation: Head of Molecular Nanotechnology <br> FHNW <br> Muttenz, CH
   website: https://www.fhnw.ch/en/people/patrick-shahgaldian
+  title: " 'In Silica Protein Engineering towards Nanobiotechnology and Nanomedicine' "
 
 - 
   id: 5
@@ -53,6 +57,7 @@
   thumbnailUrl: Aiello.jpg
   affiliation: Head of the Quantum Biology Tech (QuBiT) Lab <br> University of California <br> Los Angeles, USA
   website: https://samueli.ucla.edu/people/clarice-aiello/
+  title: " '“Quantum Biology”: how nature harnesses quantum processes to function optimally, and how might we control such quantum processes to therapeutic advantage' "
 
 - 
   id: 6
@@ -62,6 +67,7 @@
   thumbnailUrl: james_wootton_image.jpg
   affiliation: Quantum Error Correction <br> IBM Research <br> Zurich, CH
   website: https://researcher.watson.ibm.com/researcher/view.php?person=zurich-JWO
+  title: " 'Experimenting with Quantum Error Correction on Near-Term Quantum Computers' "
   
   
 
