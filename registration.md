@@ -49,9 +49,9 @@ Here are some ideas for your poster:
 *Number of your semesters you have studied so far* <br>
 *Short(!) description of why you want to go to INASCON* -->
 
-<a href="https://form.jotform.com/230431299876364" target="_blank">
+<!-- <a href="https://form.jotform.com/230431299876364" target="_blank">
                     <button class="reg_button"> Registration is closed now.<br/> We are excited to meet you all in August!</button>
-</a>
+</a> -->
  
 Still worried? Drop us a message (<a href="mailto:info-inascon2023@unibas.ch">info-inascon2023@unibas.ch</a>) – we are happy to answer your questions. 
 
